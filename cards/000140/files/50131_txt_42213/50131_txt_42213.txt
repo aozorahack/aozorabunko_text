@@ -1,0 +1,467 @@
+アーサー王物語
+KING ARTHUR'S ROUND TABLE
+テニソン　Tennyson
+菅野徳助、奈倉次郎訳
+
+-------------------------------------------------------
+【テキスト中に現れる記号について】
+
+［＃］：入力者注　主に外字の説明や、傍点の位置の指定
+　　　（数字は、JIS X 0213の面区点番号またはUnicode、底本のページと行数）
+（例）※［＃「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28］
+-------------------------------------------------------
+
+［＃１字下げ］叢書序［＃「叢書序」は中見出し］
+
+　本叢書は洽ねく大家の手に成るもの、或は青年の必讀書として世に傳はるものゝ中より、其内容文章共に英文の至珍とすべく、特に我青年諸氏に利益と快樂とを與ふるものを撰拔せり。
+　英語を學ぶに當り、文法字義を明かにし、所謂難句集に見る如き短文を攻究するの要あるは云ふまでもなしと雖も、亦可成多く一篇を成せる名家の著を讀み、英文に對する趣味を養ひ、不知不識其の豐富なる語類成句に習熟することを怠るべからず。前者は專ら學課として教師の指導に待つべきも、後者は學生諸子自ら講學の餘暇を利用して之を心掛くべきなり。著者等は親しく學生諸子に接し、教場以外獨習の助けとなるべきものゝ要求を知れり、是れ本叢書刊行の企ある所以にして、其冊子の小なるも諸子が携帶の便を計りたればなり。
+　直譯なるもの及び之れと密接の關係ある不完全なる和譯英字書の譯語を其儘に用うるの弊害世に知られて、英學界の呪詛となりたれども、單に代名詞、助動詞等の譯し振りを變じたるのみにして、種々の事情より此弊未だ一掃せられず、此形式的譯法は原文の意義を發揮するに於て甚だ不完全のみならず、諸子一度此習癖に染まば修學上の害測り知るべからざるものあらん。又之れと全く反對の自由なる意譯法は、單に譯文として見る時は兎に角、諸子が修學の助けとして遺憾甚だ多し。著者等は原文の成句成文を單位として其意義を十分に譯出し、邦語の語法の許す限りは原文の一語をも忽かせにせざらんことを努め、且つ譯文中に屡々原文を※［＃「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28］入して譯文との關係を示し、又其※［＃「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28］入の原文は直ちに和文英譯の參考たらんことに意を用ゐたり。盖し是れ至難の業、茲には著者等の意のある所を一言し、如何に之れに成功したるかは諸子の判斷に委せんとす。
+　最後に諸子の注意を促さんに、原文と譯文とを對照して其意義を解したるのみに放擲せば、諸子の惱中に留まるは恐らく譯文にして原文にあらざらん、是れ英文を讀むと稱するも其實邦文を讀みたるものなり。著者等は諸子に切言す、相對照して其意義を明かにしたる後更に原文のみを數回音讀して其印象を得られんことを、且つ譯文によりて和文英譯を試みられなば頗る有益の練習となり、著者等が此微々たる盡力を最大に利益に應用するものと云ふべし。
+［＃地から１字上げ］譯註者識
+
+　　　　　　　　――――――
+　　　　　　　　　　注意
+　譯解の都合上原書の一パラグラフを幾段にも分つの必要を生ぜり、但し段落の初行を一字劃右に寄せたるが原書に於けるパラグラフの始めと知るべし。
+［＃改丁］
+
+［＃５字下げ］本篇緒言［＃「本篇緒言」は中見出し］
+
+　譯者は本叢書第六篇『無人島日記』の緒言に於て、『ロビンソン、クルーソー漂流記』は冐險的、商業的、實際的なるアングロサキソンの特性を具體にしたるものなることを云へり。然れども是等の特色は未だ以て偉大なる國民を形成するに足らず、更に個人の品性を堅實にし、國民の理想を高遠ならしむる、道徳的、靈性的勢力の大なるものあるを要す。譯者は茲に本篇『アーサー王物語』に於て、アングロサキソン人種をして眞に偉大なる國民たらしめたる、更に重要にして根本的なる其性格理想の幾分を諸子に紹介するの機を得たるを悦ぶ。
+　アーサー王圓卓士の物語は、五世紀の半ばより數世紀に亘れる、ブリトン、アングロサキソン、兩人種が苦鬪中の事蹟に起原し、十二世紀の半ば頃初めてヂヨフレー、オブ、マンマスの『ブリトン王列傳』中に記されたるもの正確なる歴史的考證を欠くと雖も、不思議にも、アングロサキソン人種の武士道的理想は此漠然たるケルティツク王の口碑を藉りて表現し、アーサー王物語は、恰も彼の煙の如き星雲が幾百千年の時を經て次第に爛然たる星宿となるが如く、屡々詩となり文となり、マローリーの散文（Morte D'Arthur）に映じ、スペンサーの詩（Faerie Queene）に輝き、將さにミルトンのエピツク（epic）とならんとして果さず、終に十九世紀の大詩人テニソン卿の靈筆によりて The Idylls of the King となり、文學界の不滅なる明星として天下の人其光芒を仰ぐに至れり。
+　本篇は、『十九世紀の理想を以て詠じたる武士道詩』と稱せらるる此 The Idylls of the King の梗概の一部也。紙數限りありて其全體を對譯する能はざるを憾みとすれども、本篇の收むる所亦自ら一の物語を成せり。以て英國武士道の一班を窺ふを得べく且つ諸子が後日テニソンの原作を閲讀するの手引となすに足らん。
+［＃地から３字上げ］譯註者識
+
+　　　　　　　――――――
+［＃改丁］
+
+［＃ここから１字下げ］
+［＃ここから大見出し］
+JUVENILE ENGLISH LITERATURE.
+
+　青年英文學叢書
+［＃ここで大見出し終わり］
+
+［＃ここから２字下げ］
+［＃ここから中見出し］
+KING ARTHUR'S ROUND TABLE.
+
+　アーサー王物語
+［＃ここで中見出し終わり］
+
+　　　　――――
+
+［＃ここから小見出し］
+GARETH AND LYNETTE.
+
+　　ゲーレスとリネツトの卷
+［＃ここで小見出し終わり］
+［＃ここで字下げ終わり］
+
+　It was in the old days of England, when instead of one King, there were many, who divided the country between them, and constantly made war upon each other, to increase their possessions.
+（譯）之れは英吉利の昔しの話［＃「之れは英吉利の昔しの話」に傍線］（it was in the old days of England）、國に一王の今とは違ひ［＃「國に一王の今とは違ひ」に傍線］（when instead of one king）國土を分つ數多の君々あつて［＃「國土を分つ數多の君々あつて」に傍線］（there were many, who divided the country between them）、己が領地を擴めやうと［＃「己が領地を擴めやうと」に傍線］（to increase their possessions）干戈を交えぬ日はなかつた［＃「干戈を交えぬ日はなかつた」に傍線］（constantly made war upon each other）。
+
+　The noblest of all these Kings was Arthur. He was the son of Uther Pendragon, and he succeeded to the throne at a very early age, though not without great trouble, as the knights and barons said they would not be ruled over by a “beardless boy,” and if he wanted his crown he might fight for it.  However, by the aid of an old man named Merlin, who was supposed to have magic powers, the rising insurrection was stopped, and young King Arthur was crowned with great pomp in London.
+（譯）是等諸王の最も尊ふときはアーサー王である、ユーサー、ペンドラゴンの子にして弱冠にして［＃「弱冠にして」に傍線］（at a very early age）王位を繼ぎたるが、領内の士、貴族共、何條『無髯の小童（こわらべ）』が配下に立たうや［＃「『無髯の小童（こわらべ）』が配下に立たうや」に傍線］（would not be ruled over by a “beardless boy”）、王冠欲しくば［＃「欲しくば」に傍線］（if he wanted）劍の先で取つて見よ［＃「劍の先で取つて見よ」に傍線］（he might fight for it）と云ふ勢ひ［＃「云ふ勢ひ」に傍線］（as……said）、其困難一方ならずであつた［＃「其困難一方ならずであつた」に傍線］（not without great trouble）。されども、マーリンと云へる、不思議の術ありと思はれたる［＃「不思議の術ありと思はれたる」に傍線］（who was supposed to have magic powers）一老翁の助力に依つて、起り立つ叛亂茲に鎭まり［＃「起り立つ叛亂茲に鎭まり」に傍線］（the rising insurrection was stopped）、年若きアーサー王は儀式盛かんに［＃「儀式盛かんに」に傍線］（with great pomp）龍動にて王冠を戴く事になつた。
+
+　The King proved himself able not only to take the crown, but to keep it, and the other Kings found they had to be very respectful to him, and very careful not to encroach on his boundaries.
+（譯）此王、唯に王冠を獲るのみか之を保有するの力あること明かになつて［＃「力あること明かになつて」に傍線］（proved himself able）、他の王達も心して彼を敬し［＃「心して彼を敬し」に傍線］（to be very respectful to him）、苟めにも其の國境を侵してはならず［＃「苟めにも其の國境を侵してはならず」に傍線］（very careful not to encroach on his boundaries）と思ひ知つた［＃「思ひ知つた」に傍線］（found）。
+
+　For the encouragement of feats of arms and all sorts of bravery, he founded the brotherhood of the Knights of the Round Table, and any man who wished to join it had first to prove his worth in tournament or fight.  They had also to take this oath: --
+（譯）武藝を練り義勇の行を勵まさんと［＃「武藝を練り義勇の行を勵まさんと」に傍線］（for the encouragement of feats of arms and all sorts of bravery）王は圓卓士の義團を建て［＃「王は圓卓士の義團を建て」に傍線］（he founded the brotherhood of the Knights of the Round Table）、苟も之れに加らうとするものは試合なり實戰なり先づ其の力を證すべきものと定めた［＃「先づ其の力を證すべきものと定めた」に傍線］（had first to prove his worth）。勇士等は又斯く誓言を立つべきであつた、―
+
+［＃ここから１字下げ、折り返して３字下げ］
+“To reverence the King as if he were
+Their conscience, and their conscience as their King;
+To break the heathen, and uphold the Christ;
+To ride abroad redressing human wrongs;
+To speak no slander, no, nor listen to it;
+To honour his own word, as if his God's;
+To love one maiden only, cleave to her,
+And worship her by years of noble deeds,
+Until they won her.”
+［＃ここで字下げ終わり］
+　　　　　　　　　譯
+［＃ここから１字下げ］
+我等が尊ふとむ王は我等の良心、
+我等が重んずる良心は我等の王。
+邪教を挫き、基督を奉じ。
+出でゝ人の寃苦を救ひ。
+誣言を語らず、誣言に聽かず。
+神の言の如く我言を守り。
+一人の少女を愛して心移さず、
+其愛を得るまで、義勇の功幾年を積んで、
+我戀人に奉ずべし。
+［＃ここで字下げ終わり］
+（註）To reverence the King より as their King まで文字通りにすれば、王が彼等の良心なるが如く王を尊重し、又彼等の良心が彼等の王なる如く良心を尊重すべし（to reverence their conscience as their King＝to reverence their conscience as if it were their King）、即ち此圓卓士の義團は王の指導に從ふこと自己の良心の指導に從ふ如くし、又自己の良心の指揮を重んずること王の權威に服するが如くすべきの義にして、此段忠君赤誠の精神を表明せるもの也。
+　To break より the Christ まで譯文の如く別に字解を要せざるが、是れ所謂破邪顯正の誓ひを表明したるもの。
+　To ride より human wrongs までは文字通りには、人の寃苦を救濟しつゝ遠く騎り出づべし、也。我封建時代と同じく諸侯各所に割據して戰を常とし、治安下に布かず、野武士強盜の類横行して良民堵に安んぜず、殊に老幼婦女の奇禍に罹かるもの頗る多し、武者修行と稱して諸國を遍歴し其の難を救ふを以て心ある武士の務めとなしたり、是れ所謂強きを挫き弱を助くる義侠の精神を表明するもの。
+　To speak……listen to it は字義の解釋を要せざるべきも、是れ佛教の所謂不妄語戒に含有するものにて、英語に謂ふ justice（不十分ながら、公正とか正義とか譯すべきもの）の精神を表明せるもの也。
+　To honor より God's に至る一行は、武士に二言なしの精神也。
+　To love……won her の三行の中、cleave to her は愛する女に我愛を傾けて變わらざるの意、worship her by years of noble deeds は幾年高義の行爲を以て戀人に誠を表すと云ふの義也。此三行は武士の婦人を尊敬する精神且つ一夫一婦の主義を表明したるもの、英詩人 Dryden の Alexander's Feast なる詩中に
+［＃ここから２字下げ］
+Happy, happy, happy pair!
+　None but the brave,
+　None but the brave,
+None but the brave deserves the fair!
+愛でたき、愛でたき、愛でたき配偶！
+　勇士の外に何人も、
+　勇士の外に何人も、
+佳人の良※［＃「耒＋禺」、第3水準1-90-38］は唯勇士のみ！
+［＃ここで字下げ終わり］
+と云へる如く當時の武士等は其の勇侠の行爲を以て美人の心を得、美人は又勇侠なる武士を以て男の花となしたり、されば戀愛と冐險とを骨子とせる彼の romance なるものは主として此等の事蹟を傳ふ。
+　譯者曰く、此條の解説冗長に似たるも、是れ英國武士道の精髓を記したるもの、本篇の原書とも見るべき Tennyson の Idylls of the King は此精神を具體に示しゝものにして、本篇を解するの鍵なるを以て煩を厭はず特に讀者の注意を促さんとするの老婆心也、讀者諒せよ。
+
+　The fame of the Table Round was spread far and wide, and the secret ambition of many a young man was that some day he might be found worthy to join it.
+（譯）圓卓團の名聲［＃「圓卓團の名聲」に傍線］（the fame of the Table Round）遍ねく聞こえ渡つて［＃「遍ねく聞こえ渡つて」に傍線］（was spread far and wide）、許多の青年、いつかは［＃「いつかは」に傍線］（some day）其座に連なるの譽れを得んものをと［＃「其座に連なるの譽れを得んものをと」に傍線］（he might be found worthy to join it）心密かに大望を懷いた［＃「心密かに大望を懷いた」に傍線］（the secret ambition）。
+（註）the secret ambition より終まで文字通りには、幾多の青年の秘めたる大望は已れ何日かは之れに加はるの人物と知られ度き事であつた、也。
+
+　There was a youth named Gareth, who lived at home with his mother, who was Queen of Orkney.  He was much the youngest of all the boys, and his mother clung to him and wanted to keep him with her as long as she could, especially as her husband, old King Lot, was childish and paralyzed, and could not help her in any way.
+（譯）偖此處に一人の若者あり、名をゲーレスと呼ばれ、家に在つて［＃「家に在つて」に傍線］（at home）其の母オルクニーの王妃と共に住まつて居た。此若者は兄弟中遙かに年の違ふ末の子で［＃「此若者は兄弟中遙かに年の違ふ末の子で」に傍線］（he was much the youngest of all the boys）、母は此兒に愛着し［＃「此兒に愛着し」に傍線］（clung to him）、何時迄も［＃「何時迄も」に傍線］（as long as she could）己が手許に置かうとした［＃「己が手許に置かうとした」に傍線］（wanted to keep him with her）、取り分け［＃「取り分け」に傍線］（especially）其の夫（つま）ロツト王年老ひて小供に歸へり［＃「小供に歸へり」に傍線］（was childish）、中風に成つて手足が利かず［＃「中風に成つて手足が利かず」に傍線］（paralyzed）、何の用にも立たなかつた［＃「何の用にも立たなかつた」に傍線］（could not help her in any way）ので。
+
+　But the boy's one idea was to go to the Court, win great fame for himself, and be one of the splendid Table Round.  He was always begging his mother to let him go, and she always had some good reason why he should stay at home.  Sometimes she said he was too young, at others that it was cruel to leave her alone.  Still, day after day he persisted, and she began to see that he was growing moody and discontented.
+（譯）然るに若者は王城に上り［＃「王城に上り」に傍線］（to go to the Court）、大に名を揚げて［＃「大に名を揚げて」に傍線］（to［＃「to」は斜体］ win great fame for himself）譽れ高き圓卓の一勇士にならうと［＃「譽れ高き圓卓の一勇士にならうと」に傍線］（to［＃「to」は斜体］ be one of the splendid Table Round）只管に思ひ込んだ［＃「只管に思ひ込んだ」に傍線］（one idea was……）。ゲーレスは常に母に暇を乞ふて止まなかつた［＃「暇を乞ふて止まなかつた」に傍線］（was always begging……to let him go）が、母は又何とか道理（ことはり）を説いて何時も彼を家に引き留むるのである［＃「母は又何とか道理（ことはり）を説いて何時も彼を家に引き留むるのである」に傍線］（she always had some good reason why he should stay at home）母は、ゲーレスが餘りに若しと云ふこともあり［＃「こともあり」に傍線］（sometimes）、また［＃「また」に傍線］（at others）母を一人殘すのは無情（つれない）仕打ち［＃「無情（つれない）仕打ち」に傍線］（was cruel）と云ふこともある。でもゲーレスは毎日切求（せがん）で止まず［＃「ゲーレスは毎日切求（せがん）で止まず」に傍線］（day after day he persisted）、して彼が（日増しに）機嫌惡るく［＃「機嫌惡るく」に傍線］（moody）不平に［＃「不平に」に傍線］（discontented）成り行く［＃「成り行く」に傍線］（growing）のに母は氣が付いた［＃「のに母は氣が付いた」に傍線］（began to see that……）。
+
+　So, poor woman, she hit on a plan which she hoped would settle it once for all.  She would tell him he might go, but on one condition--that condition should be an impossible one; and so the next time Gareth began to beg and implore her not to keep him wasting his youth at home, she said:
+（譯）母は之れに困うじ果て［＃「之れに困うじ果て」に傍線］（so, poor woman）、一計を思ひ付き［＃「一計を思ひ付き」に傍線］（hit on a plan）それで［＃「それで」に傍線］（which）すつぱり［＃「すつぱり」に傍線］（once for all）此事が片付かうと望みを掛けた［＃「此事が片付かうと望みを掛けた」に傍線］（hoped to settle it）。（して心に思ふたに、）行くも可し［＃「行くも可し」に傍線］（he might go）、但し［＃「但し」に傍線］（but）一つの約束あり［＃「一つの約束あり」に傍線］（on one condition）とゲーレスに云はう［＃「云はう」に傍線］（would tell）――其約束はとても出來ないものにしやう［＃「とても出來ないものにしやう」に傍線］（should be an impossible one）。斯くてゲーレスが又も［＃「又も」に傍線］（the next time）、己れを家に止めて盛りの年を空だにせぬやう［＃「己れを家に止めて盛りの年を空だにせぬやう」に傍線］（not to keep him wasting his youth at home）切りに母に乞ひ求むるや［＃「切りに母に乞ひ求むるや」に傍線］（began to beg and implore）、母は云ふた、――
+
+［＃ここから２字下げ、折り返して３字下げ］
+“‘Ay, go then, an ye must: only one proof,
+Before thou ask the King to make thee knight,
+Of thine obedience and thy love to me,
+Thy mother--I demand.’
+And Gareth cried,
+‘A hard one, or a hundred, so I go.
+Nay!--quick--the proof to prove me to the quick!’”
+［＃ここで字下げ終わり］
+　　　　　　　　　譯
+『是非とならば行くも可し、
+唯一つ、王に求めて士となるに先ち、
+母に對する孝と愛との證かしを見たし。』
+ゲーレスは叫びぬ、
+『如何なる證かしにても、一つと云はず、
+百の證かしも、行けだにすれば、
+いざ――早く――命ちの限り、
+我心證かす證かしをすべし。』
+（註）Ay＝yes.  then はゲーレスの願ひを聽き終つて夫れに應ずる言葉にて『然らば』の意、an ye must＝if you must go.  only one proof より I demand に至る文字の順序は before thou ask the King to make thee Knight, I demand only one proof of thine obedience and love to me, thy mother となり、文字に從つて譯すれば、汝がアーサー王に己れを士にせんことを求むるに先ち、母たる我に對する汝が孝と愛との唯一つの證據を我は要求す、となる、但し thine obedience は thy obedience （＝your obedience） なるを音調の爲め變じたるなり。so I go＝so that （＝if＝provided） I may go.  the proof to prove me to the quick＝I will give you the proof, etc. ――我が御身に對する孝と愛とを證する爲めには如何なる辛らき證據にても立つることを辭せず、の意。
+
+　And what do you think the test was?  That he was to go in disguise to the Court and ask leave to serve in the kitchen, in return for his food; not to tell his name, however much he might be pressed, and to stay in that position for twelve months and a day.  Truly a hard condition for any young man of spirit.
+（譯）して其試めしは何事であつたらう［＃「其試めしは何事であつたらう」に傍線］（what do you think the test was?）。それはゲーレスが身を窶して［＃「身を窶して」に傍線］（in disguise）王宮に趣き、其の食ひ扶持の償ひに［＃「其の食ひ扶持の償ひに」に傍線］（in return for his food）臺所奉公を願ひ出で［＃「臺所奉公を願ひ出で」に傍線］（ask leave to serve in the kitchen）、どう迫まられやうとも［＃「どう迫まられやうとも」に傍線］（however much he might be pressed）其の名を明かさず、十二ヶ月と一日の間は同じ勤めをして居ねばならぬ［＃「同じ勤めをして居ねばならぬ」に傍線］（to stay in that position）と云ふのであつた。苟も氣象勝ぐれた若者には［＃「苟も氣象勝ぐれた若者には」に傍線］（for any young man of spirit）眞に辛らき約束である。
+
+　Gareth thought for a while, and then accepted the condition.  “For,” said he, “the thrall in person may be free in soul.  And I shall see the jousts.”  The Queen was very sorry she had yielded so far as to make a condition; she had hoped that Gareth would refuse indignantly; but the mischief was done.
+（譯）ゲーレスも少時（しばし）は考へてそして其の約束を承諾した。『身は奴隷でも心に自由なからうや［＃「身は奴隷でも心に自由なからうや」に傍線］（for the thrall in person may be free in soul）。して馬上の試合ひが見られる［＃「馬上の試合ひが見られる」に傍線］（I shall see the jousts）』とゲーレスは云つた。王妃は約束を云ひ出すまでに我が意を枉げたを今更に殘念がつた［＃「約束を云ひ出すまでに我が意を枉げたを今更に殘念がつた」に傍線］（was very sorry she had yielded so far as to make a condition）、母はゲーレスが腹打立てゝ卻けやうと思ふたから［＃「母はゲーレスが腹打立てゝ卻けやうと思ふたから」に傍線］（she had hoped that Gareth would refuse indignantly）。されど今となつては詮術なかつた［＃「今となつては詮術なかつた」に傍線］（the mischief was done）。
+（註）for the thrall 云々の for は『……心は自由なるを得べきが故に』と下より讀み返へすべきなれども譯文の都合にて上の如くせり、the mischief was done は文字通りには、害は成されたり、即ち取り返へしがつかなかつた、なり。
+
+　Early one morning Gareth left the castle, with two men who had waited on him since his birth, and set out on his journey.  They were all three disguised as peasants, with rough, poor clothes, and met with no notice or adventures on their way.  They knew the King was holding his Court at Camelot this year.  He always kept the festival of Whitsuntide with great splendour, but not always in the same place.  Camelot was the town we now call Winchester, and it was the capital of Arthur's kingdom.
+（譯）或日朝早くゲーレスは居城を立ち、誕生の其日より自分に仕へた［＃「誕生の其日より自分に仕へた」に傍線］（who had waited on him since his birth）二人の家來を供に連れて［＃「供に連れて」に傍線］（with）其の旅路に上つた［＃「其の旅路に上つた」に傍線］（set out on his journey）。主從三人粗末な見すぼらしい衣服を着けて［＃「粗末な見すぼらしい衣服を着けて」に傍線］（with rough, poor clothes）、百姓に身を窶した［＃「百姓に身を窶した」に傍線］（disguised as peasants）、して其道中［＃「其道中」に傍線］（on their way）人目に着かず［＃「人目に着かず」に傍線］（met with no notice［＃「met with no notice」は底本では「met no notice」］）又之れぞと云ふこともなかつた［＃「之れぞと云ふこともなかつた」に傍線］（no［＃「no」は斜体］）adventures）。彼等はアーサーが此年カメロツトに在つて政を聽かるゝ由［＃「政を聽かるゝ由」に傍線］（was holding his Court）承知して居る。王は降靈節の祝祭を［＃「降靈節の祝祭を」に傍線］（the festival of Whitsuntide）頗る盛んに行はるゝが常である［＃「頗る盛んに行はるゝが常である」に傍線］（always kept……with great splendour）が、場所は何時でも同じ處とは限らなかつた。カメロツトは今ウインチエスターと云ふ都會であつて當時アーサー王が領土の首府であつた。
+（註）Whitsuntide は四月初旬に當る基督復活祭五十日後に行はれ、詳しく云へば聖靈降臨祭と譯すべきものなり。
+
+　As they neared the city, the serving-men were struck with amazement at the beauty and grandeur of the towers and roofs as they glistened in the sunshine.  It seemed to them an enchanted city, and as they called to mind the strange stories of Merlin and his doings, they grew afraid and begged Gareth to turn back.  But he only laughed at them, and so they came on to the great gate, which was a perfect marvel of carving.
+（譯）一同其都に近づくと、供人等は［＃「供人等は」に傍線］（serving-men）高樓大廈日光に眩ばゆくて［＃「高樓大廈日光に眩ばゆくて」に傍線］（as they glistened in the sunshine）其の華麗壯大なるに［＃「華麗壯大なるに」に傍線］（at the beauty and grandeur）膽を潰した［＃「膽を潰した」に傍線］（were struck with amazement）。其れは魔術で現はれた都のやうで［＃「其れは魔術で現はれた都のやうで」に傍線］（It seemed to them an enchanted city）、マーリンや其の魔法の不思議な話しを思ひ出して［＃「思ひ出して」に傍線］（as they called to mind）、氣味惡るくなり［＃「氣味惡るくなり」に傍線］（grew afraid）、立ち去らんとゲーレスに願つた。されどゲーレスは兩人の願ひを唯一笑に附した［＃「兩人の願ひを唯一笑に附した」に傍線］（laughed at them）、かくて一同大門まで遣つて來たが、其門は彫刻の美を極めて愕くと云ふも愚かであつた［＃「其門は彫刻の美を極めて愕くと云ふも愚かであつた」に傍線］（which was a perfect marvel of carving）。
+（註）perfect marvel of carving は perfectly marvelous work of carving 即ち全く愕くべき彫刻、なり。
+
+　High up in the centre there was the statue of the Lady of the Lake, imposing and beautiful, and in one hand there was a sword, and in the other a censer, while on her breast was the sacred fish, the symbol of Christianity.  To right and left of this central figure were carved scenes showing Arthur's victories in battle.  They passed under this wonderful gateway, and asked the way to the great hall.
+（譯）中央に高く『湖の仙女』の立像あつて、凛々しく美はしく［＃「凛々しく美はしく」に傍線］（imposing and beautiful）、片手には一振りの劍、又片手には一箇の香爐を［＃「一箇の香爐を」に傍線］（a censer）持ち、其の胸の上には基督教の記標［＃「記標」に傍線］（symbol）たる聖魚が懸かつて居る。此像を中央として右左には［＃「此像を中央として右左には」に傍線］（to right and left of this central figure）アーサー王の勝利を示めす戰場の光景が彫んである［＃「アーサー王の勝利を示めす戰場の光景が彫んである」に傍線］（were carved scenes showing Arthur's victories in battle）。三人は此驚くべき城門をくぐつて大舘（やかた）への道を尋ねた。
+（註）the Lady of the Lake は Tennyson の Idylls of the King 即ち此書の原詩中に基督教會を代表す。sacred fish――古代の基督教信者が其の記標として用ひたるもの、蓋し希臘語の魚に當る語は英語のJesus Christ, Son of God, Savior に相當する希臘語の頭字を集めたるものと同一なるより起りたるものなり、即ち其語はΙΧΘΥΣ也。
+
+　Now it was Arthur's custom not to sit down to dinner till he had seen some adventure.
+（譯）さてもアーサー王の慣はしとして、何ぞ異常の事を［＃「何ぞ異常の事を」に傍線］（some adventure）見ぬ内は晝食の席に着かれなかつたのである。
+
+　As Sir Gawaine, one of the knights, was gazing idly out of the window, he saw the three men approaching, and he went to the King and said: “Sire, go now to your dinner, for here comes the adventure.”
+（譯）勇士の一人サー、ガウェーンが譯けもなく［＃「譯けもなく」に傍線］（idly）窓より外を眺めて居たが、三人の近づき來るを見、王の許に行つて云つた、『我君、今日の珍しきこと出で來ましたれば［＃「今日の珍しきこと出で來ましたれば」に傍線］（for here comes the adventure）いざ晝食に行かせられよ。』
+
+　It was rather clever of Gawaine, for it could have been nothing very uncommon, as strangers were constantly coming to the Court on some pretext or other.
+（譯）之れはガウェーンの機轉と云ふもの［＃「之れはガウェーンの機轉と云ふもの」に傍線］（it was rather clever of Gawaine）、と云ふ譯は、何とかかとか云ふて［＃「何とかかとか云ふて」に傍線］（on some pretext or other）王城に見知らぬ人の來ぬ日とては無かつたから［＃「王城に見知らぬ人の來ぬ日とては無かつたから」に傍線］（as strangers were constantly coming）、其れが何も珍らしい事と限つた譯けでもなかつたのに。
+
+　Then the great Table Round was filled with a splendid company of brave and handsome knights, and the King sat in the midst.
+（譯）斯くて例の大なる圓卓には勇ましい姿優なる武士等犇し々々と綺羅星の如く居並んだ［＃「勇ましい姿優なる武士等犇し々々と綺羅星の如く居並んだ」に傍線］（was filled with a splendid company of brave and handsome knights）、して王は其の眞ん中に着座した。
+
+　The three men came into the hall.  Gareth was in the middle, and though he was so tall and well grown, he leaned on the shoulders of the others, as if he were weak and ill.  The company made way for them, though they stared a great deal, and they went straight up to the King.
+（譯）三人の者は此廣間へと入り來つた。ゲーレスは二人の間に［＃「二人の間に」に傍線］（in the middle）あつて、丈高く倔強の若者［＃「倔強の若者」に傍線］（well grown）と見ゆるに［＃「に」に傍線］（though）、宛がら病み弱つた人の如く［＃「宛がら病み弱つた人の如く」に傍線］（as if he were weak and ill）二人の肩に凭たれて居る。並み居る人々［＃「並み居る人々」に傍線］（the company）眼を凝らして眺めながらも［＃「眼を凝らして眺めながらも」に傍線］（though they stared a great deal）、其の爲めに道を開いて、三人はツカ々々と王の許へ歩み寄つた［＃「三人はツカ々々と王の許へ歩み寄つた」に傍線］（they went straight up to the King）。
+
+　Then Gareth stepped in front of the others, made a low reverence, and said: “God bless you, and all your fair fellowship, and especially the fellowship of the Round Table.  And I have come hither, Sire, to ask of you three things.  I will ask the first now, and leave the other two until this day twelve months, when you are again holding the feast of Pentecost.”
+（譯）そこでゲーレスは供人等を後ろに殘して歩み出で［＃「供人等を後ろに殘して歩み出で」に傍線］（stepped in front of the others）、恭しく身を屈めて［＃「恭しく身を屈めて」に傍線］（made a low reverence）偖て云ふた、『陛下及び滿廷の忠良［＃「滿廷の忠良」に傍線］（all your fair fellowship）別して圓卓の義團に神の惠福を祈り奉る［＃「神の惠福を祈り奉る」に傍線］（God bless……）。臣は陛下に三つの願ひ事あつて推參致しました。臣は今其の一つを御願ひ申して、他の二つは十二ヶ月後の此日、陛下が再び降靈祭の祝ひを執り行はせらるゝ其時迄控へ申さん［＃「控へ申さん」に傍線］（will leave）。』
+
+“Well,” said the King, “and what is your petition?”
+　“This,” said Gareth, plucking up heart, as he noticed the King's kind and frank expression.  “This--that you will give me meat and drink in your kitchen for a year and a day.”
+（譯）『成る程［＃「成る程」に傍線］（well）』と王は云ふた、『して其方の願ひと云ふは何事である。』
+『と申しまするは』と王の顏色慇懃に隔てなきを見［＃「王の顏色慇懃に隔てなきを見」に傍線］（as he noticed the King's kind and frank expression）、氣を勵まして［＃「氣を勵まして」に傍線］（plucking up heart）、『と申しまするは、陛下が御臺所にて一年と一日の間、臣に飮食を［＃「飮食を」に傍線］（meat and drink）賜はらんことで厶りまする』とゲーレスは云ふた。
+
+　“That is a very small matter,” said the King; “if you had asked for horse and harness I would have given it, but as for food, that I have never refused to friend or foe--I give it you gladly.  But now tell me your name and degree.”
+（譯）『それは極めて些細な事［＃「極めて些細な事」に傍線］（a very small matter）』と王は云ふた、『其方が馬と馬具とを求めるとも、朕はそれを得ささうものを、まして［＃「まして」に傍線］（but）食物如きは［＃「如きは」に傍線］（as for）、味方と云はず敵と云はず［＃「味方と云はず敵と云はず」に傍線］（to friend or foe）何人にも拒みはせなんだ。朕は喜んで其方の願ひを許さう。だが先づ［＃「先づ」に傍線］（now）其方の名乘りと身分を［＃「身分を」に傍線］（degree）明かせよ。』
+
+　Gareth longed to tell the truth, but his promise to his mother held him fast, and so he answered respectfully:
+　“That I may not tell, Sire, and I entreat you of your kindness not to desire it of me.”
+（譯）ゲーレスはまことを告げたかつた［＃「告げたかつた」に傍線］（longed to tell）が、母への約束に抑へられた［＃「母への約束に抑へられた」に傍線］（his promise to his mother held him fast）、それで恭しく［＃「恭しく」に傍線］（respectfully）答へたのに、『それのみは、陛下、申し上げ難う厶りまする、何卒御情けを以て、其御尋ねはなきやうに願ひまする［＃「何卒御情けを以て、其御尋ねはなきやうに願ひまする」に傍線］（I entreat you of your kindness not to desire it of me）。』
+
+　“You shall have your way,” said the King; and then he called Sir Kaye, the Seneschal, and charged him to provide all that was necessary for the stranger, and added that he should be treated as one of noble birth, “for I am quite sure,” said he, “though he refuses to tell his name, he is noble.”
+（譯）『其方の意に任さう［＃「其方の意に任さう」に傍線］（you shall have your way）』と王は云つた、して膳部の頭［＃「膳部の頭」に傍線］（the Seneschal）サー、ケーを召されて、此新來の人に［＃「此新來の人に」に傍線］（for the stranger）必要な物一切の［＃「必要な物一切の」に傍線］（all that was necessary）當てがひをすべしと、吩附け（いひつけ）られ［＃「當てがひをすべしと、吩附け（いひつけ）られ」に傍線］（charged him to provide）、且つ身分ある者として［＃「且つ身分ある者として」に傍線］（as one of noble birth）取り扱ふべきぞと念を押し［＃「念を押し」に傍線］（added）、『と云ふは朕は慥かに』と王は云つた、『彼者、其の名を明かすを拒めど、貴族には相違ない。』
+
+　“Indeed,” said Sir Kaye, who was a very sour, sarcastic person, “that will not be needed, for if he had been noble he would have asked for horse and armour, and not for food alone.  I will take care he has all he can eat, but he shall live in the kitchen, and help the serving-men, and that will be good enough for him.  I warrant he has been brought up in some monastery, and they can feed him no longer, so he comes to us.  As for a name, I shall call him Beaumains--that is to say, ‘Fair Hands.’”
+（譯）『何んの［＃「何んの」に傍線］（indeed）と、極意地惡るの、口惡るの［＃「極意地惡るの、口惡るの」に傍線］（who was a very sour, sarcastic person［＃「sour, sarcastic person」は底本では「sour and sarcastic person」］）サー、ケーは云つた、『そんな事が要るものか［＃「そんな事が要るものか」に傍線］（that will not be needed）、其譯は［＃「其譯は」に傍線］（for）若し彼奴が貴族であつたなら、馬物の具の無心であつて［＃「の無心であつて」に傍線］（would have asked for）食ひもの許りではなかつたらう。食へる丈は食はせるやうに［＃「食へる丈は食はせるやうに」に傍線］（he has all he can eat）してやらう［＃「してやらう」に傍線］（I will take care）、だが臺所に置いて［＃「臺所に置いて」に傍線］（he shall live in the kitchen）、召使ひ共の手傳ひをさせてやる、それで彼奴には澤山だらう［＃「それで彼奴には澤山だらう」に傍線］（that will be good enough for him）。屹度だ［＃「屹度だ」に傍線］（I warrant）彼奴は何處かの修業寺［＃「何處かの修業寺」に傍線］（some monastery）で育てられ［＃「で育てられ」に傍線］（has been brought up in）、糧が續かなくなつて［＃「糧が續かなくなつて」に傍線］（they can feed him no longer）、それで此處へやつて來たのだ。呼び名には［＃「呼び名には」に傍線］（for a name）ボーメンズと［＃「ボーメンズと」は底本では「ポーメンズと」］付けてやらう、即ち『優さ手男』と云ふ名である。』
+（註）Fair Hands とは手の美しうて荒仕事に堪へぬ謂はゞ役に立たずの義なり。
+
+　This was said in derision, for Launcelot had pointed out that, poorly as the youth was dressed, and humble as was his petition, yet he was undoubtedly of noble birth, for his broad, open brow, fair hair, and well-formed hands were proof of it.  Launcelot went so far as to say that although the Seneschal might know a horse or a hound when he saw one, he evidently did not know a man; and that he would do well to treat the stranger properly, or some day he might be ashamed of his conduct.
+（譯）これは冷かして［＃「冷かして」に傍線］（in derision）云つたのだ、と云ふのは、ランスロツトが、此若者身裝りが惡るく［＃「此若者身裝りが惡るく」に傍線］（poorly as the youth was dressed）其の願ふところは卑くいが、其の廣く秀いでた額［＃「其の廣く秀いでた額」に傍線］（his broad, open brow）明色（うすいろ）の髮［＃「明色（うすいろ）の髮」に傍線］（fair hair）格好のよい手でも分るが［＃「分るが」に傍線］（for……were proof of it）、まがひもなく［＃「まがひもなく」に傍線］（undoubtedly）身分ある生れであると、こゝろ付けて言ふた［＃「こゝろ付けて言ふた」に傍線］（pointed out）から。してランスロツトは猶、膳部の頭は馬や獵犬を［＃「獵犬を」に傍線］（a hound）見て其の鑑定がつきもせう［＃「其の鑑定がつきもせう」に傍線］（might know）が、慥かに［＃「慥かに」に傍線］（evidently）人の見やうは知らない、して又あの新來の若者を［＃「新來の若者を」に傍線］（the stranger）相當に扱かふが可からう、左もなくば［＃「左もなくば」に傍線］（or）何時か己れの所行を耻づる事があらう［＃「何時か己れの所行を耻づる事があらう」に傍線］（might be ashamed of his conduct）、とまでも云ふのであつた［＃「とまでも云ふのであつた」に傍線］（went so far as to say that）。
+
+　But Sir Kaye put aside Launcelot's kindly-meant advice, and had his own way.  The two serving-men departed, and Gareth, or Beaumains, as we must now call him, was put among the kitchen-folk.
+（譯）けれどもサー、ケーは、ランスロツトが好意の心付けを［＃「好意の心付けを」に傍線］（kindly-meant advice）顧みずに［＃「顧みずに」に傍線］（put aside）、己が勝手に計らつた［＃「己が勝手に計らつた」に傍線］（had his own way）。（そこで）二人の家來は立ち去つて、ゲーレス（即ちボーメンズと［＃「ボーメンズと」は底本では「ポーメンズと」］今は云はねばならぬが）は臺所働き［＃「臺所働き」に傍線］（the kitchen-folk［＃「the kitchen-folk」は底本では「the kitchen folk」］）の仲間に入れられた。
+
+　It was a very rough place for a lad of his breeding, and much rude joking went on at his expense; but he bore it all pleasantly, and did not even resent being set to wash the dishes.  His whole heart and mind being set to go through the adventure, he remained firm and good-tempered through all.
+（譯）臺所とは［＃「臺所とは」に傍線］（it）此樣な育ちの若者には［＃「此樣な育ちの若者には」に傍線］（for a lad of his breeding）隨分つらい所であつた［＃「隨分つらい所であつた」に傍線］（was a very rough place）。して彼をつかまへて［＃「彼をつかまへて」に傍線］（at his expense）隨分亂暴な揶揄（からかひ）が［＃「隨分亂暴な揶揄（からかひ）が」に傍線］（much rude joking）絶えなかつた［＃「絶えなかつた」に傍線］（went on）、けれども彼は皆それを笑つて堪へ［＃「皆それを笑つて堪へ」に傍線］（bore it all pleasantly）、皿洗ひまでさせられても［＃「皿洗ひまでさせられても」に傍線］（being set to wash the dishes）腹も立てなかつた［＃「腹も立てなかつた」に傍線］（did not even resent）。一心不亂に［＃「一心不亂に」に傍線］（his whole heart and mind）其苦行をして除けやうと［＃「其苦行をして除けやうと」に傍線］（to get through the adventure）思ひ込んで［＃「思ひ込んで」に傍線］（being set）、ジツと堪らへて［＃「ジツと堪らへて」に傍線］（remained firm）機嫌好く［＃「機嫌好く」に傍線］（good-tempered）萬事やり通した［＃「萬事やり通した」に傍線］（through all）。
+
+　There was one ray of brightness in Beaumains's hard life, and that was the kindness shown him by Gawaine, who had been the first to see him, and Sir Launcelot of the Lake.  All the knights admired Sir Launcelot, who was in great favour with both the King and his lovely Queen, Guinevere.  He was the most famous in all the feats of strength and the most noted in the tournaments, and with all this he was not proud, but gentle, courteous, and loveable.
+（譯）（斯かる）ボーメンズの［＃「ボーメンズの」は底本では「ポーメンズの」］苦境［＃「苦境」に傍線］（hard life）にも一條の光明は［＃「一條の光明は」に傍線］（one ray of brightness）あつた、してそれは、此若者が眞つ先きに遇つた［＃「此若者が眞つ先きに遇つた」に傍線］（who had been the first to see him）ガウエーンと、湖城のサー、ランスロツトとより受ける［＃「受ける」に傍線］（shown him）情けであつた。勇士等は皆サー、ランスロツトを推尊し［＃「推尊し」に傍線］（admired）、又王と其の美はしい妃のギネヴヰーアの寵遇も彼に頗る厚かつた［＃「寵遇も彼に頗る厚かつた」に傍線］（was in great favour with）。彼はあらゆる武藝力技（わざ）に其の譽れ並ぶものなく［＃「あらゆる武藝力技（わざ）に其の譽れ並ぶものなく」に傍線］（the most famous in all the feats of strength）、比武竸技に［＃「比武竸技に」に傍線］（in the tournaments）其の名最も高かつた［＃「其の名最も高かつた」に傍線］（the most noted）、斯くありながら［＃「斯くありながら」に傍線］（with all this）彼は毫も誇る色なく［＃「誇る色なく」に傍線］（not proud）、温厚に［＃「温厚に」に傍線］（gentle）慇懃に［＃「慇懃に」に傍線］（courteous）、人の愛慕する所であつた［＃「人の愛慕する所であつた」に傍線］（was［＃「was」は斜体］ loveable）。
+
+　He and Sir Gawaine took a great fancy to the handsome lad who bore himself so modestly and did his daily work without complaint, and they did not like to see him among the grooms and helpers, so they asked him to come to thier rooms privately, and promised to see that he had better meals and better clothes.  But though he felt their delicate kindness to the bottom of his heart, he refused all offers of help, thanked them warmly, and declared he needed nothing better than he had.
+（譯）サー、ランスロツトとサー、ガウエーンは、其の振舞謙遜で［＃「其の振舞謙遜で」に傍線］（bore himself so modestly）日々の勤めに不平のない［＃「日々の勤めに不平のない」に傍線］（did his daily work without complaint）風采秀いでた此若者が［＃「風采秀いでた此若者が」に傍線］（the handsome lad）頗る氣に入つて［＃「頗る氣に入つて」に傍線］（took a great fancy to）、馬丁や婢僕の中に若者を見るを好まなかつた。それで兩人はゲーレスに、密かに己等が部屋へ來れと乞ふて、もつと好い衣食を得さす事に計らはうと［＃「もつと好い衣食を得さす事に計らはうと」に傍線］（to see that he had better meals and better clothes）約束した。けれどもゲーレスは、心魂に徹し［＃「心魂に徹し」に傍線］（to the bottom of his heart）やさしい情けを［＃「やさしい情けを」に傍線］（their delicate kindness）感じたが、助力の申出でを皆［＃「助力の申出でを皆」に傍線］（all offers of help）斷り、深く兩人の厚意を謝して、是れまでより好いものは何も要らずと言ひ切つた［＃「是れまでより好いものは何も要らずと言ひ切つた」に傍線］（declared he needed nothing better than he had）。
+
+　The only one who was really unkind to him was Sir Kaye, the Seneschal, who was constantly taunting him with being so poor spirited as to serve in a kitchen in return for food.  As Sir Kaye had the superintendence of the household matters, he could make things very unpleasant for Beaumains, and he seemed to take a pleasure in doing it.  He gave him extra and heavier tasks than he gave the other youths: if more water was to be fetched, or more logs of wood, it was always Beaumains who was told to do it.
+（譯）眞に彼れに辛らく當つたのは［＃「眞に彼れに辛らく當つたのは」に傍線］（who was really unkind to him）大膳の頭のサー、ケーばかり、扶持代りに［＃「扶持代りに」に傍線］（in return for food）臺所奉公するやうなケチな根性持つて居るとて［＃「臺所奉公するやうなケチな根性持つて居るとて」に傍線］（with being so poor spirited as to serve in a kitchen）絶えずゲーレスに惡口ついた［＃「絶えずゲーレスに惡口ついた」に傍線］（was constantly taunting him）。サー、ケーは王家の家事一切を宰領して居るので［＃「サー、ケーは王家の家事一切を宰領して居るので」に傍線］（as he［＃「he」は斜体］ had the superintendence of the household matters）、其の手心次第で何うにもボーメンズを苦しめる事が出來るのだ［＃「其の手心次第で何うにもボーメンズを苦しめる事が出來るのだ」に傍線］［＃「ボーメンズを苦しめる事が出來るのだ」は底本では「ポーメンズを苦しめる事が出來るのだ」］（he could make things very unpleasant）、して又そんな事して興がる風であつた［＃「そんな事して興がる風であつた」に傍線］（seemed to take a pleasure in doing it）。サー、ケーは餘計な［＃「餘計な」に傍線］（extra）仕事、他の若いものに吩附けるより酷い仕事を彼れにさせた。特別に餘分の水や薪丸太を取つて來べき場合には［＃「特別に餘分の水や薪丸太を取つて來べき場合には」に傍線］（if more water was to be fetched, or more logs of wood［＃「fetched, or more logs of wood」は底本では「fetched or more logs of wood」］）、それを吩附けられるのは［＃「それを吩附けられるのは」に傍線］（who was told to do it）何時もボーメンズであつた。
+（註）he could make things very unpleasant for Beaumains--文字通りには、彼はボーメンズに取つて事を極めて不愉快ならしむる事が出來た、其意は譯文の通り。
+
+　“For,” said Sir Kaye, “if he is a fine gentleman, a little taking down will do him good.”  The only pleasure Beaumains had was to try his luck in the different games, and he soon proved both his strength and skill were beyond the common.  Whenever there was any tilting he was on fire to go, and if Sir Kaye really could not find him another task he would reluctantly give him leave.
+（譯）サー、ケーは云つた、『あれが立派な身分のものなら［＃「あれが立派な身分のものなら」に傍線］（if he is a fine gentleman）、少し抑へつけるが［＃「少し抑へつけるが」に傍線］（a little taking down）あれの爲めになる［＃「あれの爲めになる」に傍線］（will do him good）と云ふもの［＃「と云ふもの」に傍線］（for）。』ボーメンズの唯一の樂しみは、種々の勝負事で其の運を試めすのであつて［＃「種々の勝負事で其の運を試めすのであつて」に傍線］（was to try his luck in the different games）、忽ちに其の力も技も世の常ならずと知れた［＃「世の常ならずと知れた」に傍線］（proved……beyond common）。苟くも槍試合でもあつたなら［＃「苟くも槍試合でもあつたなら」に傍線］（whenever there was any tilting）行きたくて燃え立つばかり［＃「行きたくて燃え立つばかり」に傍線］（was on fire to go）、して、（流石の）サー、ケーも、若し全く［＃「全く」に傍線］（really）何にかまた吩附ける仕事が［＃「何にかまた吩附ける仕事が」に傍線］（him another task）見つからぬ時は、いや々々ながら彼を許してやるのであつた。
+
+　So the months passed on, till the sweet spring-time came again, and the Feast of Pentecost drew near.  This year it was to be held at Caerleon-upon-Usk, in Wales, and all the Court proceeded there with much pomp: brave and handsome knights, and beautiful ladies, of whom Queen Guinevere was the sweetest and loveliest, with her golden hair, blue eyes, and complexion of lilies and roses.  She wore a dress of pale green silk, like the first tender leaves of spring, and her slender waist was clasped by a golden girdle.
+（譯）斯くて其十二ヶ月も移り行き［＃「移り行き」に傍線］（passed on）茲に［＃「茲に」に傍線］（till）また彌生の春が廻り來て［＃「また彌生の春が廻り來て」に傍線］（the sweet spring-time came again）、降靈祭に近くなつた。此年の其祝祭はウエールズのカーリーオン、アポン、ウスクで行はれる事となり［＃「行はれる事となり」に傍線］（was to be held）、滿庭舉つて［＃「滿庭舉つて」に傍線］（all the Court）鹵簿盛かんに其地に練り出した［＃「鹵簿盛かんに其地に練り出した」に傍線］（proceeded there with much pomp）。勇ましき姿優なる武士等、花の樣な姫達、中にも勝れて妙（たへ）に艷なるは王妃ギネヴヰーア［＃「中にも勝れて妙（たへ）に艷なるは王妃ギネヴヰーア」に傍線］（of whom Queen Guinevere was the sweetest and loveliest）、金色の髮［＃「金色の髮」に傍線］（with her golden hair）、瑠璃の眼［＃「瑠璃の眼」に傍線］（blue eyes）、其の顏（かんばせ）は白百合と紅薔薇の色を配しておる［＃「其の顏（かんばせ）は白百合と紅薔薇の色を配しておる」に傍線］（complexion of lilies and roses）。王妃は萠え初めの春の若葉のやうな［＃「萠え初めの春の若葉のやうな」に傍線］（like the first tender leaves of spring）薄緑りの絹ごろもを召され［＃「薄緑りの絹ごろもを召され」に傍線］（wore a dress of pale green silk）、其細腰には黄金の帶を締められた［＃「其細腰には黄金の帶を締められた」に傍線］（her slender waist was clasped by a golden girdle）。
+
+　On Whitsunday all the Court went to service in the church in great state, the King and Queen sitting in the seats of honour, with the knights and dames around them.  Then the feast was spread in the great hall with much magnificence, but first a little time was set apart for any who wished to appeal to the King for justice.
+（譯）降靈祭の當日に［＃「降靈祭の當日に」に傍線］（on Whitsunday）滿庭大禮式にて［＃「大禮式にて」に傍線］（in great state）寺院の勤めに趣いた、王と王妃は玉座に着かせられ［＃「玉座に着かせられ」に傍線］（sitting in the seats of honour）、勇士等姫達其の周圍に居列んだ。かくて饗宴は善美盡して［＃「善美盡して」に傍線］（with much magnificence）大廣間に張られたが、先づ暫しの時を割いて［＃「先づ暫しの時を割いて」に傍線］（first a little time was set apart）王に上訴を爲さんとするものに當てられた［＃「王に上訴を爲さんとするものに當てられた」に傍線］（for any who wished to appeal to the King for justice）。
+
+　Presently the ushers brought in a young and pretty girl, who seemed in the greatest distress, and begged for help.  The King desired her to be calm and to tell her story.  She said she came on behalf of a lady who was besieged in her own castle by a knight of great prowess, and, having no one to defend her, she had sent to King Arthur for help.
+（譯）忽ちに、取次ぎのもの［＃「取次ぎのもの」に傍線］（ushers）若かい美くしい少女を伴ひ來たが、少女は痛く憂苦の有樣であつて助けを王に求めたのである。王は少女に、心靜めて［＃「心靜めて」に傍線］（to be calm）仔細を語れと［＃「語れと」に傍線］（to tell her story）望まれた。（問はれて）少女は、其の來れるは、さる貴族の姫の爲めなるが［＃「來れるは、さる貴族の姫の爲めなるが」に傍線］（came on behalf of a lady）、其姫は或る不敵の［＃「不敵の」に傍線］（of great prowess）士の爲めに己が居城で取り籠められ、姫の身を防ぐものなかりし故、使ひを以てアーサー王に助けを乞はしめた次第であると物語つた。
+
+“What is the lady's name?” said the King, “and who is the knight that besieges her?”
+　“That I may not tell you sire,” said she, and shut up her pretty lips with great decision.
+（譯）『其姫の名は何んと申す』と王は云つた、『してまた姫を取り籠めた士は何ものである』
+『陛下、それは申し上げ兼ねまする』と少女は云つて、必死の思ひで［＃「必死の思ひで」に傍線］（with great decision）花の唇を堅く閉ぢた［＃「花の唇を堅く閉ぢた」に傍線］（shut up her pretty lips）。
+
+　“There are many knights here,” returned the King, “who would gladly do battle for this lady; but if you will neither tell me her name, nor his who attacks her, they shall none of them go with my consent.”
+（譯）『勇士は許多此通り［＃「勇士は許多此通り」に傍線］（there are many knights here）』と王は答へた、『面々進んで［＃「進んで」に傍線］（gladly）其姫の爲めに戰ひもしやう。なれども其姫の名も、姫を攻むる士の名も朕に告げずば、勇士等一人たりともやる事叶はず［＃「勇士等一人たりともやる事叶はず」に傍線］（they shall none of them go with my consent＝I will not let them go none of them with my consent）。』
+
+　Just at this moment up came Beaumains, looking very tall and handsome, and with a sort of triumph in his bearing which transformed him, and he said to the King, making his reverence:
+（譯）此時恰も［＃「此時恰も」に傍線］（just at this moment）進み寄つたるはボーメンズである［＃「進み寄つたるはボーメンズである」に傍線］（up came Beaumains）、見上ぐるばかり凛々しき容姿［＃「見上ぐるばかり凛々しき容姿」に傍線］（looking very tall and handsome）、意氣昂然たる其の舉動［＃「意氣昂然たる其の舉動」に傍線］（with a sort of triumph of his bearing）、常時（いつも）の彼れとは見えなかつた［＃「常時（いつも）の彼れとは見えなかつた」に傍線］（which transformed）が、恭しく禮をなし［＃「恭しく禮をなし」に傍線］（making his reverence）王に向かつて言つた。
+
+“Sir King, God thank you, I have now been twelve months and a day in your kitchen and now I will ask my two gifts.”
+　“With all my heart,” said the King.
+（譯）『我君、御聖徳に依つて［＃「御聖徳に依つて」に傍線］（God thank you）、臣は御臺所にあることはや十二ヶ月と一日、今更めて［＃「今更めて」に傍線］（and now）彼の二つの御惠みを乞ひ奉る［＃「二つの御惠みを乞ひ奉る」に傍線］（I will ask my two gifts）。』
+『何の異存あらう［＃「何の異存あらう」に傍線］（with all my heart）』と王は云つた。
+（註）God thank you――の thank は acknowledge の意にして、神汝の厚意を認めさせ玉へ、の義。God bless you と大差なし。
+
+“First,” said Beaumains, with a glance at the damsel, who was looking very displeased that her business should be set aside, “give me this adventure.  Let me［＃「me」は斜体］ be the one to succour the distressed lady.  Secondly, I pray you, let Sir Launcelot make me knight, and then I will ride on my way to the castle.”
+　“Both these I grant,” said the King.
+（譯）『第一に』と、己が用向きを餘處にされたを［＃「己が用向きを餘處にされたを」に傍線］（that her business should be set aside）痛く不滿に思へる樣子の［＃「痛く不滿に思へる樣子の」に傍線］（who was looking very displeased）少女をチラと眺めやつて［＃「をチラと眺めやつて」に傍線］（with a glance at）、ボーメンズは云つた、『此難に當るは臣の望み［＃「此難に當るは臣の望み」に傍線］（give me this adventure）、其姫の災厄を救ふ役目は臣に仰せ付けられたし［＃「其姫の災厄を救ふ役目は臣に仰せ付けられたし」に傍線］（let me be the one to succour the distressed lady）。第二には、臣を士に取り立つる［＃「臣を士に取り立つる」に傍線］（make me knight）事をサー、ランスロツトに許させ玉へ、然らば臣は馬に跨り姫の居城に趣き申さん。』
+『二つながら許して遣はす』と王は云つた。
+
+　Then the lady was very angry, and, with crimson cheeks and flashing eyes, she cried out: “What!  shall I have none but he that is your kitchen page?--Then I will have none!”  And in great wrath she turned and left the royal presence with scant ceremony, flung herself into the saddle, and rode away, followed by her servant.
+（譯）すると少女は大に怒り、双の頬に紅を濺ぎ［＃「双の頬に紅を濺ぎ」に傍線］（with crimson cheeks）、兩眼を輝かして［＃「兩眼を輝かして」に傍線］（with flashing eyes）叫んだ、『何んと仰せある！妾の乞ひに、人もあらうに、臺所の小者の此若者とは［＃「妾の乞ひに、人もあらうに、臺所の小者の此若者とは」に傍線］（shall I have none but he that is your kitchen page?）。――然らば助けは受けますまい［＃「助けは受けますまい」に傍線］（I will have none）。』斯く云つて少女は荒々しく［＃「荒々しく」に傍線］（in great wrath）身を轉らし、禮もそこ々々［＃「禮もそこ々々」に傍線］（with scant ceremony）御前を立ち去り、鞍壺に身を投げて［＃「鞍壺に身を投げて」に傍線］（flung herself into the saddle［＃「herself into the saddle」は底本では「herself in the saddle」］）供を後ろに［＃「供を後ろに」に傍線］（followed by her servant）駈け去つた。
+（註）shall I have none……page? は、妾は御身の臺所の小者たる彼の外には何人をも得られないのか、と云ふが文字通り也。
+
+　Looking to the King for permission, Beaumains left the hall, and making his way into the courtyard, what did he find there?--a fine horse with rich trappings, and a suit of armour for himself, brought by one of the old serving-men who had attended him when he left home.
+（譯）王に暇とまの默禮し［＃「王に暇とまの默禮し」に傍線］（looking to the King for permission）、ボーメンズは廣間を下がりて庭に立ち出づれば、こは如何に眼に付いたのは［＃「こは如何に眼に付いたのは」に傍線］（what did he find there?）、――美々しき馬具置いたる［＃「美々しき馬具置いたる」に傍線］（with rich trappings）駿馬一頭、我が着用の［＃「我が着用の」に傍線］（for himself）甲冑一領［＃「甲冑一領」に傍線］（a suit of armour）、家を去る時供したる［＃「供したる」に傍線］（who had attended）老僕等の一人が、此時それを持つて來て居る。
+
+　The man whispered that his royal mother had sent him with them, and with a message that he was released from his promise, as the time of trial was over.
+（譯）其男は小聲にて、ゲーレスが母の王妃是等の品を自分に持たせ、苦行の時限過ぎたれば［＃「苦行の時限過ぎたれば」に傍線］（as the time of trial was over）彼の約束解けたりとの［＃「彼の約束解けたりとの」に傍線］（that he was released from his promise）辭を添へて［＃「辭を添へて」に傍線］（with a message）、己を遣はしたりと云ふのであつた。
+
+　Beaumains's heart beat high with delight.  At last the weary time of waiting was over, and he might be his own man again.  His first thought was to go back to the King and tell him all the story; then a curious impulse came over him, and he decided to keep the secret from all but Sir Launcelot, and force the haughty beauty to respect him even as a kitchen page.  So, bidding the servant wait with the horse, he sought Sir Launcelot, and made his petition that he would dub him knight.
+（譯）ボーメンズの胸は悦びに躍つた［＃「悦びに躍つた」に傍線］（beat high with delight）。茲に漸く［＃「漸く」に傍線］（at last）待ちに待つたる期限は［＃「待ちに待つたる期限は」に傍線］（the weary time of waiting）終りとなつて、我身は再び眞の我身となつた［＃「我身は再び眞の我身となつた」に傍線］（he might be his own man again）。（それで）先づ思ふたのは［＃「先づ思ふたのは」に傍線］（his first thought）、王の許に立戻り一伍一什を物語らうとするのであつた。其時ふと好奇の心が湧いて來て［＃「ふと好奇の心が湧いて來て」に傍線］（a curious impulse came over him）、ランスロツトの外には誰れにも秘密を明かさず［＃「外には誰れにも秘密を明かさず」に傍線］（to keep the secret from all but）に、又臺所の小者になつて居ながらに［＃「臺所の小者になつて居ながらに」に傍線］（even as a kitchen page）、あの高慢な美人に是非己れを尊敬さしてやらう［＃「あの高慢な美人に是非己れを尊敬さしてやらう」に傍線］（force the haughty beauty to respect him）と思ひ込んだ。それで、馬について待つて居よと我供に命じ、ゲーレスはサー、ランスロツトを搜して、自分を士にする儀式を行はれたしと［＃「自分を士にする儀式を行はれたしと」に傍線］（that he would dub him knight）願ひ出た。
+（註）dub――knight になる時に劍を以て其の肩を打つの式を行ふこと也。
+
+　“Willingly,” said Sir Launcelot; “but you must tell me your name before I do this.”  “My name is Gareth, and I am the youngest son of the King and Queen of Orkney, and my mother would let me come to the court on one condition only, that I should serve in the kitchen for a year and a day and tell my name to none, not even to the King.”
+（譯）『悦んで』とサー、ランスロツトは云つた、『併し此式を行ふに先つて其許の本名を聞かねばならず。』
+『我名はゲーレスと申し、オルクニーの王と妃との末の子なるが、母は我身に一つの約束をなさしめたる上ならでは［＃「一つの約束をなさしめたる上ならでは」に傍線］（on one condition only）此王宮に仕へるを許さじとの事、して其約束は、一年と一日の間御臺所に奉公して、何人にも陛下にさへも我名を告げてはならずとの事でありました。』
+
+　“I am right glad” said Sir Launcelot; “I knew you were noble all the while.”
+　So then in haste Beaumains was made knight, and he mounted his horse and rode after the haughty lady.
+（譯）『滿足至極［＃「滿足至極」に傍線］（I am right glad）』とサー、ランスロツトは云つた、『余は始終［＃「始終」に傍線］（all the while）其許の身分ある事を知つて居つた。』
+　斯くあつて［＃「斯くあつて」に傍線］（so then）、取急ぎボーメンズは士にされた、して彼は己が馬に打跨り、彼の高慢な姫の後を追ひ駈けた。
+
+　There was much discussion among the knights, and some laughter, as they watched him go, and Sir Kaye, who had always been unfriendly, said: “Now I will hie me after my boy of the kitchen, and see if he will know me for his master!”
+（譯）ゲーレスの行くを見守つて、勇士等は兎や角と評し合ひ［＃「兎や角と評し合ひ」に傍線］（there was much discussion）、中には打笑ふものもあつた［＃「中には打笑ふものもあつた」に傍線］（some laughter）、して何時も無情（つれなく）當つたサー、ケーは云つた、『いざ、我臺所の小僧を大急ぎで追ひかけ［＃「大急ぎで追ひかけ」に傍線］（hie me after）、彼奴が己れを主人と覺えて居るか［＃「彼奴が己れを主人と覺えて居るか」に傍線］（if he will know me for his master）試めしてやらうぞ。』
+
+　Just as Beaumains overtook the lady, Sir Kaye came spurring up behind in great haste, crying, “Hold, Beaumains!  know ye not me?  We miss you by the kitchen fire.”
+　“Yes,” said Beaumains, “I know ye for an ungentle knight, and therefore look to yourself!”
+（譯）恰もボーメンズが彼の姫に追ひ着いた時、サー、ケーは急ぎに急ぎ［＃「急ぎに急ぎ」に傍線］（in great haste）馬迫り立て、叫びながら後から來る、『待て、ボーメンズ！我と知らぬか［＃「我と知らぬか」に傍線］（know ye not me）。竈の火の傍に其方が居なくて困る［＃「竈の火の傍に其方が居なくて困る」に傍線］（we miss you by the kitchen fire）。』
+『知つて居る』とボーメンズは云つた、『情け知らずの士と知つて居る［＃「情け知らずの士と知つて居る」に傍線］（I know ye for an ungentle knight）、だによつて用心いたせ［＃「だによつて用心いたせ」に傍線］！（look to yourself!）』
+
+　With that they began to fight, and after a while Sir Kaye was wounded, and fell to the ground sorely humiliated.
+（譯）斯く云ひながら［＃「斯く云ひながら」に傍線］（with that）兩人は勝負を始めた、して暫くあつて［＃「暫くあつて」に傍線］（after a while）サー、ケーは手傷を受け、高慢の鼻挫がれて［＃「高慢の鼻挫がれて」に傍線］（sorely humiliated）地べたに落ちた。
+
+　Beaumains then came up to the lady, who had been watching the encounter, curious, in spite of her scorn, to see which would win.  She gave him but a poor reception, however, calling him “kitchen knave,” and declaring his beautiful new clothes had the odour of the dishes about them.  She told him it was only by chance he had overcome Sir Kaye, who, as every one knew, was his master, and again declared she would not have him for her champion.
+（譯）斯くてボーメンズは姫の許に歩み寄つた、姫は侮どりながらも［＃「侮どりながらも」に傍線］（in spite of her scorn）勝負如何にと思ひながら［＃「勝負如何にと思ひながら」に傍線］（curious to see which would win）其立會ひに［＃「其立會ひに」に傍線］（the encounter）眼をとめて居たのであつた。けれども姫は（何處までも）辛らくあしらひ［＃「（何處までも）辛らくあしらひ」に傍線］（gave him but a poor reception）、彼を『臺所奴［＃「臺所奴」に傍線］（kitchen knave）』と呼び、其の新らしい美服に椀皿の臭ひが［＃「椀皿の臭ひが」に傍線］（the odour of the dishes）着いて［＃「着いて」に傍線］（about them）おると言ひ放ち［＃「言ひ放ち」に傍線］（declaring）、して彼に云ふのに、サー、ケーは、誰れも知る如く［＃「誰れも知る如く」に傍線］（as every one knew）、ボーメンズの主人であるから［＃「から」に傍線］（who）、其の勝つたのはほんの偶然に過ぎない［＃「ほんの偶然に過ぎない」に傍線］（only by chance）、してまたボーメンズを己が助太刀［＃「己が助太刀」に傍線］（her champion）には頼まじ［＃「には頼まじ」に傍線］（would not have him……for）と言ひ放つた。
+（註）kitchen knave の knave は普通惡漢の義に用ゐらるゝが、此處にては male servant 即ち僕の義に解すべし。her champion とは姫に代つて戰ふものを意味すれども適譯を思ひ當らざる故假りに『助太刀』と譯したり。
+
+　“Damsel,” said Gareth, as we must now call him, “say to me what ye like.  I have undertaken to King Arthur to achieve your adventure, and I shall finish it or die in attempting it.”
+（譯）『姫よ』とゲーレス（今は本名を云ふが至當）が云つた、『心のまゝ何とでも云ひ玉へ［＃「心のまゝ何とでも云ひ玉へ」に傍線］（say to me what ye like）、余は既にアーサー王に對して御身の難を救ふの任に當つたれば［＃「御身の難を救ふの任に當つたれば」に傍線］（have undertaken to achieve your adventure）、それを遂ぐるか、試みて斃るゝか、孰れか一つ［＃「それを遂ぐるか、試みて斃るゝか、孰れか一つ」に傍線］（I shall finish it or die in attempting it）。』
+
+　“Fie on thee, kitchen knave!” cried Lynette, for that was the lady's name, “thou shalt meet one whom, for all the broth thou hast supped, thou darest not look in the face!”
+　“I shall try,” said Gareth quietly.
+（譯）『何を申す［＃「何を申す」に傍線］（fie on thee）、臺所奴め』とリネツトは云つた（それが姫の名であるのだ）。『其方の立合ふべき士は［＃「其方の立合ふべき士は」に傍線］（thou shalt meet one whom）、其方が啜すつた雜炊の力では［＃「其方が啜すつた雜炊の力では」に傍線］（for all the broth thou hast supped）、能う其の顏を見るさへ得せまい［＃「能う其の顏を見るさへ得せまい」に傍線］（thou darest not look in the face）。』
+『兎も角も試めすこと［＃「兎も角も試めすこと」に傍線］（I shall try）』とゲーレスは靜かに云つた。
+（註）for all the broth thou hast supped――汝が臺所でどんなに雜炊を食つて居ても、と云ふ義にして、broth とは肉を細かに刻み野菜等を入れて煮たる羹汁也。
+
+　Just then a man came rushing up to them.  “Help! help!” cried he; “my master has been set on by six ruffians, overcome and bound, and I fear for his life.”
+（譯）恰も此時一人の男兩人の處へ慌たゞしく駈け來つた。『助けて、助けて』と男は叫んだ、『我主人、惡漢六名の狼藉に遇ひ［＃「狼藉に遇ひ」に傍線］（been set on）、力及ばず［＃「力及ばず」に傍線］（overcome）繩かけられ［＃「繩かけられ」に傍線］（bound）、其の命覺束なし［＃「其の命覺束なし」に傍線］（I fear for his life）。』
+
+　“Show me the way,” said Gareth.  The man led him to where his master lay bound, and three of the robbers made off when they saw him coming.  Gareth laid about him so fiercely that he soon had the three others disabled, but was only slightly wounded himself, owing to his great skill in arms; then he went back to the prostrate man, unbound him, and helped him to regain his horse.
+（譯）『其場へ案内いたせ［＃「其場へ案内いたせ」に傍線］（show me the way）』とゲーレスは云つた。其男は主人が縛られ居る其場所へゲーレスを案内したが、兇賊の三人は彼れの來るを見て逃げ去つた［＃「逃げ去つた」に傍線］（made off）。ゲーレスは烈しく立ち廻つて［＃「烈しく立ち廻つて」に傍線］（laid about）、手もなく［＃「手もなく」に傍線］（soon）殘る三人に痛た手を負はせたる［＃「殘る三人に痛た手を負はせたる」に傍線］（had the three others disabled）が、打物取つての達人なれば［＃「打物取つての達人なれば」に傍線］（owing to his great skill in arms）其身には唯微傷を受けたるばかり［＃「其身には唯微傷を受けたるばかり」に傍線］（was only slightly wounded himself）。それより彼の打倒れおる［＃「打倒れおる」に傍線］（prostrate）人の處に立戻つて、其繩を解き放ち［＃「其繩を解き放ち」に傍線］（unbound）、彼を助けて再び馬に乘らしめた［＃「彼を助けて再び馬に乘らしめた」に傍線］（helped him to regain his horse）。
+
+　The knight was most grateful, and thanked Gareth heartily, and begged him to go with him to his castle and rest and refresh himself.  He even wished to reward him, but Gareth refused.  “Sir,” said he, “I will no reward have.  I was this day made knight of the noble Sir Launcelot, and this is reward enough.  I must follow the lady.”
+（譯）士は大に其恩を感じて［＃「大に其恩を感じて」に傍線］（was most grateful）深く［＃「深く」に傍線］（heartily）ゲーレスに謝し、共に其の居城に到り休息して疲れを癒さん事を［＃「疲れを癒さん事を」に傍線］（to［＃「to」は斜体］ refresh himself）乞ふた。彼はゲーレスに報酬を爲さんとまで言ひ出でたが、これをゲーレスは斷はつた。『貴殿』とゲーレスは云つた、『報酬は御受けし難し［＃「報酬は御受けし難し」に傍線］（I will no reward have＝I will have no reward）。余は今日譽れある［＃「譽れある」に傍線］（noble）サー、ランスロツトに取り立てられ士となつたれば、これにて報酬に不足はなし［＃「これにて報酬に不足はなし」に傍線］（this is reward enough）。余は彼の姫に踵いて行かねばなりませぬ。』
+
+　When he turned to Lynette, who had thought it prudent to retire a little while the fight was going on, she abused him worse than ever.  But he took no notice of her raging, other than to assure her that his purpose was fixed to go on with her and rescue the unknown distressed lady.
+（譯）リネツトは打合ひの其間［＃「打合ひの其間」に傍線］（while the fight was going on）、大事を取り［＃「大事を取り」に傍線］（thought it prudent）少し遠ざかつて居つたるが、ゲーレスが此方へ來ると［＃「ゲーレスが此方へ來ると」に傍線］（when he turned to her［＃「her」は斜体］）愈々益々彼を惡しざまに云ふのである［＃「愈々益々彼を惡しざまに云ふのである」に傍線］（abused him worse than ever）。けれどもゲーレスは其の怒りをば意としないで［＃「其の怒りをば意としないで」に傍線］（took no notice of her raging）、姫と共に行き、見知らぬ姫の災厄を救はんとする我目的動かず［＃「我目的動かず」に傍線］（his purpose was fixed）と云ひ確かめる計りであつた［＃「と云ひ確かめる計りであつた」に傍線］（took no notice［＃「took no notice」は斜体］……other than to assure her that）。
+
+　Then the knight, seeing there was a wandering lady also, begged them both very earnestly to come to his castle and rest.  So they rode on together, and for once Lynette forbore to wrangle.
+（譯）其時彼の士は、外に旅びの少女［＃「外に旅びの少女」に傍線］（a wandering lady also）の居たるを見て、兩人共に其の居城に來つて休息あれと切に願ふた。斯くて三人打連れて馬を進めた、して此時初めて［＃「此時初めて」に傍線］（for once）リネツトも言ひ爭ひを遠慮した［＃「言ひ爭ひを遠慮した」に傍線］（forbore to wrangle）。
+
+　They went into the castle, where the knight ordered supper to be spread, and invited the two young people to sit down.  But when Gareth was given a place next to Lynette, she rose at once in anger, and declared that she would not sit down with a kitchen knave, as it was an insult to her dignity.
+（譯）一同城中に到れば、主人の士は夕餉の仕度を命じて［＃「夕餉の仕度を命じて」に傍線］（ordered supper to be spread）若き兩人を其席へと招じた［＃「若き兩人を其席へと招じた」に傍線］（invited……to sit down）。併しゲーレスの席がリネツトの隣りに定まると、リネツトは俄かに怒つて立ち上がり、我身分の耻なれば［＃「我身分の耻なれば」に傍線］（as it was an insult to her dignity）臺所奴と同席はならずと云ひ放つた。
+
+　Gareth's face flushed, but, true to his resolve, he offered no objection.  The host settled the question by putting Gareth at a side table, and seated himself by him, leaving Lynette by herself, which was by no means what she wished.
+（譯）ゲーレスの顏はパツとなつた［＃「パツとなつた」に傍線］（flushed）が、我初心を變ぜず［＃「我初心を變ぜず」に傍線］（true to his resolve）、云ひ爭ひもしなかつた［＃「云ひ爭ひもしなかつた」に傍線］（offered no objection）。主人はゲーレスを側（わき）卓子に坐らせ、己れも其の傍に座を占めて、リネツトを唯獨り殘し置き、それで此難問を片付けた［＃「此難問を片付けた」に傍線］（settled the question）が、これは滿更リネツトの望み通りでもなかつたのである［＃「滿更リネツトの望み通りでもなかつたのである」に傍線］（which was by no means what she wished）。
+
+　Next morning, after breakfast, they thanked the good knight for his hospitality, and set off once more.  They rode on and on till they came to a gloomy forest, through which Lynette led the way, and then they reached the banks of a river.  There was only one place where they could cross it in safety.  By the ford were two knights, who stood on the alert to prevent them crossing.  Again the lady tried her sharp tongue on her patient knight.
+（譯）翌朝朝餉を濟まして、兩人は主人の待遇（もてなし）を謝し、再び其の途に上つた［＃「再び其の途に上つた」に傍線］（set off once more）。進み進んで乘り行く程に、何時か樹立小暗き林へ［＃「樹立小暗き林へ」に傍線］（to a gloomy forest）來ると、リネツトが先き立ちになつて通り拔け［＃「リネツトが先き立ちになつて通り拔け」に傍線］（through which Lynette led the way）、それから、とある河の岸へと着いた。其河を兩人が無事に越せるは、唯一ヶ所の外になかつた。其渡り場には二人の士が兩人を渡らせまいと見張りをして立つて居た［＃「見張りをして立つて居た」に傍線］（stood on the alert）。又もや姫は其の舌の鋭き切つ先を、堪忍強きゲーレスに向けた［＃「其の舌の鋭き切つ先を、堪忍強きゲーレスに向けた」に傍線］（tried her sharp tongue on her patient knight）。
+
+　“Best go back,” said she, “for you won't dare risk your bones!”
+　“Not I,” said he; “not if there were six of them,” and with that he rushed up to the ford.
+（譯）『逃げ歸るが上々［＃「逃げ歸るが上々」に傍線］（best go back）』と姫は云つた、『（所詮）其方には、骨節の試めしは劍呑でやれまいから［＃「其方には、骨節の試めしは劍呑でやれまいから」に傍線］（for you won't dare risk your bones）。』
+『人はいざ、余は［＃「人はいざ、余は」に傍線］（Not I）』と彼は云つた、『（二人は愚ろか）六人居らうと歸りはせず。』斯く云つて渡り場へ駈け寄せた。
+
+　Then there was another fight, long and hard, but in the end Gareth overcame his two assailants, and he and Lynette passed over the river in safety.  Small credit did he get at his lady's hands, however.  “Alas!” said she, “that ever a kitchen page should have the fortune to overcome two such doughty knights.”
+（譯）茲に於て、又もや長い手酷どい勝負があつたが、遂にゲーレスは二人の敵手を打負かして、彼とリネツトは恙がなく河を渡り超えた。されど姫がゲーレスに對する待遇（あしらひ）は更まりもしなかつた［＃「姫がゲーレスに對する待遇（あしらひ）は更まりもしなかつた」に傍線］（small credit did he get at his lady's hands）。『笑止や！［＃「笑止や！」に傍線］（Alas!）』と彼女は云つた、『運とは云へ［＃「運とは云へ」に傍線］（the fortune）臺所奴が斯かる勇士二人までも打負かす事のあらうとは［＃「臺所奴が斯かる勇士二人までも打負かす事のあらうとは」に傍線］（that ever a kitchen page should have……to overcome two such doughty knights）。』
+（註）small credit did he get at his lady's hands＝he got small credit at his lady's hands＝he did not receive much credit from her、即ち之れに依りて彼に對する姫の信用は増さなかつた、也。
+
+　Gareth took no notice, and only suggested that they should push on; and seeing she could make no impression on him, she consented.  After riding nearly all day, they came to a strange place.  There was a black hawthorn, and on it hung a black banner; on the other side there hung a black shield, and by it a long black spear, and there was a great black horse fastened to it, and hard by there was a black stone.  On the stone sat a knight all in black armour, and his name was the Knight of the Black Lands.
+（譯）ゲーレスは之れを心にとめず［＃「之れを心にとめず」に傍線］（took no notice）、唯先へ急がんと促がすばかり［＃「唯先へ急がんと促がすばかり」に傍線］（only suggested that they should push on）。姫は又、何と云つてもゲーレスが一向氣にせぬので［＃「何と云つてもゲーレスが一向氣にせぬので」に傍線］（seeing she could make no impression on him）、其の云ふに任せた［＃「其の云ふに任せた」に傍線］（consented）。殆んど終日乘つてから、變な處に着いた。其處には一本の黒い山櫨（サンザシ）が生へて居て、其れに黒い旗が掛かつておる。又其一方には黒い楯が掛つて、其の側に長い黒い槍、それに大きな黒い馬が繋がれ、直ぐ側に黒い石が一つあつた。其石の上に一人の士が黒い甲冑に身を固めて［＃「黒い甲冑に身を固めて」に傍線］（all in black armour）坐して居たが、其の名は黒土の騎士と云ふのであつた。
+
+　When Lynette saw this, she advised Gareth to fly down the valley, for his horse was not saddled.
+　“Nay, would you have me a coward?” said Gareth, smiling.
+（譯）リネツトはこれを見ると、其士の馬に鞍が置いてないから、（疾く）谷を下がつて逃げよと［＃「（疾く）谷を下がつて逃げよと」に傍線］（to fly down the valley）ゲーレスに勸めた。
+　『何を仰つしやる［＃「何を仰つしやる」に傍線］（nay）、御身は余を臆病ものにしやうとや』、微笑（ほゝゑみ）ながらゲーレスは云つた。
+
+　Then the Black Knight made ready to fight, and after a short but sharp passage was overcome and killed.
+（譯）すると黒騎士は鬪ひの用意をなし、烈しく切り結んだが、手もなく［＃「烈しく切り結んだが、手もなく」に傍線］（after a short but sharp passage）負けて殺された。
+
+　After this they rode on again, and presently they met a knight dressed all in green, with a green shield and a green spear.  He, like the first, was anxious to fight, and Gareth was nothing loth; so they set to with great fierceness.  Hard and quick came the blows, and for a time the result seemed uncertain, when a fortunate stroke brought the Green Knight to the ground, and Gareth stood over him, ready to kill him.
+（譯）これが濟んで、兩人は再び騎り出したが、忽ち又、緑の甲冑に身を堅め、緑の楯、緑の槍を持つて居る騎士に出遇つた。前のゝやうに［＃「前のゝやうに」に傍線］（like the first）これも鬪ひを急せつた［＃「鬪ひを急せつた」に傍線］（was anxious to fight）が、ゲーレス何條厭ふべき［＃「何條厭ふべき」に傍線］（was nothing loth）。そこで兩騎士烈しく戰ひ［＃「戰ひ」に傍線］（set to）、火花を散らして切結び［＃「火花を散らして切結び」に傍線］（hard and quick came the blows）、暫し勝負も見分かなかつた［＃「暫し勝負も見分かなかつた」に傍線］（for a time the result seemed uncertain）が、運好き一撃［＃「運好き一撃」に傍線］（a fortunate stroke）緑の騎士を地上に打ち伏せ［＃「緑の騎士を地上に打ち伏せ」に傍線］（brought……to the ground）、ゲーレス之れに打ち跨がつて、あはや彼を殺さんとす［＃「あはや彼を殺さんとす」に傍線］（ready to kill him）。
+
+　But Lynette, who had begun to respect her champion in spite of herself, called out loudly to him that he was to spare him.
+　“Nay,” said Gareth, “not unless you ask me for your［＃「your」は斜体］ sake to show mercy.”
+（譯）ところが、心ならずも［＃「心ならずも」に傍線］（in spite of herself）ゲーレスを尊敬し始めたるリネツトは、其士助くべきぞと、聲高くゲーレスに呼びかけた。
+『否』とゲーレスは云つた、『御身に免じて［＃「御身に免じて」に傍線］（for your［＃「your」は斜体］ sake）容赦せよと、乞ふにあらずば免るし難し。』
+
+　“Fair damsel,” cried out the Green Knight, as she hesitated, “I beseech you, ask for my life, and I have thirty men at my command, and they shall be at his orders, if he will but spare me.”
+（譯）『美はしき姫よ』と、リネツトが［＃「リネツトが」は底本では「リッネツトが」］躊らうので緑の騎士は叫んだ、『御願ひなり［＃「御願ひなり」に傍線］（I beseech you）、我命乞ひを爲し玉はれ［＃「我命乞ひを爲し玉はれ」に傍線］（ask for my life）、して余には三十人の手下ありまするが［＃「余には三十人の手下ありまするが」に傍線］、（I have thirty men at my command）、此士が余の命さへ助けんとならば、其三十人は彼が命に任せましやう［＃「其三十人は彼が命に任せましやう」に傍線］（they shall be at his orders）。
+
+　So, much against her will, the proud Lynette was obliged to ask Gareth for her sake to spare the prostrate man, and Gareth agreed.  The Green Knight, all his fire and fury gone, and aching horribly in all his bones, did homage to Gareth, and thanked Lynette for her intercession on his behalf.
+（譯）されば、傲慢なリネツトも、いやゝゝながら［＃「いやゝゝながら」に傍線］（much against her will）、自分に免じて打倒れおる士を助けん事を、ゲーレスに乞はざるを得なかつた、してゲーレスは乞ひに應じた。憤りも猛りも消え失せ［＃「憤りも猛りも消え失せ」に傍線］（all his fire and fury gone）、總身の骨［＃「總身の骨」に傍線］（in all his bones）碎くるばかり痛む［＃「碎くるばかり痛む」に傍線］（aching horribly）緑の騎士は、ゲーレスに服從の禮を取り［＃「ゲーレスに服從の禮を取り」に傍線］（did him homage）、己が爲めの［＃「己が爲めの」に傍線］（on his behalf）取成しを［＃「取成しを」に傍線］（for her intercession）リネツトに感謝した。
+
+　He also promised that he and his thirty knights should be ready at any time to do battle for king Arthur, if called upon.  He begged them to spend the night at his castle, which they did, and supped together, the only trouble being that again Lynette refused to sit down next to Sir Gareth.  But the Green Knight--and he was a good judge of men--settled the matter in the same way as the other host had done, and again Lynette sat by herself.
+（譯）彼れは又、召さるゝあらば［＃「召さるゝあらば」に傍線］（if called upon）、己れと手下［＃「手下」に傍線］（his）三十人の士共とは何時たりとも［＃「何時たりとも」に傍線］（at any time）、イザと云ふ直ぐ［＃「イザと云ふ直ぐ」に傍線］（should be ready）アーサー王の馬前に立つて戰ふべし［＃「アーサー王の馬前に立つて戰ふべし」に傍線］（to do battle for king Arthur［＃「king Arthur」は底本では「King Arthur」］）と約束した。彼は（又）其夜は己が居城で過ごされたしと乞ひ、兩人は其意に從ひ［＃「兩人は其意に從ひ」に傍線］（which they did）、共に夕食を喫したが、唯一つの難事と云ふは、リネツトが又もやサー、ゲーレスの側に坐るを拒ばんだのである。ところが緑の騎士は――人の見やうが上手であつて［＃「人の見やうが上手であつて」に傍線］（was a good judge of men）――前に兩人を饗應（もてなし）た士のしたと［＃「前に兩人を饗應（もてなし）た士のしたと」に傍線］（as the other host had done）同じ遣り方で其判きを付けて［＃「其判きを付けて」に傍線］（settled the matter）、此度もリネツトは獨り離れて席に着いた［＃「獨り離れて席に着いた」に傍線］（sat by herself）。
+
+　Next morning, after breakfast, the Green Knight wished them good-speed, and away they rode once more.  After an hour's riding, they came to a beautiful castle, shining in the morning sunlight, and over the tower there hung fifty shields of different colours, for there was to be a great tournament next day.  Now the lord of the castle was looking out of a window, and saw the lady approaching, and Gareth, armed at all points.
+（譯）翌朝、朝餉を了つて、緑の騎士は兩人が道中の無事を祈り［＃「兩人が道中の無事を祈り」に傍線］（wished them good-speed）、又もや兩人は騎り出でた。行く事一時間にして、とある立派な城に着いた、城は朝日に輝いて、城樓の上には色樣々の五十の楯が掛け連なつてる、之れは翌日大試合が［＃「大試合が」に傍線］（a great tournament）ある筈であつたから。さても城の主じは窓より外を眺め居て、近付く姫と隙間なく［＃「隙間なく」に傍線］（at all points）物の具つけたゲーレスとを見た。
+
+　“I will go down and engage with him,” said he, “for I see he is a knight-errant.”  So he armed himself in blue from top to toe, and he had a blue shield and blue spear.  Then he sallied out to meet Gareth, and again there was a fight, and, as before, Gareth was the victor, and held his adversary under his sword.
+（譯）『いざ下り行きて彼と勝負をなさん』と彼は云つた、『彼は正しく［＃「正しく」に傍線］（I see）武者修行のものなれば。』かくて彼は頂きより爪先に至るまで［＃「頂きより爪先に至るまで」に傍線］（from top to toe）青の甲冑に身を堅めて、青い楯と青い槍とを提げた。それより彼はゲーレスに立向はんと駈け出でゝ［＃「に立向はんと駈け出でゝ」に傍線］（sallied out to meet）、又もや格鬪となつたが、前の如く勝はゲーレス［＃「勝はゲーレス」に傍線］（Gareth was the victor）、其の劍の下に敵手を押へた［＃「其の劍の下に敵手を押へた」に傍線］（held his adversary under his sword）。
+
+　The Blue Knight cried out for mercy, and once more Lynette had to humble herself and beg for mercy, as she did not wish the man to be killed at her feet.  He had fifty knights at his command, and he also promised to lead them in King Arthur's service if needed.
+（譯）青の騎士は聲揚げて命乞ひした。してリネツトは、己が足許で其士の殺さるゝを好まなかつた故、茲に再び是非なく我慢を折つて［＃「我慢を折つて」に傍線］（to humble herself）命乞ひした。此士は手下［＃「手下」に傍線］（at his command）五十人あつたが、同じく、いざと云ふ場合には［＃「いざと云ふ場合には」に傍線］（if needed）手下を率ゐて［＃「率ゐて」に傍線］（to lead）アーサー王に奉公せんと［＃「アーサー王に奉公せんと」に傍線］（in King Arthur's service）約束した。
+
+　They stayed the night, and in the morning they set off, Lynette no longer riding in front in her haughty way, but by Sir Gareth's side, for she was beginning to acknowledge in her heart that, whatever his name might be, he was a very fine fellow.
+（譯）姫とゲーレスは其夜其處に滯まつて、翌朝出立した、リネツトは最早例の傲然と［＃「例の傲然と」に傍線］（in her haughty way）先きには立たず［＃「先きには立たず」に傍線］（not riding in front）、サー、ゲーレスと轡を駢べた。これ蓋し［＃「これ蓋し」に傍線］（for）其の名は何んであらうと、彼は頗る優れ者［＃「頗る優れ者」に傍線］（a very fine fellow）だと、心の中に認め掛けて居たのである。
+
+　But now there was coming the greatest trial of all, for at last, after all these delays, they drew near the Castle Dangerous, where Dame Lyonors, who was really Lynette's sister, was besieged.
+（譯）さりながら今や、あらゆる中にも最大の難關が［＃「最大の難關が」に傍線］（the greatest trial）近いて來た、と云ふものは、斯く兎も角と手間取りしが［＃「斯く兎も角と手間取りしが」に傍線］（after all these delays）、愈兩人は『危難の城』に程もなくなつた［＃「程もなくなつた」に傍線］（drew near）から、即ち其城にはまことリネツトの姉なるリオノルス姫が取り籠められて居たのである。
+
+　The three knights whom Gareth had overcome were brothers of the Red Knight of the Red Lands, and they had been given the task of making an end on the way of any knight who should come to the rescue.  However, this valiant youth was a match for them all, and even Lynette's caution that they were nearing the castle did not cause him the slightest fear.
+（譯）ゲーレスが打負かしたる［＃「ゲーレスが打負かしたる」に傍線］（whom Gareth had overcome）三人の騎士は、赤土の赤の士の兄弟で、姫の援ひに來る士あらば誰れなりとも［＃「來る士あらば誰れなりとも」に傍線］（any knight who should come）、之を喰ひ止むる役目を［＃「之を喰ひ止むる役目を」に傍線］（the task of making an end on the way of）吩附かつて居たのであつた。されど此剛氣の若者、皆掛りでも引けを取らず［＃「皆掛りでも引けを取らず」に傍線］（was a match for them all）、して愈々城が間近かになつたと、リネツトの警め［＃「警め」に傍線］（caution）も彼をびくともさせはしなんだ［＃「彼をびくともさせはしなんだ」に傍線］（did not cause him the slightest fear）。
+
+　If he had a tremor, it was one of pleasure, for the fire in Lynette's eyes was softened, and there was quite a kindly tone in her voice as she begged him to be careful, “For,” said she, “I dread me full sore lest that you should suffer some hurt and that I would not have, for you are a brave knight and a gentle, and I am truly sorry I used you so roughly.”
+（譯）よし身震ひがあつたにしても［＃「よし身震ひがあつたにしても」に傍線］（if he had a tremor）、それは嬉しさの餘りであつた［＃「それは嬉しさの餘りであつた」に傍線］（it was one of pleasure）、と云ふのは、リネツトの險はしい眼色［＃「リネツトの險はしい眼色」に傍線］（fire in Lynette's eyes）も今は柔らぎ、用心せよと頼んだる［＃「用心せよと頼んだる」に傍線］（as she begged him to be careful）聲音の中にもしみじみ親切なところが［＃「しみじみ親切なところが」に傍線］（quite a kindly tone）あつたからである。『と申すのは』と姫は云つた、『御身に怪我でもあつてはと［＃「御身に怪我でもあつてはと」に傍線］（lest that you should suffer some hurt）心配でなりませぬ［＃「心配でなりませぬ」に傍線］（I dread me full sore）、御身は勇ましくもまたやさしい士なれば［＃「御身は勇ましくもまたやさしい士なれば」に傍線］（for you are a brave knight and a gentle）、そんな事のないやうに祈りまする［＃「そんな事のないやうに祈りまする」に傍線］（that I would not have）、して又妾は御身に對するこれまでの無禮をば［＃「御身に對するこれまでの無禮をば」に傍線］（I used you so roughly）眞に後悔致しまする［＃「眞に後悔致しまする」に傍線］（I am truly sorry）。』
+
+（註）I dread me full soreのmeはethical dativeと稱し、話し手が其の話しに身を入れて云ふ時に縷々用ゐられ其の口調を強くするの力あり、殊に沙翁の戯曲等に多し、要するにreflective proounと大差なしと知るべし
+
+　“Dear lady,” said Gareth, “do not speak of it; for you have done me no harm, and now I shall fight better than ever I did, under the sunshine of your smile.”  So on they rode in high spirits, and in the afternoon they came to a gloomy castle, and there was martial music sounding from within.
+（譯）『志しは辱けなし［＃「志しは辱けなし」に傍線］（dear lady）』とゲーレスは云つた、『（されど）其の御言葉には及び申さず［＃「其の御言葉には及び申さず」に傍線］（do not speak of it）、御身より受けたる害は何もなし［＃「御身より受けたる害は何もなし」に傍線］（you have done me no harm）、此上は御身が笑顏の光を受けて［＃「御身が笑顏の光を受けて」に傍線］（under the sunshine of your smile）、これまでの働きにまさる［＃「これまでの働きにまさる」に傍線］（than ever I did）見事の戰ひ出來ます［＃「見事の戰ひ出來ます」に傍線］（I shall fight better）れば［＃「れば」に傍線］（for）。』斯くて兩人は心勇んで［＃「心勇んで」に傍線］（in high spirits）騎り進み、其の晝後に、物凄き古城［＃「物凄き古城」に傍線］（a gloomy castle）に着いたが、城の中よりは軍樂の音［＃「軍樂の音」に傍線］（martial music）鳴り響いておつた。
+
+　Close by the entrance there was a sycamore tree, and on it hung a horn of ivory, the largest they had ever seen.  Said Lynette, “The Knight of the Red Lands has hung it up there, and if any errant knight should come by and wish to fight, he must blow that horn, and then the Red Knight will come out and do battle with him.”
+（譯）城門に接して［＃「接して」に傍線］（close by）シカモーア樹がある、それに象牙の號角（ラツパ）が掛つて居て、兩人が未だ見た事もない程に大きいものであつた［＃「兩人が未だ見た事もない程に大きいものであつた」に傍線］（the largest they had ever seen）。リネツトは云つた、『これを其處に掛けたのは赤土の赤の士であつて、何人にもあれ武者修行の者此處に來て［＃「此處に來て」に傍線］（come by）鬪ひを望まば、其者は此號角を吹くべき定めである［＃「其者は此號角を吹くべき定めである」に傍線］（he must blow that horn）、さすれば赤の士は立出でゝ其者と勝負をばするのです。』
+（註）sycamore は楓樹の一種、大木にして其の樹肌白く鳶色の斑ありて頗る見事なる樹也。
+
+　“But I pray you, sir”--Lynette was growing civil--“do not blow it now, but wait till it is night, for from now till sunset he has the strength of seven, but after that time he has only what belongs to him of right.”
+（譯）『さりながら、御身願はくは［＃「御身願はくは」に傍線］（I pray you, sir）――リネツトは次第に慇懃になる［＃「次第に慇懃になる」に傍線］（was growing civil）――『今それを吹かれずに、夜陰になるまで待ち玉へ［＃「夜陰になるまで待ち玉へ」に傍線］（wait till it is night）。と申すは、今より日沒に至るまでは、彼の士に七人力有りますれど、其の後に至れば、當然［＃「當然」に傍線］（of right＝properly）身に備はる丈の力しか［＃「身に備はる丈の力しか」に傍線］（only what belongs to him）持ちませぬ故。』
+
+　“Oh, my lady,” cried Gareth, “do not talk to me of fear; no matter what strength he may have, I will rescue your sister or die.”
+（譯）『嗚呼姫よ』とゲーレスは叫んだ、『氣弱い事語り玉ふな［＃「氣弱い事語り玉ふな」に傍線］（do not talk to me of fear）、其士如何なる力あらうと［＃「其士如何なる力あらうと」に傍線］（what strength he may have）物かは［＃「物かは」に傍線］（no matter）、余は御身の姉君を救ひ申さん、さらずば死するばかりの事。』
+
+　And with that he spurred his horse up to the sycamore tree, and blew such a blast on the horn that the castle rang with the sound.  Then the Red Knight armed himself in haste, and all was blood red--his armour, spear, and shield.  And he rode out of the castle gate to meet Gareth.
+（譯）さて斯く云つてゲーレスは馬急き立てゝ［＃「馬急き立てゝ」に傍線］（spurred his horse）シカモーア樹に乘り寄せ［＃「乘り寄せ」に傍線］（up to）、其の音［＃「其の音」に傍線］（with the sound）城を震はすばかり［＃「城を震はすばかり」に傍線］（that the castle rang）に號角を吹き立つ［＃「號角を吹き立つ」に傍線］（blew such a blast on the horn）。すると赤の士は、急ぎ［＃「急ぎ」に傍線］（in haste）物の具に身を固めたが、悉く皆紅ないの血潮の色、――鎧兜も、槍も楯も。斯くて彼はゲーレスに立向はんと城門を騎り出でた。
+
+　“Sir,” said Lynette, “look that you be merry and bold, for here comes your deadly enemy, and at yonder window is my sister, Dame Lyonors, whom he holds in bondage.”
+（譯）『何卒』とリネツトは云つた、『心して氣を勵まし勇を奮ひ玉へ［＃「心して氣を勵まし勇を奮ひ玉へ」に傍線］（look that you be merry and bold）、御身の剛敵見えますれば［＃「御身の剛敵見えますれば」に傍線］（for here comes your deadly enemy）。して彼方の窓に、彼れの手に虜はれとなりおる［＃「彼れの手に虜はれとなりおる」に傍線］（whom he holds in bondage）我姉君リオノルス姫が居りまする。』
+
+　“She is the fairest lady--save one--that I have ever seen,” said Gareth, “and I am proud to do battle for her.”  And he looked up to the window with a bright smile, and Dame Lyonors smiled in return, and waved her hand.
+（譯）『（げに）絶世の美人［＃「絶世の美人」に傍線］（she is the fairest lady）――唯一人を外にしては［＃「唯一人を外にしては」に傍線］（save one）――斯かる美人は見たることなし』とゲーレスは云つた、『して斯かる姫の爲めに戰ふは我身の面目［＃「我身の面目」に傍線］（I am proud）。』斯くてゲーレスは窓打ち見上げて莞爾と笑めば［＃「莞爾と笑めば」に傍線］（with a bright smile）、リオノルス姫も笑みを返へして［＃「笑みを返へして」に傍線］（smiled in return）其の手を打ち振る。
+
+　Then the Red Knight called out in a great voice, “Leave, Sir Knight, thy looking, and beware of me, for she is my lady, and for her I have fought many battles.”
+（譯）其時赤の士は大音聲に叫けんだ、『遠慮めされ［＃「遠慮めされ」に傍線］（leave）士殿、其方を見るは［＃「其方を見るは」に傍線］（thy looking）。某し此處にありと知らずや［＃「某し此處にありと知らずや」に傍線］（beware of me）。彼の姫は我もの［＃「我もの」に傍線］（my lady）にて、姫の爲めに我は數多度の戰ひを爲したるぞよ［＃「ぞよ」に傍線］（for）。』
+（註）leave thy looking は汝の眺むるを止めよ、即ち城中にある姫の方を眺むるをやめよ、の義也。
+
+　“That may be,” said Gareth, “but I warrant she cares little for your company, or she would not have sent to ask for help against you.  I will rescue her from your hands, or die in the attempt.”
+（譯）『さうでもあらう［＃「さうでもあらう」に傍線］（that may be）』とゲーレスは云つた、『なれども姫が汝と共にあるを［＃「汝と共にあるを」に傍線］（for your company）好まれぬは［＃「好まれぬは」に傍線］（cares little）必定なり［＃「必定なり」に傍線］（I warrant）、さもなくば［＃「さもなくば」に傍線］（or）何條姫が、助けを求めに言ひ越して汝を除かんとせられうぞ［＃「助けを求めに言ひ越して汝を除かんとせられうぞ」に傍線］（would not have sent to ask for help against you）。余は汝の手より姫を援はん、ならずば［＃「ならずば」に傍線］（or）其目的に斃れんのみ［＃「其目的に斃れんのみ」に傍線］（will［＃「will」は斜体］ die in the attempt）。』
+
+　“You had better take warning,” said the Red Knight; “look in those trees yonder.”  And there hung upon the trees forty dead knights, with their shields and swords about their necks and gilt spurs on their heels.  “These doughty champions,” said the Red Knight, with a grim smile, “all came hither on the same errand as yourself.  Perhaps you would like to join them?  I dare say I can find another tree!”
+（譯）『汝、先ず此事聞いて覺悟を定めるが可からうぞ［＃「汝、先ず此事聞いて覺悟を定めるが可からうぞ」に傍線］（you had better take warning）と赤の士が云つた、『彼方の樹立ちを覗いて見よ。』して其處には四十人の士の死骸が、其の首には楯と劍、其の踵には鍍金した拍車が附いて、懸かつておる、『あれらの豪勇なる騎士共は』とせゝら笑つて［＃「せゝら笑つて」に傍線］（with a grim smile）赤の士は云つた、『昔汝と同じ使命を帶びて此處に來たのだ、思ふに汝も其の仲間入りをしやうな［＃「思ふに汝も其の仲間入りをしやうな」に傍線］（perhaps you would like to join them?）。又一本（懸ける）樹を搜がすに困らうかや［＃「樹を搜がすに困らうかや」に傍線］（I dare say I can find another tree!）。』
+（註）I dare say……tree! は文字通りには、多分又一本の樹を見つくる事が出來やう、即ち敵を殺して其の死骸を懸ける樹に不自由はなからう、の意也。
+
+　“Make ready,” cried Gareth fiercely, “for I will parley no longer.”  He desired Lynette to stand away at a safe distance, and then the two rushed together with a tremendous onslaught.
+（譯）『勝負の用意』と、憤然としてゲーレスは叫んだ、『最早問答は無益なるぞ［＃「最早問答は無益なるぞ」に傍線］（for I will parley no longer）。』彼は怪我なき程の隔りに［＃「怪我なき程の隔りに」に傍線］（at a safe distance）退（さが）り居らん事を［＃「退（さが）り居らん事を」に傍線］（to stand away）リネツトに乞ひ、それより［＃「それより」に傍線］（and then）二人の士、互に獅子奮迅と［＃「獅子奮迅と」に傍線］（with a tremendous onslaught）打つて掛かつた。
+
+　Oh! but it was a long and a hard battle, by far the worst Gareth had fought, for the wicked knight had the strength of seven men.  Suddenly Gareth fell to the ground and seemed unable to recover himself, and the Red Knight fell over him to hold him down.
+（譯）嗚呼！されど是れ果てしもあらぬ大苦鬪［＃「是れ果てしもあらぬ大苦鬪」に傍線］（it was a long and a hard battle）、無道の士は七人力あつたれば、ゲーレスに取つて是れまでに［＃「ゲーレスに取つて是れまでに」に傍線］（Gareth had fought）較べもならぬ［＃「較べもならぬ」に傍線］（by far）最惡戰［＃「最惡戰」に傍線］（the worst）であつたのだ。突然ゲーレスは地に倒れ、再び起き得やうとも思はれず［＃「再び起き得やうとも思はれず」に傍線］（seemed unable to recover himself）、して赤の士は彼を押さへ付けんと［＃「彼を押さへ付けんと」に傍線］（to hold him down）其の上に折り重さなつた［＃「其の上に折り重さなつた」に傍線］（fell over him）。
+
+　Then Lynette burst out weeping, and cried, “Oh, Sir Beaumains! what is become of thy strength, in which we trusted?”
+（譯）するとリネツトは堪まらず泣き出して［＃「堪まらず泣き出して」に傍線］（burst out weeping）叫けんだ。『嗚呼、ボーメンズ殿、妾等が頼りにしたる［＃「妾等が頼りにしたる」に傍線］（in which we trusted）御身の力は、何うなりしぞや［＃「何うなりしぞや」に傍線］（what is become of thy strength）。』
+
+　With that, liquid fire seemed to run through Gareth's veins.  He flung off his enemy, sprang to his feet, and rushed upon him with renewed vigour.  So fast and furious were his strokes that the sword flew out of the other's hand, and the next moment he was helpless on the ground.
+（譯）之を聞くと［＃「之を聞くと」に傍線］（with that）、ゲーレスの脈を走る血潮は燃え立つて火となる心地［＃「ゲーレスの脈を走る血潮は燃え立つて火となる心地」に傍線］（liquid fire seemed to run through Gareth's veins）。彼は其の敵を跳ね除け［＃「跳ね除け」に傍線］（flung off）、躍り立ち［＃「躍り立ち」に傍線］（sprang to his feet）、幾倍の力を新たにして［＃「幾倍の力を新たにして」に傍線］（with renewed vigour）敵に飛び掛つた［＃「敵に飛び掛つた」に傍線］（rushed upon him）。繁き烈しき其の打手に［＃「繁き烈しき其の打手に」に傍線］（so fast and furious were his strokes）敵の劍は打ち飛ばされ［＃「敵の劍は打ち飛ばされ」に傍線］（the sword flew out of the other's hand）、見る間に［＃「見る間に」に傍線］（the next moment）敵は地上に仆れて詮術（せんすべ）なし［＃「詮術（せんすべ）なし」に傍線］（was helpless）。
+
+　“Oh, noble knight, I yield me unto thy mercy,” gasped the Red Knight.
+　Then Gareth said, “I ought not to save thy life, for the sake of all those knights thou didst slay so shamefully.”
+（譯）『嗟、倫ひなき勇士、余は屈服して御身の慈悲を乞ふ［＃「余は屈服して御身の慈悲を乞ふ」に傍線］（I yield me unto thy mercy）』と赤の士は苦しき息で云つた［＃「苦しき息で云つた」に傍線］（gasped）。するとゲーレスは云つた、『汝が斯くも無道に［＃「無道に」に傍線］（shamefully）屠り殺した［＃「屠り殺した」に傍線］（didst slay）是等の士一同に對し［＃「對し」に傍線］（for the sake of）、汝の命助くる事相ならず［＃「助くる事相ならず」に傍線］（ought not to save）。』
+
+　“Stay thy hand,” said the vanquished man, “and I will tell thee why I treated them so.  I once loved a fair damsel, and her brother was slain, and she said it was Sir Launcelot or Gawaine who did the deed, and she made me promise that I should daily seek out those of the Court, and put them to a shameful death as a reprisal.”
+（譯）『暫らく其手を［＃「暫らく其手を」に傍線］（stay thy hand）』と敗けたる士は云つた、『して彼士共を斯く無殘に扱つたる次第を［＃「彼士共を斯く無殘に扱つたる次第を」に傍線］（why I treatd them so）申さんに。嘗て余が愛したる美はしき乙女ありしが［＃「嘗て余が愛したる美はしき乙女ありしが」に傍線］（I once loved a fair damsel）、其の兄弟の者非命に斃れ［＃「非命に斃れ」に傍線］（was slain）、乙女の申すに、其下手人は［＃「其下手人は」に傍線］（who did the deed）サー、ランスロツトかガウエーンならんとの事、して乙女は余に、王宮の士共を［＃「王宮の士共を」に傍線］（those of the Court）日毎に搜して［＃「日毎に搜して」に傍線］（should daily seek out）、其の復讐に［＃「其の復讐に」に傍線］（as a reprisal）死に耻ぢを曝さすべし［＃「死に耻ぢを曝さすべし」に傍線］（put them to a shameful death）と約束をさせました［＃「約束をさせました」に傍線］（made me promise）。』
+
+　Then many barons and knights came to Gareth, begging him to spare the life of the Red Knight.
+（譯）其時數多の貴族や士共ゲーレスの許に來つて、赤の士の命を援けんことを彼に乞ふて止まず。
+
+　“I am willing to spare his life,” said Gareth, “especially as all the wrong he has done was at a lady's request; and he shall go humbly to Dame Lyonors and ask her pardon, and remove himself from this castle in all haste.  He shall also go to the Court, taking his followers with him, and ask of the King pardon for the foul wrong he has done to knighthood.”
+（譯）『（さらば）余は屑よく［＃「屑よく」に傍線］（willing）其の命を助けやらん』とゲーレスは云つた、『特に其の非道の所行は皆［＃「其の非道の所行は皆」に傍線］（all the wrong he has done）婦人の求めに因るとあらば［＃「婦人の求めに因るとあらば」に傍線］（as……was at a lady's request）。して彼は身を卑ふして［＃「身を卑ふして」に傍線］（humbly）リオノルス姫の許に到り、其の赦罪を乞ひ［＃「其の赦罪を乞ひ」に傍線］（ask her pardon）疾く々々［＃「疾く々々」に傍線］（in all haste）此城より立ち退くべきぞ［＃「此城より立ち退くべきぞ」に傍線］（shall［＃「shall」は斜体］ remove himself from this castle）。彼は又家來の者共を引き連れて［＃「家來の者共を引き連れて」に傍線］（taking his followers with him）王宮に到り、武士の體面を汚したる非道の所行に對し［＃「武士の體面を汚したる非道の所行に對し」に傍線］（for the foul wrong he has done to knighthood）、王の赦罪を乞ふべきである。』
+（註）for the foul wrong……knighthood は文字通りには、彼が武士道に加へたる汚はしき損害に對し、即ち武士道を辱かしめたるに對し、の意なれども具體的に云へば譯文の如し。
+
+　Lyonors was so grateful to her champion that he might have married her, but all his heart was with wilful Lynette, and soon the wedding was arranged.  King Arthur received the whole party, and when he heard the story he praised Gareth till he made him blush.
+（譯）リオノルス姫は己が爲めに戰つたる勇士［＃「己が爲めに戰つたる勇士」に傍線］（her champion）に對し、感謝措く能はずで［＃「感謝措く能はずで」に傍線］（so grateful……that）、茲に二人の結婚が成立たずとも限らなかつた［＃「二人の結婚が成立たずとも限らなかつた」に傍線］（he might have married her）が、ゲーレスの心は全く意地張りのリネツトに傾いて居つたので［＃「ゲーレスの心は全く意地張りのリネツトに傾いて居つたので」に傍線］（all his heart was with wilful Lynette）、時を移さず［＃「時を移さず」に傍線］（soon）結婚の用意が出來た［＃「結婚の用意が出來た」に傍線］（the wedding was arranged）。アーサー王は主客一同を招待あつて［＃「主客一同を招待あつて」に傍線］（received the whole party）、事の次第を聞こし召されると、ゲーレスの顏の赧くなる程［＃「ゲーレスの顏の赧くなる程」に傍線］（till he made him blush）御褒めがあつた。
+
+　Then came the Queen of Orkney, and she scolded them all round for not having known Gareth in spite of his disguise; but when she heard how he had proved himself, and the charming bride he had won, she was comforted, and so all ended happily with wedding bells.
+（譯）其時オルクニーの王妃も見えて、よし身を窶して居るにもせよ［＃「よし身を窶して居るにもせよ」に傍線］（in spite of his disguise）ゲーレスと氣が付かなかつたとはと［＃「ゲーレスと氣が付かなかつたとはと」に傍線］（for not having known Gareth）滿座の人々を叱りつけた［＃「滿座の人々を叱りつけた」に傍線］（scolded them all round）が、我子が常人（たゞびと）ならぬを見せた次第［＃「我子が常人（たゞびと）ならぬを見せた次第」に傍線］（how he had proved himself）と、美しい花嫁を手に入れた次第とを［＃「美しい花嫁を手に入れた次第とを」に傍線］（how［＃「how」は斜体］ the charming bride he had won＝how［＃「how」は斜体］ he had won the charming bride）聞かせられては、（さすがに）王妃も其の氣色を直ほされた［＃「其の氣色を直ほされた」に傍線］（was comforted）、斯くて目出度何もかも結婚の鐘で大團圓となつた［＃「斯くて目出度何もかも結婚の鐘で大團圓となつた」に傍線］（so all ended happily with wedding bells）。
+
+　　　　　　　　　［THE END］
+
+
+
+底本：「第八篇　アーサー王物語」青年英文學叢書、三省堂書店
+　　　1907（明治40）年6月11日発行
+※底本は横組みです。
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。
+※国会図書館デジタルコレクション（http://dl.ndl.go.jp）で公開されている当該書籍画像に基づいて、作業しました。
+※底本の表紙には、「菅野徳助　奈倉次郎　訳註」とあります。
+入力：林清俊
+校正：考奈花
+2011年3月8日作成
+2016年7月19日修正
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。

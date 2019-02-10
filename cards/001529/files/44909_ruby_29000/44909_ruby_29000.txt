@@ -1,0 +1,2934 @@
+アイヌ神謡集
+知里幸惠編訳
+
+-------------------------------------------------------
+【テキスト中に現れる記号について】
+
+《》：ルビ
+（例）囀《さえ》ずる
+
+｜：ルビの付く文字列の始まりを特定する記号
+（例）建てた時｜榛《はしばみ》の
+
+［＃］：入力者注　主に外字の説明や、傍点の位置の指定
+　　　（数字は、JIS X 0213の面区点番号）
+（例）※［＃「窗／心」、第3水準1-89-54］
+-------------------------------------------------------
+
+　　　　　　　　　　　　序
+
+　その昔この広い北海道は，私たちの先祖の自由の天地でありました．天真爛漫な稚児の様に，美しい大自然に抱擁されてのんびりと楽しく生活していた彼等は，真に自然の寵児，なんという幸福な人だちであったでしょう．
+　冬の陸には林野をおおう深雪を蹴って，天地を凍らす寒気を物ともせず山又山をふみ越えて熊を狩り，夏の海には涼風泳ぐみどりの波，白い鴎の歌を友に木の葉の様な小舟を浮べてひねもす魚を漁り，花咲く春は軟らかな陽の光を浴びて，永久に囀《さえ》ずる小鳥と共に歌い暮して蕗《ふき》とり蓬《よもぎ》摘み，紅葉の秋は野分に穂揃うすすきをわけて，宵まで鮭とる篝《かがり》も消え，谷間に友呼ぶ鹿の音を外に，円《まど》かな月に夢を結ぶ．嗚呼なんという楽しい生活でしょう．平和の境，それも今は昔，夢は破れて幾十年，この地は急速な変転をなし，山野は村に，村は町にと次第々々に開けてゆく．
+　太古ながらの自然の姿も何時の間にか影薄れて，野辺に山辺に嬉々として暮していた多くの民の行方も亦いずこ．僅かに残る私たち同族は，進みゆく世のさまにただ驚きの眼をみはるばかり．しかもその眼からは一挙一動宗教的感念に支配されていた昔の人の美しい魂の輝きは失われて，不安に充ち不平に燃え，鈍りくらんで行手も見わかず，よその御慈悲にすがらねばならぬ，あさましい姿，おお亡びゆくもの……それは今の私たちの名，なんという悲しい名前を私たちは持っているのでしょう．
+　その昔，幸福な私たちの先祖は，自分のこの郷土が末にこうした惨めなありさまに変ろうなどとは，露ほども想像し得なかったのでありましょう．
+　時は絶えず流れる，世は限りなく進展してゆく．激しい競争場裡に敗残の醜をさらしている今の私たちの中からも，いつかは，二人三人でも強いものが出て来たら，進みゆく世と歩をならべる日も，やがては来ましょう．それはほんとうに私たちの切なる望み，明暮《あけくれ》祈っている事で御座います．
+　けれど……愛する私たちの先祖が起伏す日頃互いに意を通ずる為に用いた多くの言語，言い古し，残し伝えた多くの美しい言葉，それらのものもみんな果敢なく，亡びゆく弱きものと共に消失せてしまうのでしょうか．おおそれはあまりにいたましい名残惜しい事で御座います．
+　アイヌに生れアイヌ語の中に生いたった私は，雨の宵，雪の夜，暇ある毎に打集って私たちの先祖が語り興じたいろいろな物語の中極く小さな話の一つ二つを拙ない筆に書連ねました．
+　私たちを知って下さる多くの方に読んでいただく事が出来ますならば，私は，私たちの同族祖先と共にほんとうに無限の喜び，無上の幸福に存じます．
+
+　　大正十一年三月一日
+
+［＃地から２字上げ］知里幸惠
+［＃改ページ］
+
+　　　　　　AEKIRUSHI
+
+Kamuichikap kamui yaieyukar, “Shirokanipe ranran pishkan”
+Chironnup yaieyukar, “Towa towa to”
+Chironnup yaieyukar, “Haikunterke Haikoshitemturi”
+Isepo yaieyukar, “Sampaya terke”
+Nitatorunpe yaieyukar, “Harit kunna”
+Pon Horkeukamui yaieyukar, “Hotenao”
+Kamuichikap Kamui yaieyukar, “Konkuwa”
+Repun Kamui yaieyukar, “Atuika tomatomaki kuntuteashi hm hm!”
+Terkepi yaieyukar, “Tororo hanrok hanrok!”
+Pon Okikirmui yaieyukar, “Kutnisa kutunkutun”
+Pon Okikirmui yaieyukar, “Tanota hurehure”
+Esaman yaieyukar, “Kappa reureu kappa”
+Pipa yaieyukar, “Tonupeka ranran”
+［＃改ページ］
+
+　　　　　　　　　　目次
+
+　序（知里幸惠）
+梟の神の自ら歌った謡「銀の滴《しずく》降る降るまわりに」
+狐が自ら歌った謡「トワトワト」
+狐が自ら歌った謡「ハイクンテレケ　ハイコシテムトリ」
+兎が自ら歌った謡「サンパヤ　テレケ」
+谷地の魔神が自ら歌った謡「ハリツ　クンナ」
+小狼の神が自ら歌った謡「ホテナオ」
+梟の神が自ら歌った謡「コンクワ」
+海の神が自ら歌った謡「アトイカ　トマトマキ　クントテアシ　フム　フム！」
+蛙が自らを歌った謡「トーロロ　ハンロク　ハンロク！」
+小オキキリムイが自ら歌った謡「クツニサ　クトンクトン」
+小オキキリムイが自ら歌った謡「この砂赤い赤い」
+獺《かわうそ》が自ら歌った謡「カッパ　レウレウ　カッパ」
+沼貝が自ら歌った謡「トヌペカ　ランラン」
+［＃改丁］
+
+アイヌ神謡集
+［＃改ページ］
+
+    Kamuichikap kamui yaieyukar,
+    “Shirokanipe ranran pishkan”
+
+“Shirokanipe ranran pishkan,  konkanipe
+ranran pishkan.” arian rekpo  chiki kane
+petesoro  sapash aine,  ainukotan  enkashike
+chikush kor  shichorpokun  inkarash ko
+teeta wenkur  tane nishpa ne,  teeta nishpa
+tane wenkur ne  kotom shiran.
+Atuiteksam ta  ainuhekattar  akshinotponku（１）
+akshinotponai  euweshinot korokai.
+“Shirokanipe ranran pishkan,
+konkanipe ranran pishkan.” arian rekpo
+chiki kane  hekachiutar  enkashike
+chikush awa,  unchorpoke  ehoyuppa
+ene hawokai:――
+“Pirka chikappo! kamui chikappo!
+Keke hetak,  akash wa  toan chikappo
+kamui chikappo  tukan wa ankur,  hoshkiukkur
+sonno rametok  shino chipapa  ne ruwe tapan”
+hawokai kane,  teeta wenkur  tane nishpa nep
+poutari,  konkani ponku  konkani ponai
+uweunupa  untukan ko,  konkani ponai
+shichorpok chikushte  shienka chikushte,
+rapokita,  hekachiutar  tumukeheta
+shine hekachi  yayan ponku  yayan ponai
+ukoani  iyeutanne,  chinukar chiki
+wenkur poho  ne kotomno  imi ka wano
+akoeraman.  Kipnekorka  shiktumorke（２）
+chiuwante ko,  nishpasani  nekotomno,  shinnai-
+chikapne  iyeutanne.  Anihi nakka  yayan ponku
+yayan ponai  uweunu wa  unramante ko,
+teeta wenkur  tane nishpanep  poutari  euminare
+ene hawokai:――
+“Achikara（３） ta  wenkur hekachi
+toan chikappo  kamui chikappo  aokaiutar
+akor konkaniai ka  somouk（４） ko,  enepkoran
+wenkur hekachi  kor yayanai  muninchikuniai
+toan chikappo  kamui chikappo  shinoshino
+uk nankor wa.”
+hawokai kane  wenkur hekachi  ukooterke
+ukokikkik.  Kipnekorka  wenkur hekachi
+senne ponno  ekottanu  uneyoko.
+Shirki chiki  ihomakeutum  chiyaikore.
+“Shirokanipe ranran pishkan,
+konkanipe ranran pishkan.” arian rekpo
+chiki kane  moiretara  kamuinish kashi
+chikoshikarinpa,  wenkur hekachi
+oatchikiri  otuimaashi  oatchikiri  ohanke ashi,
+poknapapushi  shikoruki  yoko wa anaine
+unkotushura,  tapan ponai  ekshirkonna
+tonnatara,  shirki chiki  chisantekehe
+chiturpa wa  nean ponai  chieshikari
+shikachikachiash  rapash humi
+chiekisarshut  maukururu.
+Ikichiash awa,  nerok hekattar  uhoyuppare
+wenotaupun  shiokotpakor  unuwetushmak.
+Toitoi kata  hachirash  koiramno  hoshkinopo
+wenkur hekachi  unkoshirepa  uneshikari.
+Shirki chiki,  teeta wenkur  tane nishpa nep
+poutari  iyoshino  hoyuppa wa arki,
+tuwan wenitak  rewan wenitak  shuipa kane
+wenkur hekachi  ukooputuipa  ukokikkik.
+“Shirun hekachi  wenkur hekachi
+hoshki tashi  aki kushnep  eiyetushmak.”
+hawokai ko,  wenkur hekachi  unkashike
+kamu kamu  unhonkokishma.
+Hushkotoi wano  iki aine  ainuutur wa
+soikosanu  orowano  hoyupu humi  taknatara.
+Teeta wenkur  tane nishpa nep  poutari
+shuma ari  nihum ari  yapkir korka
+wenkur hekachi  senne pono  ekottanu
+wenotaupun  shiokote  hoyupu aine  shine ponchise
+chisesoikehe  akoshirepa.  Pon hekachi
+rorunpurai kari  unahunke  kurkashike
+itakomare,  tapne tapne  nekatuhu  eisoitak.
+Chiseupshor wa  onneumurek
+tekkakipo  rikunruke  raunruke  arki wa
+inkarash ko,  shino wenkur  ikikorkaiki
+nishpa ipor  katkemat ipor  ukoturpa,
+unnukar awa,  ikkeu noshki  komkosampa.
+Poroshikupkur  yaikokutkor  yupu kane
+unkoonkami.
+“Kamuichikap kamui  pase kamui
+wenash shiri  chiwenchisehe
+koshirepa shiri  iyairaikere.
+Teeta anak  nishpa otta  yayukopishkip
+chine akorka  tane anakne  tan korachi
+shirun wenkur ne  okayash wa,  kotankor（５） kamui
+pase kamui  chireushire ka
+aeoripak  kiwaneyakka  tanto anak
+tane shirkunne kushu  tanukuran  pase kamui
+areushire wa  nisatta anak  ouse inau aripoka
+pase kamui  aomante kushne.” ari okaipe
+ye kor  tuwan onkami  rewan onkami  ukakushte.
+Poroshikupmat  rorunpurai  chorpoketa
+okitarunpe  soho kar wa  otta unante.
+Taporowa  opittano  hotkei nani  etoro hawe
+meshrototke.
+Chinetopake  ashurpe ututta  rokash kane
+okayash aine  shiannoshki  turpaketa
+chirikipuniash.
+“Shirokanipe ranran pishkan,
+konkanipe ranran pishkan.”
+arian rekpo  haukenopo  chiki kane,
+tapan ponchise  eharkiso（６） un  eshiso un（７）
+terkeash humi  tununitara.
+Shirappaash ko  unpishkan ta
+pirkaikor  kamuiikor  tuihumkonna
+tununitara.
+Irukai neko  tan ponchise pirkaikor
+kamuiikor  chieshikte.
+“Shirokanipe ranran pishkan,
+konkanipe ranran pishkan.”
+arian rekpo  chiki kane  tapan ponchise
+irukai neko  kani chise  poro chise ne
+chikar okere,  chiseupshoro  kamuiimoma
+chiekarkar, kamuikosonte  pirkaike
+chitunashkarkar  chiseupshoro  chietomte.
+Nishpa horari ruwe  okkashita  tan porochise
+upshoroho  chitomtekarkar,  chiokere ko
+hushko anpe  chishikopayar  chihayokpehe（８）
+ashurpeututa  rokash kane  okayash.
+chisekorutar  chiwentarapka.
+Ainunishpa  maukowen wa wenkur ne wa,
+teeta wenkur  tane nishpa nep  utarorke wa
+apiye hawe  akorewen shiri  chinukar wa,
+chierampoken kushu,  pashtakamui
+chine ruwe ka  shomone korka,  ainuchise
+chiko reushi  chipirkare ruwe  ne katuhu
+chieramante.
+Taporowa  ponno okayash  shirpeker awa
+chisekor utar  shine ikinne  uhopunpare.
+Shik noyanoya inkanrokpe  opittano
+amso kata  oahuntaipa.  Poroshikupmat
+tuchish wenpe  yayekote,  poroshikupkur
+tu pekernupe  re pekernupe  yaikorapte,
+okai rokine,  poroshikupkur  chirikipuni
+unotta arki  tuwan onkami  rewan onkami
+ukakushte  kurkashike  itakomare:
+“Tarap hetapne  mokor hetapne  chiki kuni
+chiramu awa  iyosserkere  ikaran ruwe,
+wenash shiri  otuiash（９） shiri  chiwenchisehe
+koshirepa  patek neyakka  chieyairaikep,
+Kotankor Kamui  pase kamui  maukowenash ruwe
+chierampoken  unekarkar,
+chikashnukar（10） nakka  shipase ike  aunekarkar
+kiruweokai.” ari okaipe chishturano
+eonkami.
+Taporowa  poroshikupkur  inauni tuye
+pirka inau  tomtekar wa  unetomte.
+Poroshikupmat  yaikokutkor  yupu kane
+pon hekachi  shikashuire  usa nina
+usa wakkata  sakeshuye  etokooiki,  irukai neko
+iwan shintoko  rororaipa.
+Orowano apehuchi（11）  kamuihuchi tura
+usaokai  kamuiorushpe  chieuweneusar.（12）
+Tutko pakno  shiran ko,  kamuierushuipe
+nepnekushu  chiseupshoro  sakehura
+epararse.
+Tata otta  nea hekachi  okamkino
+hushko amip  amire wa  kotanepitta okai
+teeta wenkur  tane nishpa nep  utarorkehe
+ashke（13） aukte kushu  asange wakushu
+oshiinkarash ko  ponhekachi  chisepishno
+ahun wa  sonkoye ko,
+teeta wenkur  tane nishpa nep  utarorkehe
+euminare:
+“Usainetapshui  wenkurutar  koohanepo
+nekonaan  sake kar wa  nekonaan
+marapto an wa  eunahunke  hawe ta an,
+payean wa  nekona shirki ya  inkarash wa
+aemina ro.” ari
+hawokai kane  inne topa ne  uweutanne
+arki aine  toop tuimano  ouse chise  nukar wa
+ehomatpa  yashtoma wa  nani hoshippap ka okai,
+chisesoi pakno  arki wa  oahuntaipap ka okai.
+Shirki chiki  chisekor katkemat  soine wa
+ainuopitta  ashkehe uk wa  ahupte ko,
+opitta no  shinu kane  reye kane  ahup wa
+hepunpa  ruwe  oararisham.
+Shiranchiki  chisekon nishpa  chirikipuni
+ki charanke  kakkokhau（14） ne  ouseturse
+ene ene  ne katuhu  eisoitak:
+“Tapne tapne  wenkur ane wa  raukisamno
+ukopayekai ka  aeaikap ruwe  ne a korka
+pase kamui  unerampokiwen,  nep wenpuri
+chikon ruwe ka  somone a kushu  tankorachi
+aunkashnukar  ki ruwene kushu,
+tan tewano  kotanepitta  shine utar
+ane ruwene kushu  uwekatairotkean
+ukopayekaian  ki kunine  nishpa utar
+akoramkor  shiri tapan.” ari okaipe
+echaranke awa  nishpa utar
+otusanashke  oresanashke  ukaenoipa
+chisekor nishpa  koyayapapu,  tewano anak
+uwekatairotke kuni  eukoitak.
+Chiokai nakka  aunkoonkami.
+Taporowa  ainuopitta  ramuriten wa
+shisak tonoto  ukoante.
+Chiokai anak  Kamui Huchi  Chisekor Kamui（15）
+Nusakor（16） Huchi tura  uweneusarash kor
+ainupitoutar  tapkar shiri  rimse shiri
+chinukar wa  chieyaikiror  ante kane,
+tutko rerko  shiran ko  ikuoka an,
+ainupitoutar  uwekatairotke shiri
+chinukar wa  chieramushinne,
+Kamui Huchi  Chisekor Kamui
+Nusakor Huchi chietutkopak.
+Taporowa  chiunchisehe  chikohekomo.
+Unetokta  chiunchisehe  pirka inau
+pirka sake  chieshikte.
+Shiran chiki  hanke kamui  tuima kamui
+chikosonkoanpa  chitak wa  shisak tonoto
+chiukoante,  ikutuikata  kamuiutar
+chikoisoitaka,  ainukotan chihotanukar
+eneshirani  eneshirkii  chiomommomo ko,
+kamuiutar  unkopuntek.
+Kamuiutar  hekompaita  pirka inau
+tup chikore  rep chikore.
+Nea ainukotan orun  inkarash ko
+tane anakne  ratchitara  ainupitoutar
+opittano  uwekatairotke  nea nishpa
+kotan esapane wa okai,
+nea hekachi  tane anakne  okkai pakno
+shikup wa,  mat ka kor  po ka kor,
+onaha ka,  unuhu ka,  nunuke kor okai,
+rammaramma  sakekarichi ko
+ikiratpa ta  usa inau  usa sake unenomi,
+chiokai nakka  ainuutar  sermakaha
+hempara nakka  chiehorari,
+ainumoshir  chiepunkine wa okayash.
+    ari kamuichikap kamui isoitak.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　昔は男の子が少し大きくなると，小さい弓矢を作って与えます．子供はそれで樹木や鳥などを的に射て遊び，知らずしらずの中に弓矢の術に上達します．
+［＃ここから１字下げ］
+ak……は弓術，shinot は遊戯，ponai は小矢．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（２）　shiktumorke……眼つき．
+［＃ここから１字下げ］
+人の素性を知ろうと思う時は，その眼を見ると一ばんよくわかると申しまして，少しキョロキョロしたりすると叱られます．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（３）　achikara……「汚い」という意味．
+（４）　鳥やけものが人に射落されるのは，人の作った矢が欲しいので，その矢を取るのだと言います．
+（５）　kotankorkamui……国または村を持つ神．
+［＃ここから１字下げ］
+山には，nupurikorkamui……山を持つ神（熊）と nupuripakorkamui……山の東を持つ神（狼）などがあって，ふくろうは熊，狼の次におかれます．
+kotankorkamui は山の神，山の東の神，の様に荒々しいあわて者ではありません．それでふだんは沈《おち》着いて，眼をつぶってばかりいて，よっぽど大変な事のある時でなければ眼を開かないと申します．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（６）　eharkiso……左の座．
+（７）　eshiso……右の座．
+［＃ここから１字下げ］
+家の央に囲炉裏《いろり》があって，東側の※［＃「窗／心」、第3水準1-89-54］のある方が上座，上座から見て右が eshiso 左が harkiso．上座に坐るのは男子に限ります．お客様などで，家の主人よりも身分の卑しい人は上座につく事を遠慮します．右の座には主人夫婦がならんですわる事にきまっています．右座の次が左の座で，西側（戸口の方）の座が一ばん下座になっています．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（８）　hayokpe 冑．
+［＃ここから１字下げ］
+鳥でもけものでも山にいる時は，人間の目には見えないが，各々に人間の様な家があって，みんな人間と同じ姿で暮していて，人間の村へ出て来る時は冑を着けて出て来るのだと云います．そして鳥やけものの屍体は冑で本体は目には見えないけれども，屍体の耳と耳の間にいるのだと云います．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（９）　otuipe……尻の切れた奴．
+［＃ここから１字下げ］
+犬の尻尾の切れた様に短いのはあまり尊びません．
+極くつまらない人間の事を wenpe……悪い奴，otuipe……尻尾の切れた奴と悪口をします．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（10）　chikashnukar．神が大へん気に入った人間のある時，ちっとも思いがけない所へ，その人間に何か大きな幸を恵与すると，その人は ikashnukar an と云ってよろこびます．
+（11）　apehuchi……火の老女．火の神様は，家の中で最も尊い神様でおばあさんにきまっています．山の神や海の神，その他種々な神々がこのふくろうの様にお客様になって，家へ来た時は，この apehuchi が主になって，お客のお相手をして話をします．ただ kamuihuchi（神老女）と云ってもいい事になっています．
+（12）　neusar 語り合う事．
+［＃ここから１字下げ］
+種々な世間話を語り合うのも neusar．普通 kamuiyukar（神謡）や uwepeker（昔譚）の様なものを neusar と云います．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（13）　ashke a uk．ashke は指，手．a uk は取る．なにか祝いがあるとき人を招待する事を云います．
+（14）　kakkokhau……カッコウ鳥の声．
+［＃ここから１字下げ］
+カッコウ鳥の声は，美しくハッキリと耳に響きますから，ハキハキとしてみんなによくわかるように物を云う人の事をカッコウ鳥の様だと申します．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（15）　chisekorkamui……家を持つ神．
+［＃ここから１字下げ］
+火の神が主婦で，家の神が主人の様なものです．男性で chisekorekashi……家を持つおじいさんとも申します．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（16）　nusakorkamui……御幣棚を持つ神，老女．
+［＃ここから１字下げ］
+御幣棚の神も女性にきまっています．何か変事の場合人間にあらわれる事がありますが，その時は蛇の形をかりてあらわれると云います．それで御幣棚の近所に，または東の方の※［＃「窗／心」、第3水準1-89-54］の近所に，蛇が出て来たりすると，「きっと御幣棚のおばあさんが用事があって外出したのだろう」と言って，決してその蛇を殺しません．殺すと罰が当りますと云います．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　　　　梟の神の自ら歌った謡
+　　　　　「銀の滴《しずく》降る降るまわりに」
+
+「銀の滴降る降るまわりに，金の滴
+降る降るまわりに．」という歌を私は歌いながら
+流に沿って下り，人間の村の上を
+通りながら下を眺めると
+昔の貧乏人が今お金持になっていて，昔のお金持が
+今の貧乏人になっている様です．
+海辺に人間の子供たちがおもちゃの小弓に
+おもちゃの小矢をもってあそんで居ります．
+「銀の滴降る降るまわりに
+金の滴降る降るまわりに．」という歌を
+歌いながら子供等の上を
+通りますと，（子供等は）私の下を走りながら
+云うことには，
+「美しい鳥！　神様の鳥！
+さあ，矢を射てあの鳥
+神様の鳥を射当てたものは，一ばんさきに取った者は
+ほんとうの勇者，ほんとうの強者だぞ．」
+云いながら，昔貧乏人で今お金持になってる者の
+子供等は，金の小弓に金の小矢を
+番《つが》えて私を射ますと，金の小矢を
+私は下を通したり上を通したりしました．
+その中に，子供等の中に
+一人の子供がただの（木製の）小弓にただの小矢
+を持って仲間にはいっています．私はそれを見ると
+貧乏人の子らしく，着物でも
+それがわかります．けれどもその眼色を
+よく見ると，えらい人の子孫らしく，一人変り
+者になって仲間入りをしています．自分もただの小弓に
+ただの小矢を番えて私をねらいますと，
+昔貧乏人で今お金持の子供等は大笑いをして
+云うには，
+「あらおかしや貧乏の子
+あの鳥，神様の鳥は私たちの
+金の小矢でもお取りにならないものを，お前の様な
+貧乏な子のただの矢腐れ木の矢を
+あの鳥，神様の鳥がよくよく
+取るだろうよ．」
+と云って，貧しい子を足蹴にしたり
+たたいたりします．けれども貧乏な子は
+ちっとも構わず私をねらっています．
+私はそのさまを見ると，大層不憫に思いました．
+「銀の滴降る降るまわりに，
+金の滴降る降るまわりに．」という歌を
+歌いながらゆっくりと大空に
+私は輪をえがいていました．貧乏な子は
+片足を遠く立て片足を近くたてて，
+下唇をグッと噛みしめて，ねらっていて
+ひょうと射放しました．小さい矢は美しく飛んで
+私の方へ来ました，それで私は手を
+差しのべてその小さい矢を取りました．
+クルクルまわりながら私は
+風をきって舞い下りました．
+すると，彼《か》の子供たちは走って
+砂吹雪をたてながら競争しました．
+土の上に私が落ちると一しょに，一等先に
+貧乏な子がかけついて私を取りました．
+すると，昔貧乏人で今は金持になってる者の
+子供たちは後から走って来て
+二十も三十も悪口をついて
+貧乏な子を押したりたたいたり
+「にくらしい子，貧乏人の子
+私たちが先にしようとする事を先がけしやがって．」
+と云うと，貧乏な子は，私の上に
+おおいかぶさって，自分の腹にしっかりと私を押えていました．
+もがいてもがいてやっとの事，人の隙から
+飛び出しますと，それから，どんどんかけ出しました．
+昔は貧乏人で今は金持の子供等が
+石や木片を投げつけるけれど
+貧乏な子はちっとも構わず
+砂吹雪をたてながらかけて来て一軒の小屋の
+表へ着きました．子供は
+第一の※［＃「窗／心」、第3水準1-89-54］から私を入れて，それに
+言葉を添え，斯々《かくかく》のありさまを物語りました．
+家の中から老夫婦が
+眼の上に手をかざしながらやって来て
+見ると，大へんな貧乏人ではあるけれども
+紳士らしい淑女らしい品をそなえています，
+私を見ると，腰の央《なか》をギックリ屈めて，ビックリしました．
+老人はキチンと帯をしめ直して，
+私を拝し
+「ふくろうの神様，大神様，
+貧しい私たちの粗末な家へ
+お出で下さいました事，有難う御座います．
+昔は，お金持に自分を数え入れるほどの者で
+御座いましたが今はもうこの様に
+つまらない貧乏人になりまして，国の神様
+大神様をお泊め申すも
+畏れ多い事ながら今日はもう
+日も暮れましたから，今宵は大神様を
+お泊め申し上げ，明日は，ただイナウだけでも
+大神様をお送り申し上げましょう．」という事を
+申しながら何遍も何遍も礼拝を重ねました．
+老婦人は，東の※［＃「窗／心」、第3水準1-89-54］の下に
+敷物をしいて私をそこへ置きました．
+それからみんな寝ると直ぐに高いびきで
+寝入ってしまいました．
+私は私の体の耳と耳の間に坐って
+いましたがやがて，ちょうど，真夜中時分に
+起き上りました．
+「銀の滴降る降るまわりに，
+金の滴降る降るまわりに．」
+という歌を静かにうたいながら
+この家の左の座へ右の座へ
+美しい音をたてて飛びました．
+私が羽ばたきをすると，私のまわりに
+美しい宝物，神の宝物が美しい音をたてて
+落ち散りました．
+一寸のうちに，この小さい家を，りっぱな宝物
+神の宝物で一ぱいにしました．
+「銀の滴降る降るまわりに，
+金の滴降る降るまわりに．」
+という歌をうたいながらこの小さい家を
+一寸の間にかねの家，大きな家に
+作りかえてしまいました，家の中は，りっぱな宝物の積場
+を作り，りっぱな着物の美しいのを
+早つくりして家の中を飾りつけました．
+富豪の家よりももっとりっぱにこの大きな家の
+中を飾りつけました．私はそれを終ると
+もとのままに私の冑の
+耳と耳の間に坐っていました．
+家の人たちに夢を見せて
+アイヌのニシパが運が悪くて貧乏人になって
+昔貧乏人で今お金持になっている者たちに
+ばかにされたりいじめられたりしてるさまを私が見て
+不憫に思ったので，私は身分の卑しいただの神では
+ないのだが，人間の家
+に泊って，恵んでやったのだという事を
+知らせました．
+それが済んで少したって夜が明けますと
+家の人々が一しょに起きて
+目をこすりこすり家の中を見るとみんな
+床の上に腰を抜かしてしまいました．老婦人は
+声を上げて泣き，老人は
+大粒の涙をポロポロこぼして
+いましたが，やがて，老人は起き上り
+私の処へ来て，二十も三十も礼拝
+を重ねて，そして云う事には，
+「ただの夢ただの眠りをしたのだと
+思ったのに，ほんとうに，こうしていただいた事．
+つまらないつまらない，私共の粗末な家に
+お出で下さるだけでも有難く存じますものを
+国の神様，大神様，私たちの不運な
+事を哀れんで下さいまして
+お恵みのうちにも最も大きいお恵みをいただき
+ました事．」と云う事を泣きながら
+申しました．
+それから，老人はイナウの木をきり
+りっぱなイナウを美しく作って私を飾りました．
+老婦人は身仕度をして
+小さい子を手伝わせ，薪をとったり
+水を汲んだりして，酒を造る仕度をして，一寸の間に
+六つの酒樽を上座にならべました．
+それから私は火の老女，老女神と
+種々な神の話を語り合いました．
+二日程たつと，神様の好物ですから
+はや，家の中に酒の香が
+漂いました．
+そこで，あの小さい子に態《わざ》と
+古い衣物を着せて，村中の
+昔貧乏人で今お金持になっている人々を
+招待するため使いに出してやりました．ので
+後見送ると，子供は家毎に
+入って使いの口上を述べますと
+昔貧乏人で今お金持になっている人々は
+大笑いをして
+「これはふしぎ，貧乏人どもが
+どんな酒を造ってどんな
+御馳走があってそのため人を招待するのだろう，
+行ってどんな事があるか見物して
+笑ってやりましょう．」と
+言い合いながら大勢打ち連れて
+やって来て，ずーっと遠くから，ただ家を見ただけで
+驚いてはずかしがり，そのまま帰る者もあります，
+家の前まで来て腰を抜かしているのもあります．
+すると，家の夫人が外へ出て
+人皆の手を取って家へ入れますと，
+みんないざり這いよって
+顔を上げる者もありません．
+すると，家の主人は起き上って
+カッコウ鳥の様な美しい声で物を言いました．
+斯々《かくかく》の訳を物語り
+「この様に，貧乏人でへだてなく
+互に往来も出来なかったのだが
+大神様があわれんで下され，何の悪い考えも
+私どもは持っていませんのでしたのでこの様に
+お恵みをいただきましたのですから
+今から村中，私共は一族の者
+なんですから，仲善くして
+互に往来をしたいという事を皆様に
+望む次第であります．」という事を
+申し述べると，人々は
+何度も何度も手をすりあわせて
+家の主人に罪を謝し，これからは
+仲よくする事を話し合いました．
+私もみんなに拝されました．
+それが済むと，人はみな，心が柔らいで
+盛んな酒宴を開きました．
+私は，火の神様や家の神様や
+御幣《ごへい》棚の神様と話し合いながら
+人間たちの舞を舞ったり躍りをしたりするさまを
+眺めて深く興がりました．そして
+二日三日たつと酒宴は終りました．
+人間たちが仲の善いありさまを
+見て，私は安心をして
+火の神，家の神
+御幣棚の神に別れを告げました．
+それが済むと私は自分の家へ帰りました．
+私の来る前に，私の家は美しい御幣
+美酒が一ぱいになっていました．
+それで近い神，遠い神に
+使者をたてて招待し，盛んな酒宴を
+張りました，席上，神様たちへ
+私は物語り，人間の村を訪問した時の
+その村の状況，その出来事を詳しく話しますと
+神様たちは大そう私をほめたてました．
+神様たちが帰る時に美しい御幣を
+二つやり三つやりしました．
+彼《か》のアイヌ村の方を見ると，
+今はもう平穏で，人間たちは
+みんな仲よく，彼のニシパが
+村に頭になっています，
+彼の子供は，今はもう，成人
+して，妻ももち子も持って
+父や母に孝行をしています，
+何時でも何時でも，酒を造った時は
+酒宴のはじめに，御幣やお酒を私に送ってよこします．
+私も人間たちの後に坐して
+何時でも
+人間の国を守護《まも》っています．
+　　と，ふくろうの神様が物語りました．
+［＃改ページ］
+
+ Chironnup yaieyukar,“Towa towa to”
+
+Towa towa to
+Shineanto ta  armoisam un  nunipeash kusu
+sapash.
+Shumatumu  chashchash,  towa towa to
+nitumu chashchash,  towa  towa to
+sapash kor  shietok un  inkarash awa
+armoisam ta  hunpe yan wa
+ainupitoutar  ushiyakko  turpa kane
+isoetapkar  iso erimse  ichautar  irurautar
+utasatasa  nishpautar  isoeonkamip（１）
+emush ruikep  armoisama  kokunnatara,
+chinukat chiki  shino chieyaikopuntek.
+“Hetakta usa  tooani  chikoshirepa
+ponno poka  chiahupkar okai.” ari
+yainuash kushu “Ononno!（２） Ononno!” ari
+hotuipaash kor,
+shumatumu  chashchash,  towa towa to
+nitumu  chashchash,  towa towa to
+payeash aine  hankeno payeash  inkarash awa
+senneka shui  inkarash kuni  chiramuai
+humpe yan ruwe  nekuni patek  chiramuap
+armoisam ta  setautar  osomai an wa
+poro shinupuri  chishireanu,
+newaanpe  humpe ne kuni  chiramu ruwe
+ne rokokai.
+Ainupitoutar  isoerimse  isoetapkar
+usa icha  usa irura  kishiri nekuni
+chiramurokpe  shipashkurutar
+shi tokpa  shi charichari
+tonta terke  teta terke  shirine awokai.
+Irushkakeutum  chiyaikore.
+“Toishikimanaush  towa towa to
+wenshikimanaush  towa towa to
+sarpoki huraot  towa towa to
+sarpoki munin  towa towa to
+ointenu  towa towa to
+otaipenu  towa towa to
+inkar hetap  neptap teta  ki humi okai.”
+Orowano shui
+shumatumu chashchash,  towa towa to
+nitumu chashchash,  towa towa to
+rutteksam peka  hoyupuash kor
+inkarash awa  unetokta
+chip an kane  shiran kiko  chiposhketa
+ainu tunpish  uniwente（３） kor okai,
+“Usainetap shui  nep achomatup
+an wa tapne  shirki kiya, senne nepeka
+chipkohokush  utar hene  okai ruwe hean?
+Hetakta usa  nohankeno  payeash wa
+ainuorushpe  chinu okai.”
+yainuash kushu  tapan hokokse（４）
+chiriknapuni,
+shumatumu chashchash,  towa towa to
+nitumu chashchash,  towa towa to
+terkeash kane  payeash wa  inkarash awa
+chip ne kuni  chiramuap  atuiteksamta an
+shirar ne wa,  ainu ne kuni  chiramuap
+tu porourir  ne awokai.
+Tu porourir  tannerekuchi  rurpa yonpa,
+ikichi shiri  uniwente an  shirine pekor
+chinukan ruwe  ne awokai.
+“Toishikimanaush,  towa towa to
+wenshikimanaush,  towa towa to
+sarpoki huraot,  towa towa to
+sarpoki munin,  towa towa to
+ointenu,  towa towa to
+otaipenu,  towa towa to
+inkar hetap  neptap teta  ki humi okai.”
+Orowa no shui
+shumatumu chashchash,  towa towa to
+nitumu chashchash,  towa towa to
+terkeash kane  petturashi  payeash awa,
+toop penata  menoko tunpish
+utka otta  roshki kane  uchishkar kor okai,
+chinukar chiki  chiehomatu,
+“Usainetapshui  nep wenpe an,
+nep ashurek（５） wata  uchishkaran（６） shiri
+okaipe ne ya?
+Hetaktausa  shirepaash wa  ainuorushpe
+chinu okai.”
+yainuash kushu,
+shumatumu chashchash,  towa towa to
+nitumu chashchash,  towa towa to
+terkeash kane  payeash wa  inkarash awa
+pethontomta  tu uraini  roshki kanan ko,
+tu uraiikushpe  chiukururu ko,
+tu menoko  uko hepoki  ukohetari kane
+uchishkar shiri  ne kuni  chiramu ruwe
+ne awokai,
+“Toishikimanaush,  towa towa to
+wenshikimanaush,  towa towa to
+sarpoki huraot,  towa towa to
+sarpoki munin,  towa towa to
+ointenu,  towa towa to
+otaipenu,  towa towa to
+inkar hetap  neptap teta  ki humi okai.”
+Orowano shui  petturashi
+shumatumu chashchash,  towa towa to
+nitumu chashchash,  towa towa to
+terkeash kane  hoshippa ash wa  arkiash.
+Shietokun  inkarash awa,
+nekonne shiri  ne nankora,
+chiunchisehe  nuikohopuni
+kamuinish kata  rikin shupuya
+kutteknish ne,  chinukar chiki
+homatpaash  yainuturainuash pakno
+homatpaash,  matrimimse（７）  chiriknapuni
+terkeash awa  unetunankar  hemantaanpe
+taruipeutanke（８）  riknapuni  unteksamta
+chitursere, inkarash awa  chimachihi
+homatuipor  eun kane  hese hawe  taknatara:
+“Chikor nishpa  nekonne hawe tan?”
+Hawash chiki  inkarash awa  neita tapne
+chiseuhui  an pokor  inkarash awa
+chiunchisehe  ene ani nepkor
+ash kane an,  ape ka isam  shupuya ka isam,
+oroyachiki  chimachihi  iyuta ko
+rapoketa  rerarui wa  tuituye amam
+murihi  rera paru shiri
+shupuya nepkor  chinukan ruwe  ne rokokai.
+Nunipeash yakka  aep omukenash  kashikunshui,
+peutankeash wa  chimachihi
+ehomatu kushu,  tuituye koran  amam neyakka
+mui turano  eyapkir wa  isam kushu,
+tanukuran anak  sayosakash,
+irushkaash kushu  chiamasotki  sotkiasam
+chikoyayoshura.
+“Toishikimanaush,  towa towa to
+wenshikimanaush,  towa towa to
+sarpoki huraot,  towa towa to
+sarpoki munin,  towa towa to
+ointenu,  towa towa to
+otaipenu,  towa towa to
+inkar hetap  neptap teta  ki humi okai.”
+                                   ari
+                Chironnup tono yaieyukar.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　isoeonkami．iso は海幸，eonkami は……を謝す事．
+［＃ここから１字下げ］
+鯨が岸で打ち上げられるのは，海の大神様が人間に下さる為に御自分で持って来て，岸へ打ち上げて下さるものだと信じて，その時は必ず重立った人が盛装して沖の方をむいて礼拝をします．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（２）　ononno．これは海に山に猟に出た人が何か獲物を持って帰って来た時にそれを迎える人が口々に言う言葉です．
+（３）　uniwente……大水害のあと，火災のあと，火山の破裂のあと，その他種々な天災のあったあとなどに，または人が熊に喰われたり，海や川に落ちたり，その他なにによらず変った事で負傷したり，死んだりした場合に行う儀式の事．
+［＃ここから１字下げ］
+その時は槍や刀のさきを互いに突き合せながらお悔みの言葉を交します．一つの村に罹災者が出来ると，近所の村々から沢山の代表者がその村に集ってその儀式を行いますが，一人と一人でも致します．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（４）　hokokse……uniwente の時，また大へんな変り事が出来た時に神様に救いを求める時の男の叫び声．フオホホーイと，これは男に限ります．
+（５）　ashur は変った話，ek は来る．
+［＃ここから１字下げ］
+……村から遠い所に旅に出た人が病気したとか死んだとかした時にその所からその人の故郷へ使者がその変事を知らせに来るとか，外の村で誰々が死にましたとか，何々の変った事がありましたとかと村へ人が知らせに来る事を云います．
+その使者を ashurkorkur（変った話を持つ人）と云います．
+ashurkorkur は村の近くへ来た時に先ず大声をあげて hokokse（フオホホーイ）をします．すると，それをききつけた村人は，やはり大声で叫びながら村はずれまで出迎えてその変り事をききます．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（６）　uchishkar……泣き合う．これは女の挨拶，長く別れていて久しぶりで会った時，近親の者が死んだ時，誰かがなにか大変な危険にあって，やっと免れた時などに，女どうしで手を取り合ったり，頭や肩を抱き合ったりして泣く事．
+（７）　matrimimse（女の叫び声）……何か急変の場合または uniwente の場合，男は hokokse（フオホホーイ）と太い声を出しますが，女はほそくホーイと叫びます．
+［＃ここから１字下げ］
+女の声は男の声よりも高く強くひびくので神々の耳にも先にはいると云います．それで急な変事が起った時には，男でも女の様にほそい声を出して，二声三声叫びます．
+［＃ここで字下げ終わり］
+［＃ここから改行天付き、折り返して１字下げ］
+（８）　peutanke……rimimse と同じ意ですが，これは普通よく用いられる言葉で，rimimse の方は少し難かしい言葉になっています．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　　狐が自ら歌った謡「トワトワト」
+
+トワトワト
+ある日に海辺へ食物を拾いに
+出かけました．
+石の中ちゃらちゃら
+木片の中ちゃらちゃら
+行きながら自分の行手を見たところが
+海辺に鯨が寄り上って
+人間たちがみんな盛装して
+海幸をば喜び舞い海幸をば喜び躍り肉を切る者運ぶ者が
+行き交《か》って重立った人たちは海幸をば謝し拝む者
+刀をとぐ者など浜一ぱいに黒く見えます．
+私はそれを見ると大層喜びました．
+「ああ早くあそこへ着いて
+少しでもいいから貰いたいものだ」と
+思って「ばんざーい！　ばんざーい」と
+叫びながら
+石の中ちゃらちゃら
+木片の中ちゃらちゃら
+行って行って近くへ行って見ましたら
+ちっとも思いがけなかったのに
+鯨が上ったのだとばかり思ったのは
+浜辺に犬どもの便所があって
+大きな糞の山があります，
+それを鯨だと私は思ったので
+ありました．
+人間たちが海幸をば喜んで躍り海幸をば喜び舞い
+肉を切ったりはこんだりしているのだと
+私が思ったのはからすどもが
+糞をつっつき糞を散らし散らし
+その方へ飛びこの方へ飛びしているのでした．
+私は腹が立ちました．
+「眼の曇ったつまらない奴
+眼の曇った悪い奴
+尻尾の下の臭い奴
+尻尾の下の腐った奴
+お尻からやにの出る奴
+お尻から汚い水の出る奴
+なんという物の見方をしたのだろう．」
+それからまた
+石の中ちゃらちゃら
+木片の中ちゃらちゃら
+海のそばから走りながら
+見たところが私の行手に
+舟があってその舟の中で
+人間が二人互いにお悔みをのべています，
+「おや，何の急変が
+あるのでああいう事をしているのだろう，もしや
+舟と一しょに引繰《ひっくり》かえった人でもあるのではないかしら，
+おお早くずっと近くへ行って
+人の話を聞きたいものだ．」
+と思うのでフオホホーイと
+高く叫んで
+石の中ちゃらちゃら
+木片の中ちゃらちゃら
+飛ぶようにして行って見たら
+舟だと思ったのは浜辺にある
+岩であって，人だと思ったのは
+二羽の大きな鵜であったのでした．
+二羽の大きな鵜が長い首をのばしたり縮めたり
+しているのを悔みを言い合っている様に
+私は見たのでありました．
+「眼の曇ったつまらない奴
+眼の曇った悪い奴
+尻尾の下の臭い奴
+尻尾の下の腐った奴
+お尻からやにの出る奴
+お尻から汚い水の出る奴
+なんという物の見方をしたのだろう．」
+それからまた
+石の中ちゃらちゃら
+木片の中ちゃらちゃら
+飛ぶ様にして川をのぼって行きましたところが
+ずーっと川上に女が二人
+浅瀬に立っていて泣き合っています．
+私はそれを見てビックリして
+「おや，なんの悪い事があって
+なんの凶報が来てあんなに泣き合って
+いるのだろう？
+ああ早く着いて人の話を
+聞きたいものだ．」
+と思って
+石の中ちゃらちゃら
+木片の中ちゃらちゃら
+飛ぶ様にして行って見たら
+川の中程に二つの簗《やな》があって
+二つの簗の杭《くい》が流れにあたってグラグラ動いているのを
+二人の女がうつむいたり仰むいたりして
+泣き合っているのだと私は思ったの
+でありました．
+「眼の曇ったつまらぬ奴
+眼の曇った悪い奴
+尻尾の下の臭い奴
+尻尾の下の腐った奴
+お尻からやにの出る奴
+お尻から汚い水の出る奴
+なんという物の見方をしたのだろう．」
+それからまた，川をのぼって
+石の中ちゃらちゃら
+木片の中ちゃらちゃら
+飛ぶようにして帰って来ました．
+自分の行手を見ましたところが
+どうしたのだか
+私の家が燃えあがって
+大空へ立ちのぼる煙は
+立ちこめた雲の様です．それを見た私は
+ビックリして気を失うほど
+驚きました．女の声で叫びながら
+飛び上りますと，むこうから誰かが
+大きな声でホーイと叫びながら私のそばへ
+飛んで来ました．見るとそれは私の妻で
+ビックリした顔色で息せききって，
+「旦那様どうしたのですか？」
+と云うので，見ると
+火事の様に見えたのに
+私の家はもとのまま
+たっています．火もなし，煙もありません．
+それは，私の妻が搗物《つきもの》をしていると
+その時に風が強く吹いて簸ている粟の
+糠《ぬか》が吹き飛ばされるさまを
+煙の様に私は見たのでありました．
+食物を探しに出かけても食物も見付からず，その上に
+また，私が大声を上げたので私の妻が
+それに驚いて簸ていた粟をも
+簸と一しょに放り飛ばしてしまったので
+今夜は食べる事も出来ません
+私は腹立たしくて床の底へ
+身を投げて寝てしまいました．
+「眼の曇ったつまらぬ奴
+眼の曇った悪い奴
+尻尾の下の臭い奴
+尻尾の下の腐った奴
+お尻からやにの出る奴
+お尻から汚い水の出る奴
+なんという物の見方をしたのだろう．」
+　　　　　　　　　　　　　と
+　　　　　　狐の頭《かしら》が物語りました．
+［＃改ページ］
+
+          Chironnup yaieyukar,
+    “Haikunterke Haikoshitemturi.”
+
+Haikunterke  Haikoshitemturi
+Moshiresani  kamuiesani  tapkashike
+chiehorari  okayash.
+Shineanto ta  soita soineash  inkarash awa,
+pirka neto netokurkashi  teshnatara,  atuisho kata
+Okikirmui  Shupunramka  Samayunkur
+repa kushu  resoush wa  paye korokai.  Shirki chiki
+chikor wenpuri  unkosankosan.
+Tapanesannot  moshiresani  kamui esani
+tapkashike  too heperai  too hepashi
+koshneterke  chikoikkeukan  matunitara
+nitnepause（１）  pausenitkan  chikekkekekke
+tapan petetok  chinukannukar  shirwen nitnei
+chihotuyekar,  neikorachi tapan petpo
+petetokwano  yupkerera  shupne rera
+chisanasanke  atuika oshma  hontomota
+tapan atui  kannaatui  chipoknare
+poknaatui  chikannare.  Okikirmui  utarorke
+kon repachip  repunkuratui  yaunkuratui
+uweushi ta  anisapushkap  kaiuturu
+koshikarimpa.  Tapan ruyanpe  nupuri shinne
+chip kurkashi  kotososatki.  Shirki chiki
+Okikirmui Samayunkur Shupunramka
+humse tura  chipokonanpe  kohokushhokush.
+Tapan ponchip  komham turse  shikopayar
+chikipokaiki  upsh anke  shirki korka
+ineapkushu  ainupitoutar  okirashnu wa
+shirki nankora  tapan ponchip  rera tumta
+kampekurka  echararse.
+Chinukat chiki  chikor wenpuri  unkosankosan.
+Koshneterke  chikoikkeukan  matunitara,
+nitnepause  pausenitkan  chikekkekekke
+shirwen nitnei  sermaka chiush  chikoarikiki.
+Shirki aine  hunakpaketa  Samayunkur
+tektuika wa  tektuipok wa  kem chararse
+shinkiekot.
+Shirki chiki  rauki mina  chiuweshuye.
+Orowanoshui  arikikiash
+koshneterke  chikoikkeukan  matunitara,
+nitnepause  pausenitkan  chikekkekekke,
+shirwen nitnei  sermaka chiush.
+Okikirmui  Shupunramka  etunne kane
+ukoorshutke  tumashnu assap  pekotopo  pekoreupa
+ikichi aine  hunakpaketa  Shupunramka
+tektuika wa  tektuipok wa  kem chararse
+shinkiekot.  Shirki chiki
+raukimina  chiuweshuye.
+Orowanoshui  koshne terke  chikoikkeukan
+matunitara,  nitne pause,  pausenitkan
+chikekkekekke  chikoarikiki.
+Kipnekorka  Okikirmui  shinki ruwe  oararisam,
+earkaparpe  eitumamor  noye kane
+chipokonanpe  kohokushhokush, iki aineno
+tektuipok ta  kor kanchi  chioarkaye.
+Shirki chiki,  shinkiekot  Samayunkur
+kotetterke  kor kanchi  eshikari  shinen ne kane
+chipokonanpe  kohokushhokush.
+chinukatchiki,  chikor wenpuri  unkosankosan,
+nitnepause  pausenitkan  chikekkekekke,
+koshneterke  chikoikkeukan  matunitara,
+arikikiash  shirwen nitnei  sermaka chiush.
+Ki aineno  Samayunkur  kor kanchi nakka
+chioarkaye,  Okikirmui  Shupunramka
+kotetterke,  kor kanchi  eshikari,
+tumashnu assap  pekotopo  pekorewe.
+Kipne korka  nea kanchi ka  ruyanpe kaye,
+tata otta  Okikirmui  chiposhketa
+chiashtushtekka,  yupke rera  rera tumta
+sennekashui  ainupito  unnukar kuni
+chiramu awa  moshiresani  kamuiesani
+tapkashikun  chishiknoshkike  enitomomo,
+ipor kon ruwe  pirka rokpe  kor wenpuri
+enantui ka  eparsere,  pushtotta（２） oro  oiki kane
+hemanta sanke  inkarash awa  noyaponku
+noyaponai  sanasanke.
+Shirki chiki  raukimina  chiuweshuye,
+“Ainupito  nep ki ko  ashtoma heki,
+ene okai  noyaponai（３）  nep aekarpe taana.”
+yainuash kane  tapan esannot
+moshiresani  kamuiesani  tapkashike
+too heperai  too hepashi  koshneterke
+chikoikkeukan  matunitara,  nitnepause
+pausenitkan  chikekkekekke,
+shirwen nitnei chikopuntek.
+Rapoketa  Okikirmui  eak ponai  ek aine
+chiokshutuhu  kororkosanu.
+Pateknetek  nekonneya  chieramishkare.
+Hunakpaketa  yaishikarunash  inkarash awa
+pirka shirpirka  chishireanu, atuiso kashi
+teshnatara,  Okikirmui  kon repachip  oararisam.
+Nekonne humi  ne nankora,  chikankitaye wano
+chipokishirke pakno  tatkararse  shikopayar.
+Sennekashui  ainupito  eak ponai  ene uniyuninka kuni
+chiramuai  orowano  hochikachikaash,
+tapan esannot  moshiresani  kamuiesani
+tapkashike  too heperai  too hepashi  rayayaiseash kor
+raiyepashash,  tokap hene  kunne hene  shiknuash ranke
+raiash ranke  ki aineno  nekonneya
+chieramishkare.
+Hunakpaketa  yaishikarunash  inkarash awa,
+poro shitunpe  ashurpeutut ta  okayash kane  okayash.
+Tutko pakno  shiran awa  Okikirmui  kamuishiri ne
+arki wa  sancha otta  mina kane  ene itaki:――
+“Iramashire  moshiresani  kamuiesani
+tapkashike  epunkine  shitunpe kamui,
+pirkapuri  kamuipuri  kor akushu
+rai neyakka  katupirkano  ki ruwe okai.”
+itak kane,  chisapaha  uina wa,
+unchisehe ta  ampa wa,  chikannanotkewe
+yaikota（４） kor  ashinruikkeu ne kar,  chipoknanotkewe
+machihi kor  ashinruikkeu ne kar wa,
+chinetopake anak  neeno  toikomunin wa isam.
+Orowano  kunne hene  tokap hene
+shihurakowenash  ki aineno  toirai wen rai
+chiki.
+Pashtakamui  chine ruwe ka  somone akorka,
+arwenpuri  chikora kushu  nepneushi ka
+chierampeutek  wenrai  chiki shiri tapanna.
+Tewano okai  chironnuputar,  itekki
+wenpuri kor yan.
+                 ari chironnup kamui yaieyukar.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　pau．狐の鳴声の擬声詞．
+（２）　pushtotta……鞄の様な形のもので，海猟に出かける時に火道具，薬類，その他細々の必要品を入れて持ってゆくもの．同じ用途のもので piuchiop，karop などがありますが，蒲《がま》，アツシ織などで作りますから，陸で使用します．pushtotta は熊の皮，あざらしの皮，その他の毛皮で製しますから水がとおらないので，海へ持って行くのです．
+（３）　noya ai……蓬の矢．蓬はアイヌの尊ぶ草です．蓬の矢で打たれると，浮ぶ事が出来ないから悪魔の最も恐れるものだと云うので，遠出するとき必要品の一つに数えられます．
+（４）　もとは男の便所と女の便所は別になっていました．ashinru も eosineru も同じく便所の事．
+［＃ここから１字下げ］
+狐の中で黒狐は最も尊いものだとしています．海の中に突き出ている岬は大概黒狐の所領で，黒狐はよっぽどの大へんがなければ，人に声をきかせないと申します．
+Okikurumi（Okikirmui）と Samayunkur と Shupunramka とはいとこ同士で，Shupunramka は一ばん年上で Okikirmui は一ばん年下だと云います．Shupunramka は温和な人で内気ですからなにも話がありませんが，Samayunkur は短気で，智恵が浅く，あわて者で，根性が悪い弱虫で，Okikirmui は神の様に智恵があり，情深く，勇気のあるえらい人だと云うので，その物語りは無限というほど沢山あります．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　　　　　狐が自ら歌った謡
+　　　「ハイクンテレケ　ハイコシテムトリ」
+
+ハイクンテレケ　ハイコシテムトリ
+国の岬，神の岬の上に
+私は坐して居りました．
+ある日に外へ出て見ますと
+海は凪《な》ぎてひろびろとしていて，海の上に
+オキキリムイとシュプンラムカとサマユンクルが
+海猟に三人乗りで出かけています，それを見た私は
+私の持ってる悪い心がむらむらと出て来ました．
+この岬，国の岬，神の岬
+の上をずーっと上へずーっと下へ
+軽い足取りで腰やわらかにかけ出しました．
+重い調子で木片をポキリポキリと折る様にパーウ，パウと叫び
+この川の水源をにらみにらみ暴風の魔を
+呼びました．すると，それにつれてこの川の
+水源から烈しい風，つむじ風が
+吹き出して海にはいると直ぐに
+この海は，上の海が下になり
+下の海が上になりました．オキキリムイたち
+の漁舟は沖の人の海と，陸の人の海との
+出会ったところ（海の中程）に，非常な急変に会って波の間を
+クルリと廻りました．大きな浪が山の様に
+舟の上へかぶさり寄ります．すると，
+オキキリムイ，サマユンクル，シュプンラムカは
+声をふるって，舟を漕ぎました．
+この小さい舟は落葉の飛ぶ様に吹き飛ばされ
+今にもくつがえりそうになるけれども
+感心にも人間たちは力強くて
+この小舟は風の中に
+波の上をすべります．
+それを見ると私の持っている悪い心がむらむらと出て来ました．
+軽い足取りで腰やわらかにかけまわり，
+重い調子で木片がポキリポキリと折れる様にパウ，パウと叫び
+暴風の魔を声援するのみに精を出しました．
+そうしてる中に，やっと，サマユンクルが
+手の上から，手の下から血が流れて
+疲れてたおれました．
+そのさまを見て私はひそかに笑いを浮べました．
+それからまた，精を出して
+軽い足取りで腰やわらかにかけまわり
+重い調子で木片をポキリポキリと折る様に叫び
+暴風の魔を声援しました．
+オキキリムイとシュプンラムカと二人で
+励まし合いながら勇ましく舟を漕いで
+居りましたが，と，ある時シュプンラムカは
+手の上から手の下から血が流れて
+疲れてたおれてしまいました，それを見て
+ひそかに私は笑いました．
+それからまた軽い足取りで腰やわらかに
+飛びまわり重い調子でかたい木片を
+ポキリポキリと折る様に叫び精を出しました．
+けれども，オキキリムイは疲れた様子は少しも無い．
+一枚の薄物を体にまとい，
+舟を漕いでいます，そのうちに
+手の下でその持っていた※［＃「楫＋戈」、第3水準1-86-21］が折れてしまいました．
+すると，疲れ死んだサマユンクルに
+躍りかかりその持っている※［＃「楫＋戈」、第3水準1-86-21］をもぎとってたった一人で
+舟を漕ぎました．
+私はそれを見ると，持前の悪い心がむらむらと出て来ました．
+重い調子でかたい木片をポキリポキリと折る様に叫び
+軽い足取りで腰やわらかにかけまわり
+精を出して暴風の魔に声援しました．
+そうしてるうちにサマユンクルの舵も
+折れてしまいました．オキキリムイはシュプンラムカに
+躍りかかりその※［＃「楫＋戈」、第3水準1-86-21］をとって
+勇ましく舟を漕ぎました．
+けれども彼の※［＃「楫＋戈」、第3水準1-86-21］も波に折られてしまいました．
+そこで，オキキリムイは舟の中に
+立ちつくして，烈しい風のうちに
+まさか人間の彼が私を見つけようとは
+思わなかったに，国の岬，神の岬の
+上の，私の眼の央を見つめました．
+今までやさしかった顔に怒りの色を
+あらわして，鞄をいじっていたが
+中から出したものを見ると，蓬《よもぎ》の小弓と
+蓬の小矢を取り出しました．
+それを見てひそかに私は笑いました．
+「人間なぞ何をしたって，恐い事があるものか，
+あんな蓬の小矢は何に使うものだろう．」
+と思ってこの岬
+国の岬，神の岬の上を
+ずーっと上へずーっと下へ軽い足取りで
+腰やわらかにかけまわり，重い調子で
+かたい木片をポキリポキリと折る様にパウ，パウと叫び
+暴風の魔をほめたたえました．
+その中にオキキリムイの射放した矢が飛んで来ましたが
+ちょうど私の襟首《えりくび》のところへ突きささりました．
+それっきりあとどうなったか解らなくなってしまいました．
+ふと気がついて見ると
+大そう好いお天気で，海の上は
+広々として，オキキリムイの漁舟もなにもありません．
+どうした事か私の頭のさきから
+足のさきまで雁皮が燃え縮む様に痛みます．
+まさか人間の射た小さな矢がこんなに私を苦しめ
+ようとは思わなかったのに，それから手足をもがき苦しみ
+この岬，国の岬，神の岬
+の上を，ずーっと上へ，ずーっと下へ泣き叫びながら
+もがき苦しみ，昼でも夜でも生きたり
+死んだり，している中に，どうしたか
+わからなくなりました．
+ふと気がついて見ると，
+大きな黒狐の耳と耳との間に私は居りました．
+二日ほどたった時，オキキリムイが神様の様な様子で
+やって来て，ニコニコ笑って言うことには，
+「まあ見ばのよい事，国の岬，神の岬
+の上を見守る黒狐の神様は，
+善い心，神の心を持っていたから
+死にざまの見ばのよい死方をしたのですね．」
+言いながら私の頭を取って，
+自分の家へ持って行き私の上顎の骨を
+自分の便所のどだいとし，私の下顎を
+その妻の便所の礎として，
+私のからだはそのまま土と共に腐ってしまいました．
+それから夜でも昼でも
+悪い臭気に苦しんでいる中に私はつまらない死方，悪い
+死方をしました．
+ただの身分の軽い神でもなかったのですが
+大変な悪い心を私は持っていた為なんにも
+ならない，悪い死方を私はしたのですから
+これからの狐たちよ，決して
+悪い心を持ちなさるな．
+　　　　　　　　　　と狐の神様が物語りました．
+［＃改ページ］
+
+  Isepo yaieyukar,“Sampaya terke”
+
+Sampaya terke
+Tu pinnai kama  re pinnai kama  terkeash kane
+shinotash kor  yupinekur oshi  ekimun payeash.
+Keshtoanko  yupinekur  oshi payeash  ingarash ko,
+Ainupito  kuare（１） wa anko,  ne ku yupinekur
+hechawere ranke,  newaanbe  chiemina kor patek
+okayashpe nekushu,  tananto shui
+payeash wa  ingarash awa,  sennekashui
+shiran kuni  chiramuai
+yupinekur  kuorokush wa  rayaiyaise koran.
+Chiehomatu  yupinekur  samaketa
+terkeash wa  paye ash awa,  yupinekur
+chish turano  ene itaki:――
+“Ingarkusu  chiakinekur,  tantewano
+ehoyupu wa  eoman wa
+akor kotan  kotanoshmakta  eshirepa chiki
+‘Yupinekur  kuorokush na,  hu ohohoi!’ ari
+ehotuipa kushnena.”
+hawash chiki,
+chieesekur  echiu kane,  orowano
+tu pinnai kama  re pinnai kama  terkeash kane
+shinotash kor  sapash aine,
+chikor kotan  kotanoshmake  chikoshirepa.
+Otta eashir  yupinekur  unuitekai
+chieshikarun,  tanrui hotuye  chiki kushne awa
+yupinekur  nekontapne  unuitek awa
+oar chioira.  Chiashtushtekkaash
+chieyaishikarunka,  kipnekorka  oar chioira.
+Orowano  hetopo shui
+tu pinnai kama  re pinnai kama
+horkaterke  horkatapkar  chiki kane,
+yupinekur  ottaani un  arkiash wa
+ingarash awa  nepka isam.
+Yupinekur  ouse kemi  shirush  kane shiran.”
+   （ari anko oyakta terke）
+“Ketka woiwoi  ketka,  ketka woi ketka.”
+keshtoanko  kimta payeash,
+Ainupito  arewaan ku  chihechawere,
+newaanbe  chiemina kor patek  okayash awa
+shineanta shui,  neaita ku aare kane
+shiran kiko,  utorsamata  pon noyaku
+aare kane shiran,
+chinukar chiki
+“Eneokaipe  nep aekarpe tan?”
+yainuash  chiemina rushui kushu
+ponno chikeretek,  nani kiraash kusu
+ikichiash awa  sennekashui  shirki kuni
+chiramuai,  nea ku oro  chioshma humi
+chimonetoko  rorkosanu.
+Kiraash kushu  yayehotuririash ko
+poo yupkeno  aunnunba  enewa poka
+ikichiashi ka  isam kusu  chishash kor
+okayash awa  unsamata  hemantaanpe
+chitursere,  ingarash awa,  chiakinekur
+ne kanean.  Chienupetne wa  chiutarihi
+chikoashuranure  chiuitek awa
+orowano  chitere ikeka,  nep humi ka  oararisam.
+Chishash kor  okayash awa,  unsamata
+ainukurmam  chishipushure.  Ingarash awa
+kamuishirine an  Ainu okkaipo
+sancha otta  mina kane,  unuina wa
+hunakta unani.  Ingarash awa
+poro chise  upshoroho  kamuikorpe
+chieshikte kane  shiran.
+Nea Okkaipo  apeare wa,
+tanporo shu  hoka otte,  sosamotpe（２） etaye wa,
+chinetopake  rush turano  taukitauki
+shuoro eshikte,  orowano  shuchorpoke  eusheush
+ape are.  Nekonaka  ikichiash wa
+kiraashrushui kusu  ainu okkaipo  shikuturu
+chitushmak korka  ainu okkaipo  unoyakun
+inkar shiri  oarisam.
+“Shu pop wa  chiash yakun,  nepneushi ka
+chierampeutek  toi rai  wen rai  chiki etokush.” ari
+yainuash kane,  ainu okkaipo  shikuturu
+chitushmak aine,  hunakpaketa,
+shine kamahau ne  chiyaikattek,
+rikun shupa  chiyaikopoye,  shuparurkehe
+chikohemeshu,  harkisotta terkeashtek,
+soyo terkeash,  chish turano,
+terkeash kane pashash kane,  kiraash aine
+chiunchisehe  chikoshirepa,
+eashka yaikahumshuash.
+Shioka un  inkarash awa,
+yayan ainu  use okkaipo  nekuni patek
+chiramuap,  Okikirmui  kamui rametok
+ne ruwe ne awan.
+Yayan ainupito  are ku ne kuni  chiramu wa,
+keshtokeshto  irara ash wa,  Okikirmui
+rushka kusu  noyaponku ari
+unraike kusu  ikia korka,  chiokai ka
+pashta kamui  chine somoki ko,  toi rai  wen rai
+chiki yakne  chiutarihi ka,  yaierampeutek kuni
+chierampoken  unekarkar kusu,
+renkaine  kiraash yakka  somo unnoshpa
+ruwe ne awan.
+Eepakita,  hoshkino anak,  isepo anak
+yuk pakno  netopake rupnep  nea korka,
+tankorachi an  wen irara  chiki kusu
+Okikirmui  shinekamahawe pakno  okayash ruwe ne.
+Tewano okai  autarihi,  opittano, enepakno
+okai kunii ne nangor.
+Tewanookai  Isepoutar, itekki irara yan.
+    ari Isepotono poutari pashkuma wa onne.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　アマツポ（弩《いしゆみ》）すなわち「仕掛け弓」を仕掛ける事．
+（２）　刀剣．これは戦争の時に使う刀剣とは違うので，ふだん家の右座の宝物の積んである上に吊してあるのがそれです．戦争の時には使いませんが，uniwente などのときには使います．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　兎が自ら歌った謡「サンパヤ　テレケ」
+
+サンパヤ　テレケ
+二つの谷，三つの谷を飛び越え飛び越え
+遊びながら兄様のあとをしたって山へ行きました．
+毎日毎日兄様のあとへ行って見ると
+人間が弩《いしゆみ》を仕掛けて置いてあるとその弩を兄様が
+こわしてしまう，それを私は笑うのを
+常としていたのでこの日また
+行って見たら，ちっとも
+思いがけない
+兄様が弩にかかって泣き叫んでいる．
+私はビックリして，兄様のそばへ
+飛んで行ったら兄様は
+泣きながら云うことには，
+「これ弟よ，今これから
+お前は走って行って
+私たちの村の後へ着いたら
+兄様が弩にかかったよ――，フオホホーイと
+大声でよぶのだよ．」
+私はきいて
+ハイ，ハイ，と返辞をして，それから
+二つの谷，三つの谷を飛び越え飛び越え
+遊びながら来て
+私たちの村の村後へ着きました．
+そこではじめて兄様が私を使いによこしたことを
+思い出しました，私は大声で叫び声を挙げようとした
+が，兄様が何を言って私を使によこしてあったのか
+すっかり私は忘れていました．そこに立ちつくして
+思い出そうとしたがどうしてもだめだ．
+それからまた
+二つの谷を越え三つの谷を越え
+後へ逆飛び逆躍びしながら
+兄様のいる所へ来て
+見ると誰もいない．
+兄様の血だけがそこらに附いていた．
+　　　（ここまでで話は外へ飛ぶ）
+ケトカ　ウォイウォイ　ケトカ，ケトカ　ウォイ　ケトカ
+毎日毎日私は山へ行って
+人間が弩を仕掛けてあるのをこわして
+それを面白がるのが常であった所が
+ある日また，前の所に弩が仕掛けて
+あると，その側に小さい蓬《よもぎ》の弩が
+仕掛けてある，
+私はそれを見ると
+「こんな物，何にする物だろう．」
+と思っておかしいので
+ちょとそれに触って見た，直ぐに逃げようと
+したら，思いがけ
+なく，その弩にいやという程
+はまってしまった．
+逃げようともがけば
+もがくほど，強くしめられるのでどうする事も
+出来ないので，私は泣いて
+いると，私の側へ何だか
+飛んで来たので見るとそれは私の弟
+であった．私はよろこんで，私たちの一族のものに
+この事を知らせる様に言いつけてやったが
+それからいくら待っても何の音もない．
+私は泣いていると，私の側へ
+人の影があらわれた．見ると，
+神の様な美しい人間の若者
+ニコニコして，私を取って，
+どこかへ持って行った．見ると
+大きな家の中が神の宝物で
+一ぱいになっている．
+彼《か》の若者は火を焚いて，
+大きな鍋を火にかけて，掛けてある刀を引き抜いて
+私のからだを皮のままブツブツに切って
+鍋一ぱいに入れそれから鍋の下へ頭を突き入れ突き入れ
+火を焚きつけ出した．どうかして
+逃げたいので私は人間の若者の隙を
+ねらうけれども，人間の若者はちっとも私から
+眼をはなさない．
+「鍋が煮え立って私が煮えてしまったら，なんにも
+ならないつまらない死方，悪い死方をしなければならない．」と
+思って人間の若者の油断を
+ねらってねらって，やっとの事
+一片の肉に自分を化《かわ》らして
+立ち上る湯気に身を交《まじ》えて鍋の椽に
+上り，左の座へ飛び下りると直ぐに
+戸外へ飛び出した，泣きながら
+飛んで息を切らして逃げて来て
+私の家へ着いて
+ほんとうにあぶないことであったと胸撫で下した．
+後ふりかえって見ると，
+ただの人間，ただの若者とばかり
+思っていたのはオキキリムイ，神の様な強い方
+なのでありました．
+ただの人間が仕掛けた弩だと思って
+毎日毎日悪戯をしたのをオキキリムイ
+は大そう怒って蓬の小弩で
+私を殺そうとしたのだが，私も
+ただの身分の軽い神でもないのに，つまらない死方，悪い死方
+をしたら，私の親類のもの共も，困り惑うであろう
+事を不憫に思って下されて
+おかげで，私が逃げても追いかけなかった
+のでありました．
+それから，前には，兎は
+鹿ほども体の大きなものであったが，
+この様な悪戯を私がしたために
+オキキリムイの一つの肉片ほど小さくなったのです．
+これからの私たちの仲間はみんなこの位の
+からだになるのであろう．
+これからの兎たちよ，決していたずらをしなさるな．
+　　と，兎の首領が子供等を教えて死にました．
+［＃改ページ］
+
+Nitatorunpe yaieyukar,“Harit kunna”
+
+Harit kunna
+Shineanto ta  shirpirka kusu
+chikor nitat otta  chishikihi newa  chiparoho patek
+chietukka wa,  inkarash kane  okayash awa
+to opishun  ainukutkesh sarasara.
+Inkar ash awa  tu okkaipo  usetur ka  rarpa kane.
+Hoshki ekpe,  rametoksone  rametokipor
+eipottumu  niunatara,  kamuishirine okaiko,
+iyoshi ekpe  chinukar ko,  katuhu ka  wenawena
+rerek okkayo newa,  hemantaokaipe  eukoitakkor
+arki aine,  chikor nitat  samakehe kushpa,
+unpekano  arki aike,  iyoshino ek  rerek ainu
+ashash kane iki  etuhu kishma,
+“Hm,  shirun nitat  wen nitat,  kotchake akush awa
+ichakkere  neptapteta  wen huraha  okaipeneya?”
+ari hawean.
+Inu newa  chikip ne korka,  okayash humi ka
+chierampeutek  turushkinrane  unkohetari.
+Yachitum wa  soyoterkeash,  terkeashko
+toi yasashke  toi pererke.  Chinotsephumi
+taunatara,  nerokpe  chitoikonoshpa,  ikiash awa,
+hoshki ekpe  weninkarpo  kitek
+chepshikiru  ekannayukar,  rerek ainu
+tempokihi kush wa,  too hoshkino  kirawa isam.
+Rerek ainu  tutem retem  chinoshpa ko
+chioshikoni,  kitaina wano  chioanruki.
+Tataotta  nea okkayo  chitoikonoshpa,  sapash aine
+Ainu kotan  poro kotan  oshmakehe  akoshirepa.
+Ingarash awa  unetunankar,
+Ape Huchi  Kamui Huchi  hure kosonte  iwan kosonte
+kokutkor kane,  iwan kosonte  opannere,
+hure kuwa  ekuwakor kane,  Unteksamta  chitursere.
+“Usainetapshui  nep ekar kusu  tan ainu kotan
+ekosan shiri tan,  hetak hoshipi,  hetak hoshipi!”
+itak kane  hure kuwa  kani kuwa  unkurkashi
+eshitaiki,  kuwatuika wa  otuwennui  orewennui
+unkurkashi  wenaptoshinne chiranaranke.
+Kipne korka  senneponno  chiekottanu,
+chinotsephum  taunatara kor,  nea ainu
+chitoikonoshpa ko  nea ainu,  kotantum peka
+pashno karip  shikopayar.  Oshi terkeash ko
+toi yasashke  toi pererke.  Kotanutur  haushitaiki
+mattek ampap,  potek ampap,  urayayaisere,
+ukirarep  shirpop apkor  hawash korka,
+senneponno  chiekottanu,  wen toiupun
+chishiokote,  Kamui Huchi  unteksama  ehoyupu ko
+wen nuiikir  unenkata  patkepatke.
+Rapokita  nea okkayo  shine chise  chiseupshor
+korawoshma  hontomota  soyoterke.
+Inkarash awa,  noya ponku  noya ponai  uweunu
+unetunankar  sancha otta  minakane  yokoyoko,
+shirki chiki  chiemina rushui.
+“Enean pon noyaai  neike auninpe tan?” ari
+yainuash kane chinotsephum  taunatara,
+kitaina wano  chiruki kushu  ikichiash awa,
+rapoketa  nea okkayo  chiokshutu peka
+unshirkochotcha,  pateknetek  nekonneya
+chieramishkare.
+Hunakpaketa  yaishikarunash,  ingarash awa
+poro chatai  ashurpeututta  okayash kane  okayash.
+Kotankor utar  uwekarpa,  nea chinoshpa okkaipo
+aripawekur  tenke kane,  chirakewehe  ukotata,
+shine aniun  rurpa wa  uhuika wa  nepashuhu
+kimuniwa  iwaoshmake  kochari wa isam.
+Tap eashir  ingrash ko,  oyachiki,  yayan ainu
+useokkaipo  ne kuni  chiramu awa,
+Okikirmui  kamui rametok  ne awan.
+Ashtoma wen kamui  nitne kamui  chine kiwa,
+ainu kotan  koehangeno  okayash wa,
+Okikirmui  Kotan eyam kusu,  unshimemokka
+unshinoshpare wa,  noyaai ari  unraike ruwe
+nerokokai.  Orowa,  hoskino  chioanruki
+rerekainu anak,  ainune kuni  chiramu awa,
+oyachiki  Okikirmui  eosomap  ainune kar wa,
+tura wa  ek ruwe  ne awan.
+Nitne kamui  chinea kushu,  tane anakne
+poknamoshir  arwen moshir un  aunomante kusu,
+tewano anak  ainu moshir  nep akoeyampe ka
+isam,  aeerannakpe ka isam nankor.
+Ashtoma nitne kamui  chinea korka,
+shine ainupito  chinupurkashure  unekarkar,
+tane anakne  toi rai  wen rai  chiki shiri tapan.
+    ari nitatorun nitne kamui yayeyukar.
+［＃改ページ］
+
+　谷地の魔神が自ら歌った謡「ハリツ　クンナ」
+
+ハリツ　クンナ
+ある日に好いお天気なので
+私の谷地に眼と口とだけ
+出して見ていたところが
+ずっと浜の方から人の話し声がきこえて来た．
+見ると，二人の若者が連れだって来た．
+先に来た者は勇者らしく勇者の品を
+そなえて，神の様に美しいが
+後から来た者を見ると，様子の悪い
+顔色の悪い男で，何か話し合いながら
+やって来たが私の谷地の側を通り
+ちょうど私の前へ来ると，あとから来た顔色の悪い男が
+立ち止り立ち止り自分の鼻をおおい
+「おお臭い，いやな谷地，悪い谷地の前を通ったら
+まあ汚い，何だろうこんなに臭いのは．」
+と言った．
+私はただ聞いたばかりだけれど自分の居るか居ないかも
+わからぬほど腹が立った．
+泥の中から飛び出した．私が飛び上ると
+地が裂け地が破れる．牙を
+鳴らしながら，彼等を強く追っかけたところが
+先に来た者は，それと見るや
+魚がクルリとあとへかえる様に引っかえして顔色の悪い男の
+わきの下をくぐりずーっと逃げてしまった．
+青い男を二間三間追っかけると
+直ぐ追いついて頭から呑んでしまった．
+そこで今度は彼《か》の男をありったけの速力で追っかけて来て
+人間の村，大きな村の後へ着いた．
+見るとむこうから
+火の老女，神の老女があかい着物，六枚の着物に
+帯をしめ，六枚の着物を羽織って
+あかい杖をついて私の側へ飛んで来た．
+「これはこれは，お前は何しにこのアイヌ村へ
+来るのか，さあお帰り，さあお帰り．」
+言いながら，あかい杖，かねの杖をふり上げて私を
+たたくと，杖から焔が
+私の上へ雨の様に降って来る．
+けれども私はちっとも構わず，
+牙打ち鳴らしながら彼の男を
+追っかけると，彼の男は村の中を
+よくまわる環の様に走って行く．そのあとを飛んで
+行くと，大地が裂け大地が破れる．村中は大さわぎ
+妻の手を引く者，子の手を引く者，泣き叫び
+逃げゆくもの，煮えくりかえるようなありさま，けれども
+私は少しも構わず，土吹雪
+をたてる，火の老女神は私の側を走って来ると
+大へんな焔が，私の上に飛び交う．
+その中に，彼の男は一軒の家に
+飛び込むと直ぐにまた飛び出した．
+見ると，蓬の小弓に蓬の小矢をつがえて
+むこうから，ニコニコして，私をねらっている．
+それを見て私は可笑しく思った．
+「あんな小さな蓬の矢，何で人が苦しむものか．」と
+思いながら私は牙を打ち鳴らして，
+頭から呑もうとしたら
+その時彼の男は私の首ッ玉を
+したたかに射た．それっきりどうしたか
+わからなくなってしまった．
+ふと気がついて見たところが
+大きな竜の耳と耳の間に私はいた．
+村の人々が集って，彼《か》の私が追っかけた若者が
+大声で指図《さしず》をして，私の屍体をみんな細かに刻み
+一つ所へ運んで焼いてその灰を
+山の岩の岩の後へ捨ててしまった．
+今になってはじめて見ると，それは，ただの人間
+ただの若者だと思ったのは
+オキキリムイ，神の勇者であった．
+恐しい悪い神，悪魔神，私はそれであって
+人間の村の近くにいるので，
+オキキリムイは村の為を思って，私をおこらせ
+自分を追いかけさせて，蓬の矢で私を殺したので
+あった．それから，先に私が呑んでしまった
+青い男は，人間だと思ったのだったが
+それは，オキキリムイがその放糞を人に作り，
+それを連れて来たのであった．
+私は魔神であったから今はもう
+地獄のおそろしい悪い国にやられたのだから
+これからは，人間の国には，なんの危険も
+ない，邪魔ものもないであろう．
+私は恐しい魔神であったけれども，
+一人の人間の計略にまけて
+今はもう，つまらない死方，悪い死方をするのです．
+　　と谷地の魔神が物語りました．
+［＃改ページ］
+
+     Pon Horkeukamui yaieyukar,
+            “Hotenao”
+
+Hotenao
+Shineantota  nishmuash kusu  pishta sapash,
+shinotash kor  okayash awa,  shine ponrupneainu
+ek koran wakusu,  hepashi san ko  hepashi chietushmak,
+heperai ek ko  heperai chietushmak.
+Ikichiash awa,  hepashi iwanshui
+heperai iwanshui  ne ita  ponrupneainu
+kor wenpuri  enantuika  eparsere,  eneitaki:――
+“Pii tuntun,  pii tuntun!
+tan hekachi  wen hekachi  eiki chiki,
+tan esannot  teeta rehe  tane rehe
+ukaepita  eki kushnena!”
+Hawash chiki  chiemina kor  itakash hawe
+ene okai:――
+“Nennamora  tan esannot  teeta rehe
+tane rehe  erampeuteka!
+Teeta anak  shinnupur kusu
+tapan esannot ‘Kamuiesannot’ ari
+ayea korka  tane anakne  shirpan kusu
+‘Inauesannot’ ari  aye ruwe  tashi anne!”
+itakash awa  ponrupneainu  eneitaki:――
+“Pii tuntun,  pii tuntun!
+Tan hekachi,  sonnohetap  ehawan chiki
+tapan petpo  teeta rehe  tane rehe
+ukaepita  eki kushnena.”
+hawash chiki  itakash hawe  ene okai:――
+“Nennamora  tapan petpo  teeta rehe
+tane rehe  erampeuteka!
+teeta kane  shinnupurita  tapan petpo
+‘Kanchiwetunash’ ari  ayea korka
+tane shirpan kushu ‘Kanchiwemoire’ ari
+aye ruwe tashi anne!”
+itakash awa  ponrupneainu  ene itaki:――
+“Pii tuntun,  pii tuntun!”
+sonnohetapne  ehawan chiki,
+ushinritpita  aki kushnena!”
+hawash chiki  itakash hawe  eneokai:――
+“Nennamora  eshinrichihi  erampeuteka!
+otteeta  Okikirmui  kimta oman wa,
+kucha karita  keneinunpe  kar aike
+ne inunpe apekar wa  sattek okere,
+Okikirmui  oararkehe oterke ko  oararkehe
+hotari.  Newaanpe  Okikirmui  rushka kushu
+ne inunpe  pet otta  kor wa san wa,
+oshura wa  isam ruwe ne.
+Orowano  ne inunbe  petesoro  mom aineno,
+atuioro oshma,  tu atuipenrur  re atuipenrur
+chieshirkik shiri  kamuiutar  nukar wa,
+aeoripak  Okikirmui  tekekarpe  neeno
+yaierampeutek wa  mom aineno  atuikomunin
+aenunuke kusu,  kamuiutar orowa
+ne inunbe  cheppone akar wa ‘Inunpepecheppo’ ari
+arekore ruwe ne.
+Awa,  ne inunpepecheppo,  yaishinrit
+erampeutek wa  ainune yaikar wa  iki koran.
+Ne inunpepecheppo  ene ruwe tashi anne.”
+itakash awa,  pon rupneainu iporohoka
+wenawena ikokanu wa an aine
+“pii tuntun,  pii tuntun!
+eani anak  Pon Horkeusani  ene ruwe tashi
+anne.”
+itakkeseta  atui orun  terke humi  chopkosanu,
+oshi inkarash awa,  shine hure cheppo
+honoyanoya wa  too herepashi
+oman wa isam.
+    ari pon Horkeukamui isoitak.
+［＃改ページ］
+
+　　　　　　小狼の神が自ら歌った謡
+　　　　　　　　　「ホテナオ」
+
+ホテナオ
+ある日に退屈なので浜辺へ出て，
+遊んでいたら一人の小男が
+来ていたから，川下へ下ると
+私も川下へ下り，
+川上へ来ると私も川上へ行き道をさえぎった．
+すると川下へ六回
+川上へ六回になった時小男は
+持前の癇癪《かんしゃく》を顔に表して言うことには，
+「ピイピイ
+この小僧め悪い小僧め，そんな事をするなら
+この岬の，昔の名と今の名を
+言い解いて見ろ」
+私は聞いて笑いながらいうこと
+には，
+「誰がこの岬の昔の名と
+今の名を知らないものか！
+昔は，尊いえらい神様や人間が居ったから
+この岬を神の岬と
+言ったものだが，今は時代が衰えたから
+御幣の岬とよんでいるのさ！」
+云うと，小男の云うことには，
+「ピイトン，ピイトン
+この小僧め本当にお前はそういうなら
+この川の前の名と今の名を
+云って見ろ．」
+聞くと，私の云うことには，
+「誰がこの川の前の名
+今の名を知らないものか！
+昔，えらかった時代にはこの川を
+流れの早い川と云っていたのだが
+今は世が衰えているので流れの遅い川と
+云っているのさ．」
+云うと小男の云うことには，
+「ピイトントン，ピイトントン
+本当にお前そんな事を云うなら
+お互の素性の解き合いをやろう．」
+聞いて私の云うことには，
+「誰がお前の素性を知らないものか！
+大昔，オキキリムイが山へ行って
+狩猟小舎を建てた時｜榛《はしばみ》の木の炉縁《ろぶち》を作ったら
+その炉縁が火に当ってからからに乾いてしまった．
+オキキリムイが片方を踏むと片一方が
+上る，それをオキキリムイが怒って
+その炉縁を川へ持って下り
+捨ててしまったのだ．
+それからその炉縁は流れに沿うて流れていって
+海へ出で，彼方《かなた》の海波，此方《こなた》の海波
+に打ちつけられる様を神様たちが御覧になって，
+敬うべきえらいオキキリムイの手作りの物がその様に
+何の役にもたたず迷い流れて海水と共に腐ってしまうのは
+勿体《もったい》ない事だから神様たちから
+その炉縁は魚にされて，
+炉縁魚と
+名づけられたのだ．
+ところがその炉縁魚は，自分の素性が
+わからないので，人にばけてうろついている．
+その炉縁魚がお前なのさ．」
+云うと，小男は顔色を
+変え変え聞いていたが
+「ピイトントン，ピイトントン！
+お前は，小さい，狼の子なの
+さ．」
+云い終ると直ぐに海へパチャンと飛び込んだ．
+あと見送ると一つの赤い魚が
+尾鰭《おびれ》を動かしてずーっと沖へ
+行ってしまった．
+　　と，幼い狼の神様が物語りました．
+［＃改ページ］
+
+    Kamuichikap Kamui yaieyukar, 
+           “Konkuwa”
+
+“Konkuwa
+Teeta kane  itakash hawe  karinbaunku
+kunum noshki  chauchawatki  korachitapne
+itakash hawe  okai awa,
+tane rettekash  tane onneash  ki humi okai.
+Newaneyakka  nenkatausa  pawetokkor wa,
+sonko otta  yayotuwaship  an yakne,
+kanto orun  sonkoemko  eiwansonko
+chieuitekkarokai.” ari
+kutoshintoko  putakashike  chioreporep kor
+itakash awa,  apa otta  kanakankunip
+“Nen unmoshma  sonko otta  pawetokkor wa
+yayotuwashi ya.” ari,  itak wakusu
+inkarash awa  Pashkurokkayo  ne kane an.
+Chiahunge wa,  orowano  kutoshintoko
+puta kashike  chioreporep kor
+Pashkurokkayo  chiuitek kushu,
+ne sonko  chiye aine  rerko shiran,
+resonko patek  chiyerapokta  ingarash awa,
+Pashkurokkayo  inumbeoshmak
+koherachichi.  Shirki chiki  wenkinrane
+unkohetari  Pashkurokkayo
+chirapkokikkik,  chiraike wa isam.
+Orowano shui  kutoshintoko  putakashike
+chiorep kor,
+“Nenkatausa  sonko otta  yayotuwaship
+an yakne  kanto orun  sonkoemko  eiwansonko
+chieuitekkar okai.” ari.
+itakash awa,  hemanta shui  apa orun
+“Nen unmoshma  pawetokkor wa
+kanto orun  auiteknoine anpe  okai hawe.”
+itak wakushu,  ingarash awa  Metoteyami
+ne kane an.
+Chiahunke wa  orowano shui
+kutoshintoko  puta kashike  chiorep kor
+sonkoemko  eiwansonko chiye wa
+inererko shiran,  inesonko  chiyerapokta
+metoteyami  inumpe oshmak  koherachichi.
+Chirushka kushu  Metoteyami  chirapkokikkik
+chiraike wa isam.
+Orowano shui  kutoshintoko  puta kashike
+chiorep kane,
+“Nenkatausa  pawetokkor wa  sonko otta
+yayotuwaship  an yakne  kanto orum
+sonkoemko  eiwansonko  chikore okai.”
+itakash aike,  kanakankunip
+oripak kane  shiaworaye,  inkarash awa
+Katkenokkayo（１） kamuishirine
+harkisone  ehorari.  Shirki chiki,
+kutoshintoko  puta kashike  chiorep kane,
+sonkoemko  eiwansonko  kunne hene
+tokap hene  chiecharanke.  Inkarash ko
+Katkenokkayo  nepechiu ruwe  oarisamno
+ikokanu wa  okai aine,  tokaprerko  kunnererko
+chiukopishki  iwanrerko  ne ita
+chiyeokere ko nani  rikunshuika
+chioposore,  kanto orun  omanwa isam.
+Ne sonko  ikkewe anak,  ainumoshir
+kemush wa  ainupitoutar  tane anakne
+kemekot kushki.  Nepikkeune  eneshirki shirineya
+inkarash awa,  kanto otta
+Yukkor Kamui newa  Chepkor Kamui
+ukoramkor wa  yuk somosapte  chep somosapte
+ruwe ne awan kusu,  kamuiutar orowa
+nekona aye yakka  senneponno  ekottanuno
+okai kusu,  ainupitoutar  ekimne kushu
+kimta paye yakka  yuk ka isam,  chepkoiki kushu
+petotta  paye yakka  chep ka isam ruwe  ne awan.
+Chinukar wa  chirushka kushu  kanto orun
+Yukkor Kamui  Chepkor Kamui  chiko sonkoanpa
+ki ruwene.
+Orowano  keshtokeshto  shiran aine,
+kantokotor  sepepatki  humash aine,
+kanakankunip  shiaworaye.  Inkarash awa
+Katkenokkayo  tanean pirka  shioarwenrui,
+rametokipor  eipottumu  niunatara,
+itasasonko echaranke.
+Kanto otta  Yukkor Kamui  Chepkor Kamui
+tanto pakno  yuk somoatte  chep somoatte
+ikkewe anak  ainupitoutar  yukkoiki ko
+chikuni ari  yuksapa kik,  iri ko
+yuksapaha  neeno kenash kata
+oshurpa wa are,  chepkoiki ko
+muninchikuni ari  chepsapa kik kushu,
+yukutar  atushpa kane  chishkor
+Yukkor Kamui  otta hoshippa,  cheputar
+muninchikuni  ekupakane  Chepkor Kamui
+otta hoshippa.  Yukkor Kamui Chepkorkamui
+irushka kushu  ukoramkor wa  yuk somoatte
+chep somoatte  ruwe neakorka,  tantewano
+ainupitoutar  yuk hene  chep hene
+korkatu pirka  kusune yakun  yuk aatte
+chep aatte  kikushne.  ari,  Yukkor Kamui
+Chepkor Kamui  hawokai katuhu  omommomo.
+Chinu orowa  Katkenokkayo otta
+iramyeash wa,  inkarash awa  sonnokaun
+ainupitoutar  yuk hemem  chep hemem
+korkatu wen  kirokokai.
+Orowa  tewano anak  iteki  neeno  ikichi kuni
+ainupitoutar  mokor otta  tarap otta
+chiepakashnu awa  ainupitoutar ka
+ipashterampo  yaikorpare,  orowano anak
+inau korachi  isapakikni  tomtekarkar
+ari chepkoiki,  yukkoiki ko  yuksapaha ka
+pirkano  tomte wa  inaukorpare.  Kiwakushu
+cheputar  nupetneno  pirka inau  ekupa kane
+Chepkor Kamui  otta paye,  yukutar
+nupetneno  ashirsapakar kane  Yukkor Kamui
+otta hoshippa.  Newaanpe Yukkor Kamui
+Chepkor Kamui  enupetne kusu,
+poronno chepatte,  poronno yukatte.
+Ainupitoutar  tane anakne  nep erannak
+neperushui  somokino okai,
+chinukat chiki  chieramushinne.
+Chiokai anak  tane onneash  tane rettekash
+ki wa kushu,  kanto orun  payeash kuni
+chiramua korka,  chiepunkine  ainumoshir
+kemush wa  ainupitoutar  kemekot kushki ko
+chiekottanu  somokino  payeash ka  eaikap kushu,
+tanepakno  okayasha korka,  tane anakne
+nepaerannakpe ka  isam kushu  shinorametok
+upenrametok  unokaketa  ainumoshir
+chiepunkinere,  tane kanto orun  payeash shiri tapan.
+ari Kotankor Kamui kamui ekashi
+isoitak orowa kanto orun oman.  ari.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　katken……川ガラス．昔から大そういい鳥として尊ばれる鳥です．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　　　　梟の神が自ら歌った謡
+　　　　　　　　　「コンクワ」
+
+「コンクワ
+昔私の物言う時は桜皮を巻いた弓の
+弓把《きゅうは》の央を鳴り渡らす如くに
+言ったのであったが，
+今は衰え年老いてしまった事よ．
+けれども誰か雄弁で
+使者としての自信を持ってる者があったら，
+天国へ五ツ半の談判
+を言いつけてやりたいものだ．」と
+たがつきのシントコの蓋の上をたたきながら
+私は言った，ところが入口で誰かが
+「私をおいて誰が使者として雄弁で
+自信のあるものがあるでしょう．」というので
+見ると鴉《からす》の若者であった．
+私は家に入れて，それから，たがつきのシントコの
+蓋の上をたたきながら
+鴉の若者を使者にたてる為
+その談判を云いきかせて三日たって
+三つ目の談判を話しながら見ると
+鴉の若者は炉縁の後で
+居眠りをしている，それを見ると，癪《しゃく》に
+さわったので鴉の若者を
+羽ぐるみ引っぱたいて殺してしまった．
+それから又たがつきのシントコの蓋の上を
+たたきながら
+「誰か使者として自信のある者が
+あれば天国へ五ツ半の
+談判を言いつけてやりたい．」と
+言うと，誰かがまた入口へ
+「誰が私をおいて，雄弁で
+天国へ使者に立つほどの者がありましょう．」
+と言うので見ると山のかけす
+であった．
+家へ入れてそれからまた
+たがつきのシントコの蓋の上をたたきながら
+五ツ半の談判を話して
+四日たって，四つの用向を言っているうちに
+山のかけすは炉縁の後で居眠りをしている．
+私は腹が立って山のかけすを羽ぐるみひっぱたいて
+殺してしまった．
+それからまたたがつきのシントコの蓋の上を
+たたきながら，
+「誰か雄弁で使者として
+自信のある者があれば，天国へ
+五ツ半の談判を持たせてやりたい．」
+と言うと，誰かが
+慎《つつしみ》深い態度ではいって来たので見ると
+川ガラスの若者，美しい様子で
+左の座に坐った．それで私は
+たがつきのシントコの蓋の上をたたきながら
+五ツ半の用件を夜でも
+昼でも言い続けた．見れば
+川ガラスの若者，何も疲れた様子もなく
+聞いていて昼と夜を
+数えて六日目に
+私が言い終ると直ぐに天※［＃「窗／心」、第3水準1-89-54］から
+出て天国へ行ってしまった．
+その談判の大むねは，人間の世界に
+饑饉があって人間たちは今にも
+餓死しようとしている．どういう訳かと
+見ると天国に
+鹿を司《つかさど》る神様と魚を司る神様とが
+相談をして鹿も出さず魚も出さぬことに
+したからであったので，神様たちから
+どんなに言われても知らぬ顔をして
+いるので人間たちは猟に
+山へ行っても鹿も無い，魚漁に
+川へ行っても魚も無い．
+私はそれを見て腹が立ったので
+鹿の神，魚の神へ使者をたてた
+のである．
+それから幾日もたって
+空の方に微かな音がきこえていたが
+誰かがはいって来た．見ると
+川ガラスの若者，今は前よりも美しさを増し
+勇ましい気品をそなえて
+返し談判を述べはじめた．
+天国の鹿の神や魚の神が
+今日まで鹿を出さず魚を出さなかった
+理由は，人間たちが鹿を捕る時に
+木で鹿の頭をたたき，皮を剥ぐと
+鹿の頭をそのまま山の木原に
+捨ておき，魚をとると
+腐れ木で魚の頭をたたいて殺すので，
+鹿どもは，裸で泣きながら
+鹿の神の許《もと》へ帰り，魚どもは
+腐れ木をくわえて魚の神の
+許へ帰る．鹿の神，魚の神は
+怒って相談をし，鹿を出さず
+魚を出さなかったのであった．がこののち
+人間たちが鹿でも魚でも
+ていねいに取扱うという事なら鹿も出す
+魚も出すであろう，と鹿の神と
+魚の神が言ったという事を詳しく申し立てた．
+私はそれを聞いてから川ガラスの若者に
+讃辞を呈して，見ると本当に
+人間たちは鹿や魚を
+粗末に取扱ったのであった．
+それから，以後は，決してそんな事をしない様に
+人間たちに，眠りの時，夢の中に
+教えてやったら，人間たちも
+悪かったという事に気が付き，それからは
+幣《ぬさ》の様に魚をとる道具を美しく作り
+それで魚をとる．鹿をとったときは，鹿の頭も
+きれいに飾って祭る，それで
+魚たちは，よろこんで美しい御幣《ごへい》をくわえて
+魚の神のもとに行き，鹿たちは
+よろこんで新しく月代《さかやき》をして鹿の神
+のもとに立ち帰る．それを鹿の神や
+魚の神はよろこんで
+沢山，魚を出し，沢山，鹿を出した．
+人間たちは，今はもうなんの困る事も
+ひもじい事もなく暮している，
+私はそれを見て安心をした．
+私は，もう年老い，衰え弱った
+ので，天国へ行こうと
+思っていたのだけれども，私が守護している人間の国に
+饑饉があって人間たちが餓死しようとしているのに
+構わずに行く事が出来ないので，
+これまで居たのだけれども，今はもう
+なんの気がかりも無いから，最も強い者
+若い勇者を私のあとにおき人間の世を
+守護させて，今天国へ行く所なのだ．
+と，国の守護神なる翁神（梟）が
+物語って天国へ行きました．と．
+［＃改ページ］
+
+   Repun Kamui yaieyukar,“Atuika
+  tomatomaki kuntuteashi hm hm!”
+
+Atuika tomatomaki  kuntuteashi hm hm!
+Tanneyupi  iwan yupi  tanne sapo  iwan sapo
+takne yupi  iwan yupi  takne sapo  iwan sapo
+unreshpa wa  okayash ko  chiokai anak
+ikittukari  chituyeamset  amset kashi
+chiehorari,  kepushpenuye  shirkanuye
+chikokipshirechiu,  neambe patek
+monraike ne  chiki kane  okayash.
+Keshtoanko  kunnewano  chiyuputari
+ikayop se wa  chisautari tura  soyunpa wa,
+onumananko  semiporkan  toine kane
+nepka sakno  hoshippa wa,  chisautari
+shinki shiri  shuke kiwa  unkoipunpa,
+okaiutar nakka  ipe wa  iperuwoka  chishiturire ko,
+orowano  chiyuputari  aikarneap  kotekkankari,
+ikayop shik ko,  opittano  shinkipne kushu,
+hotke wa  etorohawe  meshrototke.
+Ne shimkeanko  kunnenisat  pekernisat 
+ehopunpa,  chisautari  shuke wa  unkoipunpa,
+opittano  ipeokere ko  too shui ikayop se wa
+paye wa isam.  Shui onumananko
+semiporkan  toine kane  nepka sakno  arki wa,
+chisautari  shuke,  chiyuputari  aikar kane
+hempara nakka  ikichi kor okai.
+Shineantota shui  chiyuputari  chisautari
+ikayop se wa  soyunpa wa isam.
+Ikorkanuye  chiki kor  okayash aine
+amset kata  hopunpaash  konkani ponku
+konkani ponai  chiukoani,  soineash wa
+inkarash awa,  netokurkashi  teshnatara,
+shiatuipa wa  shiatuikesh wa  humpeutar
+shinotshirkonna  chopopatki ko,
+shiatuipata  tanne sapo  iwan sapo  sai kar ko,
+takne sapo  iwan sapo  sainikor un  humpe okeupa,
+tanne yupi  iwan yupi  takne yupi  iwan yupi
+sainikor un  humpe ramante ko  neanhumpe
+chorpoke aikush  enkashi aikush.
+Keshtokeshto  eneanikichi  kikor okairuwe
+nerokokai.  Inkarash ko  atuinoshkita
+shinokorhumpe  upokorhumpe  heperai  hepashi
+shinot shiri  chopopatki,  chinukar wakushu
+otuimashir wa  konkani ponku  konkani ponai
+chiuweunu  chitukan awa  earai ari
+shineikinne  upokorhumpe  chishirko chotcha.
+Tataotta  shinehumpe  noshki chituye
+humpearke  chisautari  sainikorun
+chieyapkir,  orowano  humpearke etuhumpe
+chiishpokomare,  ainumoshir
+kopake un  yapash aine  Otashut kotan
+chikoshirepa,  humpearke  etutumpe
+kotanrakehe  chikooputuye.
+Taporowa  atuiso kata moireherori
+chikoyaikurka  omakane,  hoshippaash wa
+arpaash awa,  kanakankunip
+hesehawe  taknatara,  unpishkani  ehoyupu,
+ingarash awa  atuichakchak  ne kane an.
+Tashkan tuitui kor  ene itaki:――
+“Tominkarikur  Kamuikarikur  Isoyankekur
+kamuirametok  pasekamui,
+nep ekarkushu  toyainuutar  wenainuutar
+kuntuiso  ekoyanke ruwetan.
+Toyainuutar  wenainuutar  mukar ari
+iyoppe ari  kuntuiso  taukitauki  toppatoppa
+keurekor okaina,  kamuirametok
+pasekamui  keke hetak  kuntuiso
+okaetaye yan.  Tepeshkeko  iso ayanke yakka
+toyainuutar  wenainuutar
+eyairaike ka  somokino  ene ikichii tan.”
+hawokai chiki  chiemina,  itakash hawe
+naikosanu,  ene okai:――
+“Ainupitoutar  chikorparep  ne kushu
+tane anakne  korpe newa anpe  Ainupitoutar
+yaikota korpe  iyoppe ari hene  mukar ari hene
+tokpatokpa  meshpameshpa  nekona hene
+ene kanrushuii nepkor  kar wa epa ko
+nekonne hawe?” itakash awa
+atuichakchak  eramuka  patek kane  okai korka,
+senne ponno  chiekottanu  atuiso kata
+moireherori  chikoyaikurka  oma kane
+tane chipahun  kotpoketa  chikor atui
+chikoshirepa.  Inkarash awa
+tunikashma  wanchiyupi  tunikashma
+wanchisaha  nea humpearke  nimpakoyaikush
+ukohayashi  turpa kane,
+shiatuipa ta  ukoyaeramushitne  kor okai.
+Shiyorokeutum  chiyaikore.
+Senne chiekottanu  chiunchisehe
+chikohekomo,  amsetkashi  chiehorari.
+Taporowa  shioka un  ainu moshir  chikohosari
+inkarash awa,  chiyankea  humpearke
+etuhumpe  okarino  nishpautar
+katkematutar  ushiyukko  turpa kane
+isoetapkar  isoerimse,  makunhunki
+hunki kata  okitarunpe  sohonewa
+kashike ta  Otashut kotan  kotankornishpa
+iwan kosonte  kokutkor  iwan kosonte
+opannere,  kamuipaunpe  ekashpaunpe
+kimuirarire  kamuiranketam  shitomushi
+kamuishirine  tekrikikur  puni kane
+onkami koran.  Ainupitoutar  chishturano
+isoenupetne kor okai.
+Neike tapne  atuichakchak  ainupitoutar
+mukar ari  iyoppe ari  chiyankehumpe
+tokpatokpa ari  hawokai awa,  kotankor nishpa hemem
+kotankorutar,  hushkotoi wano
+ikorsokkarne kor  kamui posomi  sapte wa
+ari icha wa  rurpa kor okai.
+Orowano  chiyuputari  chisautari  arkishiri
+oararisam.
+Tutko rerko  shiran awa  purai orun
+chishiksama  chiikurure,  tampe kusu
+ingarash awa,  rorunpurai purai kata
+kani tuki  kampashuikan  momnatara,
+sakeo kane  kashiketa
+kikeushpashui（１） an kane shiran ko,
+hoshipi ranke  sonkoye hawe  eneokai:――
+“Chiokai anak  Otashutunkur  chine wa
+oripakash yakka  pashuiepuni  aki shirinena.” ari
+Otashut kotan  kotankor nishpa  kor utari
+oppittano  kotchakene  unkoyairaike katuhu
+omommomo,
+“Tominkarikur  Kamuikarikur  Isoyankekur
+pase kamui  kamui rametok  somooyape
+tan korachi  chikor kotani  kemush wa
+tane anakne  yaiwenukarash pakno
+epsakashrapokta  unerampokiwenpe tan.
+Chikor kotani  chiramatkore  unekarkan ruwe,
+iyairaikere,  iso chienupene kushu
+pon tonotopo  chikar kiwa  pon inaupo
+chikotama  pasekamui  chikoyayattasa
+kishiri tapan na.” ari okaipe,
+kikeushpashui  hoshipi ranke  echaranke.
+Shirki chiki  chirikipuniash  kani tuki
+chiuina wa  chirikunruke  chiraunruke
+rorunso kata  iwan shintoko  puta chimaka,
+pirkasake  ponno ranke  chiomare ine
+kani tuki  puraika un  chiande.
+Taporowa  amsetkashi  chiosorushi,
+inkarash awa  nea tuki  pashui turano
+oararisam.  Orowano  kepushpenuye
+shirkanuye  chiki kor  okayash aine,
+hunakpaketa  hepuniash wa  ingarash awa
+chiseupshoro  pirka inau  chieshikte,
+chiseupshoro  retar urar  etushnatki,  retar imeru
+eshimaka kor shiran.  Anramashu  chiuweshuye.
+Orowano shui  tutko rerko  shiran aike,
+otta eashir  chisesoike un  chiyuputari
+chisautari  ukohayashi  turpa kane,  nea humpe
+nimpa wa  arki humash.  Shiyorokeutum
+chiyaikore.  Chiseupshorun  ahup shiri
+chinukar ko,  chiyuputari  chisautari
+shinkiruipe  ipottumkonna  shumnatara.
+Shiaworaipa,  inauikir  nukanrokwa
+homatpa wa  onkamirok onkamirok.
+Rapoketa  rorunso kata  iwan shintoko
+kampashuikan  momnatara,  kamuierushuipe
+sakehura  chiseupshor  epararse.
+Orowano  chiseupshoro  pirka inau  chietomte,
+tuima kamui  hanke kamui  ashkechiuk,
+shisak tonoto  chiukoante.  Chisautari
+humpe shuipa  kamuiutar  kopumpa ko
+kamuiutar  ukoohapse  echiu kane.
+Chikupnoshki  oman kane  chirikipuniash,
+tapnetapne  ainumoshir  kem ush wa
+chierampokiwen,  iso chiyankekatuhu hemem
+ainupitoutar  chipirkare ko  wen kamuiutar
+unkeshke kushu,  atuichakchak  unkeutumwente
+katuhu hemem,  Otashut kotan
+kotankor nishpa  eneene  unkoyairaike wa
+kikeushpashui  sonkokor wa  ek katuhu
+chiomommomo  chiecharanke ko,  kamuiutar
+irhetchehau  irihumsehau  ukoturpa
+iramye hawe  kari kane.
+Orowano shui  shisak tonoto  chiukoante,
+kamuiutar  chikupshopata
+chikupshokeshta  tapkar humi rimsehawe
+tununitara,  chisautari  nimaraha
+anipuntari  ampa kane  chikupshoutur
+erututtke,  nimaraha  kamuimenokutar
+eutanne  hechiri hawe  tununitara.
+Tutko rerko  shiran ko  iku aokere.
+Kamuiutar  pirka inau  tup rep ranke
+chikorpare ko  kamuiutar  ikkeunoshki
+komkosanpa,  onkamirok  onkamirok,
+opittano  unchisehe  kohekompa.
+Okakeheta  rammakane  tanne yupi  iwan yupi
+tanne sapo  iwan sapo  takne sapo  iwan sapo
+takne yupi  iwan yupi  tura okayash.
+Ainupitoutar  sakekar ko  pishnopishno
+unnomi  un orun  inauepumpa ranke.
+Tane anakne  ainupitoutar  nep erushui
+nep  erannakpe ka  iramno  ratchitara
+okaikushu,  chieramushinne wa okayash.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　御幣で飾りをつけたものであって，神様にお神酒を上げる時に使います．この kike-ush-pashui は人間の代理を勤めて，人間が神様に云おうと思う事を神様のところへ行って，伝えると云います．御幣をつけていない普通の箸を iku pashui と云います（酒宴の箸）．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　海の神が自ら歌った謡「アトイカ
+　　　トマトマキ　クントテアシ　フム　フム！」
+
+アトイカ　トマトマキ　クントテアシ　フムフム
+長い兄様，六人の兄様，長い姉様，六人の姉様
+短い兄様，六人の兄様，短い姉様，六人の姉様が
+私を育てて居たが，私は
+宝物の積んである傍に高床をしつらえ，その高床の上に
+すわって鞘《さや》刻み鞘彫り
+それのみを
+事として暮していた．
+毎日，朝になると兄様たちは
+矢筒を背負って姉様たちと一しょに出て行って
+暮方になると疲れた顔色で
+何も持たずに帰って来て姉様たちは
+疲れているのに食事｜拵《こしら》えをし，私にお膳を出して
+自分たちも食事をして食事のあとが片附くと，
+それから兄様たちは矢を作るのに忙しく手を動かす．
+矢筒が一ぱいになると，みんな疲れているものだから
+寝ると高鼾《たかいびき》を響かせてねむってしまう．
+その次の日になるとまだ暗い中に
+みんな起きて姉様たちが食事拵えをして私に膳を出し
+みんな食事が済むと，また矢筒を背負って
+行ってしまう．また夕方になると
+疲れた顔色で何も持たずに帰って来て
+姉様たちは食事拵え，兄様たちは矢を作って，
+何時《いつ》でも同じ事をしていた．
+ある日にまた兄様たち姉様たちは
+矢筒を背負って出て行ってしまった．
+宝物の彫刻を私はしていたがやがて
+高床の上に起き上り金の小弓に
+金の小矢を持って外へ出て
+見ると海はひろびろと凪《な》ぎて
+海の東へ海の西へ鯨たちが
+パチャパチャと遊んで居る．すると
+海の東に長い姉様，六人の姉様が手をつらねて輪をつくると，
+短い姉様，六人の姉様が，輪の中へ鯨を追い込む，
+長い兄様，六人の兄様，短い兄様，六人の兄様が
+輪の中へ鯨をねらい射つと，その鯨の
+下を矢が通り上を矢が通る．
+毎日毎日彼等はこんな事をして
+いたのであった．見ると海の中央に
+大きな鯨が親子の鯨が上へ下へ
+パチャパチャと遊んで居るのが見えたので
+遠い所から金の小弓に金の小矢を
+番《つが》えてねらい射ったところ，一本の矢で
+一度に親子の鯨を射貫いてしまった．
+そこで一つの鯨のまんなかを斬って
+その半分を姉様たちの輪の中へ
+ほうりこんだ．それから鯨一ツ半の鯨を
+尾の下にいれて人間の国に
+むかって行きオタシュツ村に
+着いて一ツ半の鯨を
+村の浜へ押し上げてやった．
+それから海の上にゆっくりと
+游いで帰って
+来たところが，誰かが
+息を切らしてその側をはしるものがあるので
+見ると，海のごめであった．
+息をきらしながら云うことには，
+「トミンカリクル　カムイカリクル　イソヤンケクル
+勇マシイ神様，大神様，
+あなたはなんの為に，卑しい人間共，悪い人間共に
+大きな海幸をおやりになったのです．
+卑しい人間共，悪い人間共は，斧もて
+鎌をもて大きな海幸をブツブツ切ったり突っついたり
+削り取っています，勇ましい神様
+大神様さあ早く大海幸を
+お取り返しなさいませ．あんなに沢山，海幸をおやりに
+なっても卑しい人間たち悪い人間たちは
+有難いとも思わずこんな事をします．」
+と云うので私は笑って云う
+ことには,
+「私は人間たちに呉れてやったものだから
+今はもう自分の物だから，人間たちが
+自分の持物を鎌でつつこうが斧で
+削ろうがどうでも
+自分たちの自由に食べたらいいではないか
+それがどうなのだ．」と云うと
+海のごめは所在無げにしているけれども
+私はそれを少しも構わず海の上を
+ゆっくりとおよいで
+もう日が暮れようとしている時に，私の海へ
+着いた．見ると
+十二人の兄様，十二人の
+姉様は，彼の半分の鯨をはこび
+きれなくてみんなで掛声高く
+海の東に，グズグズしている．
+私は実にあきれてしまった．
+私はそれに構わずに家へ
+帰り，高床の上にすわった．
+そこで後ふりかえって人間の世界の方を
+見ると，私が打ち上げた一ツ
+半の鯨のまわりをとりまいてりっぱな男たちや
+りっぱな女たちが盛装して
+海幸をば喜び舞い海幸をば歓び躍り，後の砂丘
+の上にはりっぱな敷物が敷かれて
+その上にオタシュツ村の村長が
+六枚の着物に帯を束《たば》ね，六枚の着物を
+羽織って，りっぱな神の冠，先祖の冠を
+頭に冠り，神授の剣を腰に佩《は》き
+神の様に美しい様子で手を高くさし上げ
+礼拝をしている．人間たちは泣いて
+海幸をよろこんでいる．
+何をごめが人間たちが
+斧で鎌で私の押し上げた鯨を
+突っついていると云ったが，
+村長をはじめ
+村民は，昔から
+宝物の最も尊いものとしている神剣を取り出して
+それで肉を斬って搬《はこ》んでいる．
+それから，私の兄様たち姉様たちは帰って来る
+様子もない．
+二日三日たった時，※［＃「窗／心」、第3水準1-89-54］の方に
+何か見える様だ，それで
+振りかえって見て見ると，東の※［＃「窗／心」、第3水準1-89-54］の上に
+かねの盃にあふれる程
+酒がはいっていてその上に
+御幣を取りつけた酒箸が載っていて，
+行きつ戻りつ，使者としての口上を述べて云うには，
+「私はオタシュツ村の人で
+畏れ多い事ながらおみきを差し上げます．」と
+オタシュツ村の村長が村民
+一同を代表して私に礼をのべる
+次第をくわしく話し，
+「トミンカリクル　カムイカリクル　イソヤンケクル
+大神様，勇ましい神様でなくて誰が，
+この様に私たちの村に饑饉があって
+もう，どうにも仕様がない程
+食物に窮している時に哀れんで下されましょう．
+私たちの村に生命を与えて下さいました事，
+誠に有難う御座います，海幸をよろこび
+少しの酒を作りまして，小さな幣《ぬさ》を
+添え，大神様に謝礼
+申し上げる次第であります．」という事を
+幣つきの酒箸が行きつ戻りつ申し立てた．
+それで私は起き上って，かねの盃を
+取り，押しいただいて
+上の座の六つの酒樽の蓋《ふた》を開き
+美酒を少しずつ入れて
+かねの盃を※［＃「窗／心」、第3水準1-89-54］の上にのせた．
+それが済むと，高床の上に腰を下し
+見ると彼の盃は箸と共に
+なくなっていた．それから，鞘を刻み
+鞘を彫り，していてやがて
+ふと面をあげて見ると，
+家の中は美しい幣で一ぱいになっていて
+家の中は白い雲がたなびき白いいなびかりが
+ピカピカ光っている．私はああ美しいと思った．
+それからまた，二日三日たつと，
+その時やっと，家のそとで，兄様たちや
+姉様たちが掛声高く彼の鯨を
+引っ張って来たのがきこえだした．私はあきれて
+しまった．家の中へはいる様子を
+眺めると，兄様たちや姉様たちは
+たいへん疲れて，顔色も萎《しお》れている．
+みんなはいって来て，沢山の幣を見ると，
+驚いてみんななん遍もなん遍も拝した．
+そのうちに，東の座の六つの酒樽は
+溢れるばかりになって，神の好物の
+酒の香が家の中に漂うた．
+それから私は，美しい幣で家の中を飾りつけ，
+遠方の神，近所の神を招待し
+盛んな酒宴を張った．姉様たちは
+鯨を煮て，神たちに出すと，
+神たちは，舌鼓を打ってよろこんだ．
+宴｜酣《たけなわ》の頃私は起き上り
+斯々《かくかく》，人間世界に饑饉があって
+あわれに思い，海幸を打ち上げた次第や
+人間たちをよくしてやると，悪い神々が
+それをねたみ，海のごめが私に中
+傷した事や，オタシュツ村の
+村長が斯々の言葉をとって私に礼をのべ
+幣つきの酒箸が使者になって来た事など
+詳しく物語ると，神たちは
+一度に揃って打ちうなずきつつ，
+私をほめたたえた．
+それからまた，盛な宴をはり
+神たちの，そこに
+ここに舞う音，躍る音は
+美しき響をなし，姉様たちは
+提子《ちょうし》を持って席の間を酌して
+まわるもあり，女神たち
+と共に美しい声で歌うもある．
+二日三日たって宴を閉じた．
+神々に美しい幣を二つ三つずつ
+上げると神々は腰の央《なか》を
+ギックリ屈めてなん遍もなん遍も礼をして，
+みんな自分の家に立ち帰った．
+そのあと，何時でも同じく長い兄様，六人の兄様
+長い姉様，六人の姉様，短い姉様，六人の姉様
+短い兄様，六人の兄様と一しょにい，
+人間たちが酒を造るとその度毎に
+私に酒を送り私のところへ幣をよこす．
+今はもう，人間たちも食物の不足も
+なんの困る事も無く平穏に
+暮しているので，私は安心をしています．
+［＃改ページ］
+
+            Terkepi yaieyukar,
+       “Tororo hanrok hanrok!”
+
+Tororo hanrok, hanrok!
+Shineantota  muntum peka  terketerkeash
+shinotashkor  okayash aine  ingarash awa,
+shine chise  an wakusu  apapaketa  payeash wa
+inkarash awa,  chiseupshotta  ikittukari
+chituyeamset  chishireanu.  Amset kata
+shine okkaipo  shirkanuye  kokipshirechiu
+okai chiki  chirara kusu  tonchikamani kata
+rokash kane.“Tororo hanrok, hanrok!” ari
+rekash awa,  nea okkaipo  tam tarara
+unnukar awa,  sancha otta  mina kane,
+“Eyukari ne ruwe?  esakehawe ne ruwe?
+na henta chinu.” itak wakushu
+chienupetne,“Tororo hanrok, hanrok!” ari
+rekash awa  nea okkaipo  ene itaki:――
+“Eyukari ne ruwe? esakehawe ne ruwe?
+na hankenota  chinu okai.”
+hawashchiki chienupetne,  outurun
+inumpe kata  terkeashtek,
+“Tororo hanrok, hanrok!” rekash awa
+nea okkaipo shui  ene itaki:――
+“Eyukari ne ruwe?  esakehawe ne ruwe?
+na hankenota  chinu okai.” hawash chiki,
+shino chienupetne,  roruninumpe
+shikkeweta  terkeashtek,
+“Tororo hanrok, hanrok!” rekash awa
+arekushkonna  nea okkaipo  matke humi
+shiukosanu,  hontomota  shi apekesh
+teksaikari  unkaun  eyapkir humi
+chiemonetok  mukkosanu,  pateknetek
+nekona neya  chieramishkare.
+Hunakpaketa  yaishikarunash  inkarash awa,
+mintarkeshta  shine piseneterkepi
+rai kane an ko  ashurpeututta  okayash kanan.
+pirkano  inkarash awa,  useainu  unchisehe
+ne kuni  chiramuap  Okikirmui  kamui rametok
+unchisehe  neawokai ko
+Okikirmui  nei ka  chierampeutekno
+iraraash ruwe  neawan.
+Chiokai anak  tane tankorachi  toi rai wen rai
+chikishiri tapan na,  tewano okai
+terkepiutar  itekki ainuutar otta  irara yan.
+    ari piseneterkepi hawean kor raiwa isam.
+［＃改ページ］
+
+　　　　　　　　蛙が自らを歌った謡
+　　　　「トーロロ　ハンロク　ハンロク！」
+
+トーロロ　ハンロク　ハンロク！
+「ある日に，草原を飛び廻って
+遊んでいるうちに見ると，
+一軒の家があるので戸口へ行って
+見ると，家の内に宝の積んである側に
+高床がある．その高床の上に
+一人の若者が鞘を刻んでうつむいて
+いたので，私は悪戯をしかけようと思って敷居の上に
+坐って，「トーロロ　ハンロク　ハンロク！」と
+鳴いた，ところが，彼の若者は刀持つ手を上げ
+私を見ると，ニッコリ笑って，
+「それはお前の謡かえ？　お前の喜びの歌かえ？
+もっと聞きたいね．」というので
+私はよろこんで「トーロロ　ハンロク　ハンロク！」と
+鳴くと，彼の若者のいう事には，
+「それはお前のユーカラかえ？　サケハウかえ？
+もっと近くで聞きたいね．」
+私はそれをきいて嬉しく思い下座の方の
+炉縁の上へピョンと飛んで
+「トーロロ　ハンロク　ハンロク！」と鳴くと
+彼の若者のいうことには，
+「それはお前のユーカラかえ？　サケハウかえ？
+もっと近くで聞きたいね．」それを聞くと私は，
+本当に嬉しくなって，上座の方の炉縁の
+隅のところへピョンと飛んで
+「トーロロ　ハンロク　ハンロク！」と鳴いたら
+突然！彼の若者がパッと起ち
+上ったかと思うと，大きな薪の燃えさしを
+取り上げて私の上へ投げつけた音は
+体の前がふさがったように思われて，それっきり
+どうなったかわからなくなってしまった．
+ふと気がついて見たら
+芥捨《あくすて》場の末に，一つの腹のふくれた蛙が
+死んでいて，その耳と耳との間に私はすわっていた．
+よく見ると，ただの人間の家
+だと思ったのは，オキキリムイ，神の様に
+強い方の家なのであった，そして
+オキキリムイだという事も知らずに
+私が悪戯をしたのであった．
+私はもう今この様につまらない死方，悪い死方
+をするのだから，これからの
+蛙たちよ，決して，人間たちに悪戯をするのではないよ．
+　　と，ふくれた蛙が云いながら死んでしまった．
+［＃改ページ］
+
+        Pon Okikirmui yaieyukar,
+        “Kutnisa kutunkutun”
+
+〔Kutnisa kutunkutun〕
+Shineantota  petetok un  shinotash kushu
+payeash awa,  petetokta  shine ponrupnekur
+neshko urai  kar kushu  uraikik neap
+kosanikkeukan  punashpunash.
+Unnukar awa  ene itaki:――
+“Ehumna?  Chikarkunekur  unkashui yan.”
+ari hawean.  Inkarash ko  neshko urai
+nepne kushu  neshko wakka  nupki wakka
+chisanasanke,  kamuicheputar
+hemeshpako  neshko wakka  kowen kushu
+chish kor hoshippa.  Chirushka kushu
+ponrupnekur  kor uraikiktuchi
+chieshikari,  ponrupnekur  ikkeunoshki
+chikik humi  tokkosanu.  Ponrupnekur
+ikkeunoshki  chioarkaye,  chioanraike
+poknamoshir  chikooterke.  Nea neshko uraini
+chiosausawa  inuash aike,  iwan（１） poknashir
+imakakehe  chioushi humiash.
+Orowano  ikkeukiror  montumkiror
+chiyaikosanke,  neuraini  shinrichi wano
+chioarkaye,  poknamoshir  chikooterke.
+Petetoko wa  pirka rera  pirka wakka
+chisanasanke,  chishkor hoshippa.
+Kamuicheputar  pirka rera  pirka wakka
+eyaitemka  wenminahau  wenshinothau
+pepunitara kor  hemeshpa shiri
+chopopatki.  Chinukar wa  chierameshinne
+petesoro  hoshippaash.  ari
+    Pon Okikirmui isoitak.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　iwan poknashir……六つの地獄．地の下には六段の世界があってそこには種々な悪魔が住んでいます．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　　小オキキリムイが自ら歌った謡
+　　　　　　「クツニサ　クトンクトン」
+
+クツニサ　クトンクトン
+ある日に水源の方へ遊びに
+出かけたら，水源に一人の小男が
+胡桃《くるみ》の木の簗《やな》をたてるため杭を打つのに
+腰を曲げ曲げしている．
+私を見ると，いう事には，
+「誰だ？　私の甥よ，私に手伝ってお呉れ．」
+という．見ると，胡桃の簗
+なものだから，胡桃の水，濁った水
+が流れて来て鮭どもが
+上って来ると胡桃の水が嫌なので
+泣きながら帰ってゆく．私は腹が立ったので
+小男の持っている杭を打つ槌を
+引ったくり小男の腰の央を
+私がたたく音がポンと響いた．小男の
+腰の央を折ってしまって殺してしまい
+地獄へ踏み落してやった．彼の胡桃の杭を
+揺り動かして見ると六つの地獄の
+彼方まで届いている様だ．
+それから，私は腰の力，からだ中の力を
+出して，その杭を根本から
+折ってしまい，地獄へ踏み落してしまった．
+水源から清い風，清い水が
+流れて来て，泣きながら帰って行った．
+鮭どもは清い風，清い水に
+気を恢復して，大さわぎ大笑いして遊び
+ながら，パチャパチャと
+上って来た．私はそれを見て，安心をし
+流れに沿うて帰って来た．と
+　　小さいオキキリムイが物語った．
+［＃改ページ］
+
+       Pon Okikirmui yaieyukar,
+         “Tanota hurehure”
+
+Tanota hurehure
+Shineantota  petturashi  shinotash kushu
+payeash awa,  pon nitnekamui  chikoekari.
+Neita kusu  pon nitnekamui  shirka wena
+nanka wena,  kunne kosonte  utomechiu
+neshko ponku  neshko ponai  ukoani,
+unnukar awa,  sanchaotta  mina kane
+ene itaki:――
+“Pon Okikirmui  shinotash ro!
+Keke hetak  chepshuttuye  chiki kushne na.”
+itak kane  neshko ponku  neshko ponai
+uweunu  petetok un  aieak awa,
+petetoko wa  neshko wakka  nupki wakka
+chisanasanke,  kamuicheputar  hemeshpa ko
+neshko wakka  kowen wa  chish turano
+orhetopo  mom wa paye,  pon nitnekamui
+newaanpe  sanchaotta  mina kane an.
+Shirki chiki  newaanpe  chirushka kushu,
+chikor shirokani ponku  shirokani ponai
+chiuweunu,  petetok un  akash awa,
+petetok wa  shirokani wakka  pirka wakka
+chisanasanke,  chishturano  mom wa paye
+kamuicheputar  pirka wakka  eyaitemka,
+wenshinothau  wenminahau  pepunitara
+hemeshpa shiri  chopopatki.
+Shirki chiki  pon nitnekamui  korwenpuri
+enantuika  eparsere:
+“Sonno hetap eiki chiki  yukshut tuye
+chiki kushne na.” itak kane,
+neshko ponku  neshko ponai  uweunu,
+kanto kotor  chotcha aike  kenashso kawa
+
+neshko rera  shupne rera  chisanasanke,
+kenashso kawa  apkatopa  shinnai kane
+momanpetopa  shinnai kane  rerapunpa,
+toop kanto orun  rikip shirikan  maknatara,
+pon nitnekamui  sancha otta emina kane an.
+Shirki chiki  wen kinra ne  unkohetari
+shirokani ponku  shirokani ponai
+chiuweunu  yuktopa oshi  akash awa
+kanto orowa  shirokani rera  pirka rera
+chiranaranke,  reraetoko  apkatopa
+shinnai kane  momanpetopa  shinnai kane
+kenashso ka  chiorapte.
+Shiriki awa  pon nitnekamui
+kor wenpuri  enantuika  eparsere,
+“Achikarata（１） sonnohetap
+eiki chiki  ukirornukar  aki kushne na.”
+itak kane  hokanachimip  yaikoare.
+Chiokai nakka  earkaparpe  chiyaikonoye,
+chikotetterke  unkotetterke.  Orowano
+upoknareash  ukannareash  ukoterkeash ko,
+ineapkushu  pon nitnekamui  okirashnu wa
+humashnankora.  Kipnekorka  hunakpaketa
+ikkeukiror  montumkiror
+chiyaikosanke,  pon nitnekamui
+shikautapkurka  chieshitaiki,
+kimun iwa  iwakurkashi  chiekik humi
+rimnatara.  Chioanraike  poknamoshir
+chikooterke,  humokake  chakkosanu.
+Taporowa  petesoro  hoshippaash ko
+pet otta  kamuicheputar  mina hawe
+shinot hawe  pepunitara kor  hemeshpa shiri
+chopopatki,  kenashso kata
+apkautar  momanpeutar  wenminahau
+wenshinothau ronroratki,
+taanta  toonta  ipeshirkonna
+moinatara.  Chinukar wa
+chieramushinne  chiunchisehe
+chikohoshipi.
+    ari pon Okikirmui isoitak.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　achikara……「きたない」．おかしい，生意気なという意味をふくむ．
+［＃ここから１字下げ］
+この物語は Okikirmui の父と pon nitnekamui の父とは，前に大層激しい戦争をしたことがあるので，この pon okikirmui と pon nitnekamui とは敵どうしになっています．その親たちの戦争した模様は別な物語に詳しく出ています．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　　小オキキリムイが自ら歌った謡
+　　　　　　　「この砂赤い赤い」
+
+〔この砂赤い赤い〕
+ある日に流れをさかのぼって遊びに
+出かけたら，悪魔の子に出会った．
+いつでも悪魔の子は様子が美しい
+顔が美しい．黒い衣を着けて
+胡桃《くるみ》の小弓に胡桃の小矢を持っていて
+私を見ると，ニコニコして
+いうことには，
+「小オキキリムイ，遊ぼう．
+さあこれから，魚の根を絶やして見せよう．」
+と言って，胡桃の小弓に胡桃の小矢を
+番《つが》え水源の方へ矢を射放すと，
+水源から胡桃の水，濁った水が
+流れ出し，鮭どもが上って来ると
+胡桃の水が厭なので泣きながら
+引き返して流れて行く．悪魔の子は
+それをニコニコしている．
+私はそれを見て腹が立ったので
+私の持っていた，銀の小弓に銀の小矢を
+番え水源へ矢を射はなすと
+水源から銀の水，清い水が
+流れ出し，泣きながら流れて行った
+鮭どもは清い水に元気を恢復し
+大笑いをして遊びさわいで
+パチャパチャ川を上って行った．
+すると，悪魔の子は，持前の癇癪《かんしゃく》を
+顔に表して，
+「本当にお前そんな事をするなら，鹿の根を
+絶やして見せよう．」と云って，
+胡桃の小弓に胡桃の小矢を番え
+大空を射ると，山の木原から
+胡桃の風，つむじ風が吹いて来て
+山の木原から，牡鹿の群は別に
+牝鹿の群はまた別に，風に吹き上げられ
+ずーっと天空へきれいにならんで上って行く．
+悪魔の子はニコニコしている．
+それを見た私はかっと癪にさわったので
+銀の小弓に銀の小矢を
+番えて，鹿の群のあとへ矢を射放すと，
+天上から，銀の風，清い風が
+吹き降り，牡鹿の群は
+別に，牝鹿の群はまた別に，
+山の木原の上へ吹き下された．
+すると，悪魔の子は
+持前の癇癪を顔に現し，
+「生意気な，本当に
+お前そんな事をするなら，力競べをやろう．」
+と云いながら上衣を脱いだ．
+私も薄衣一枚になって
+組み付いた．彼も私に組み付いた．それからは
+互に下にしたり上にしあったり相撲をとったが，
+大へんに悪魔の子が力のある事には
+驚いた．けれども，とうとう，ある時間に，
+私は腰の力，からだの力を
+みんな出して，悪魔の子を
+肩の上まで引っ担ぎ，
+山の岩の上へ彼を打ちつけた音が
+がんと響いた．殺してしまって地獄へ
+踏み落したあとはしんと静まり返った．
+それが済んで，私は流れに沿って帰って来ると，
+川の中では鮭どもが笑う声
+遊ぶ声がかまびすしくのぼって来るのが
+パチャパチャきこえる．山の木原では，
+牡鹿ども，牝鹿どもが笑う声
+遊ぶ声がそこら一ぱいになって
+そこにここに物を
+食べている．私はそれを見て
+安心をし，私の家へ
+帰って来た．
+　　と，小さいオキキリムイが物語った．
+［＃改ページ］
+
+           Esaman yaieyukar,
+        “Kappa reureu kappa”
+
+Kappa reureu kappa.
+Shineantota  petesoro  shinotash kor
+maash wa  sapash kiwa,  Samayunkur
+kor wakkataru  putuhu ta  sapash awa,
+Samayunkur  kot tureshi  kamui shiri ne
+oattekkor  niatush ani  oattekkor
+kinatantuka（１）  anpa kane  ek koran wakusu
+petparurketa  chisapaha patek  chietukka,
+“Ona ekora?
+Unu ekora?” itakash awa
+pon menoko  homaturuipe  shikkankari
+unnukar awa  kor wenpuri  enantui ka
+eparsere,
+“Toi sapakaptek,  wen sapakaptek,
+iokapushpa,（２） nimakitarautar,  cho cho......”
+ari, hawean awa  poro nimakitarautar（３）
+usawokuta,  unnukar awa  notsep humi
+taunatara.  Chiehomatu,  petasama
+chikorawoshma,  nani petasam peka
+kiraash wa sapash.
+Sapash aine  Okikirmui  kor wakkataru
+putuhu ta  chisapaha patek  chietukka,
+inkarash awa  Okikirmui  kot tureshi
+kamui shirine  oattekkor  niatush ani
+oattekkor  kinatantuka  anpa kane
+ek wakushu  itakash hawe  ene okai:――
+“Ona ekora?
+Unu ekora?” itakash awa
+ponmenoko  homaturuipe  shikkankari
+unnukar awa  kor wempuri  enantuikashi
+eparsere,
+“Toi sapakaptek  wen sapakaptek
+iokapushpa,  nimakitarautar,  cho cho......”
+itak awa  poro nimakitarautar  chisaokuta.
+Shirki chiki  eshiranpe  chieshikarun,
+chieminarushui kor  petasama  chikorawoshma
+kiraash kushu  ikichiash awa,
+sennekashui  nimakitarautar  ikichi kuni
+chiramuai  notsep humi  taunatara,
+petasam pakno  unkotetterke
+yaoro unekatta,  chisapaha chinetopake
+apukpuk  arishparishpa  ki aineno
+nekonaneya  chieramishkare.
+Hunakpaketa  yaishikarunash  inkarash awa,
+poro esaman  ashurpeututta  rokash kane
+okayash.
+Samayunkur ka  Okikirmui ka
+ona ka sak  unu ka sak ruwe  chieraman wa
+enean irara  chiki kushu  aunpanakte,
+Okikirmui kor  setautar orowa  aunraike,
+toi rai  wen rai  chiki  shiri tapan.
+Tewano okai  esamanutar  itekki irara yan.
+    ari esaman yaieyukar.
+
+［＃ここから改行天付き、折り返して１字下げ］
+（１）　kinatantuka……蒲の束．蒲は編んで筵の様な敷物にするのですが，よく乾いているのをそのまま編むといけませんから，少し湿してからつかいます．この話にあるのも，そのために女が川へ持って行くのでしょう．
+（２）　i-okapushpa．人は死んでしまった親や親類などの名を言ったり，その事をふだん話したりする事を i-okapushpa と言って大へん嫌います．また，人のかくしていた事をそばからほじり出して，みんなに言ったり，その人の聞きにくい様なその人の前の行為などを口に出したりする事をも i-okapushpa と言います．
+（３）　nimakitara……牙の剥き出している．これは犬の事．山のけものたちは，人が猟に行くと犬を連れて行きますが，その犬に歯をむき出してかかられるのが一ばん恐いので，犬にこんな名をつけて恐がっています．
+［＃ここで字下げ終わり］
+［＃改ページ］
+
+　　　　　　　　獺《かわうそ》が自ら歌った謡
+　　　　　　「カッパ　レウレウ　カッパ」
+
+カッパ　レウレウ　カッパ
+ある日に，流れに沿うて遊びながら
+泳いで下りサマユンクルの
+水汲路のところに来ると，
+サマユンクルの妹が神の様な美しい容子で
+片手に手桶を持ち片手に
+蒲の束を持って来ているので
+川の縁に私は頭だけ出し，
+「お父様をお持ちですか？
+お母様をお持ちですか？」と云うと，
+娘さんは驚いて眼をきょろきょろさせ
+私を見つけると，怒の色を顔に
+現して，
+「まあ，にくらしい扁平頭，悪い扁平頭が
+人をばかにして．犬たちよ，ココ……」
+と言うと，大きな犬どもが
+駈け出して来て，私を見ると牙を鳴ら
+している．私はビックリして川の底へ
+潜り込んで直ぐそのまま川底を通って
+逃げ下った．
+そうして，オキキリムイの水汲路の
+川口へ頭だけだして
+見ると，オキキリムイの妹が
+神の様に美しい様子で片手に手桶を持ち
+片手に蒲の束を持って
+来たので私のいうことには，
+「御父様をお持ちですか？
+御母様をお持ちですか？」というと，
+娘さんは驚いて眼をきょろきょろさせ
+私を見ると，怒りの色を顔に
+表して，
+「まあ，にくらしい扁平頭，悪い扁平頭が
+人をばかにして．犬たちよ，ココ……」
+と言うと大きな犬どもが駈け出して来た．
+それを見て私は先刻の事を思い出し
+可笑しく思いながら川の底へ
+潜りこんで逃げようとしたら，
+まさか犬たちがそんな事をしようとは
+思わなかったのに，牙を鳴らしながら
+川の底まで私に飛び付き
+陸へ私を引き摺り上げ，私の頭も私の体も
+噛みつかれ噛みむしられて，しまいに
+どうなったかわからなくなってしまった．
+ふと気が付いて見ると，
+大きな獺の耳と耳の間に私はすわって
+いた．
+サマユンクルもオキキリムイも
+父もなく母もないのを私は知って
+あんな悪戯をしたので罰を当てられ
+オキキリムイの犬どもに殺され
+つまらない死方，悪い死方をするのです．
+これからの獺たちよ，決して悪戯をしなさるな．
+　　と，獺が物語った．
+［＃改ページ］
+
+  Pipa yaieyukar,“Tonupeka ranran”
+
+Tonupeka ranran
+Satshikush an wa  ottaokayashi ka
+sat wa okere,  tane anakne  raiash kushki.
+“Nenkatausa  wakka unkure
+untemka okai!  Wakkapo!” ohai  chiraikotenke,
+okayash awa,  too hosashi  shine menoko
+saranip se kane  arki kor okai.
+Chishash kor  okayash awa  unsama kush
+unnukar awa,
+“Toi pipa  wen pipa,  neptap  chishkar hawe
+iramshitnere  okaipe neya?” itak kane
+unotetterke  unureetursere  unseikoyaku,
+toop ekimun  paye wa isam.
+“Ayapo, oyoyo!  Wakkapo!” ohai chiraikotenke
+okayash awa,  too hosashi shui  shine menoko
+saranip se kane  arki kor okai.
+“Nenkatausa  wakka unkure  untemka okai!
+Ayapo, oyoyo!  Wakkapo!” ohai  chiraikotenke,
+okayash awa  pon menoko  kamui shirine
+unsamta arki  unnukat chiki,
+“Inunukashki  shirsesek wa  pipautar
+sotkihi ka  satwa okere,  wakkaewen hawe
+neshun okaine,  nekonanep  okai ruwe tan,
+aotetterke  apkor okai.” itak kane
+unopitta  unumomare,  korham oro
+unomare,  pirka to oro  unomare.
+Pirka namwakka  chieyaitemka,
+shino tumashnuash.  Otta eashir
+nea menokutar  shinrichihi  chihunara
+inkarash awa,  hoshkino ek  unureeyaku
+shirun menoko  wen menoko anak  Samayunkur
+kottureshi newa,  unerampokiwen
+unshiknure  pon menoko  kamui moiremat anak
+Okikirmui  kottureshi  ne awan.
+Samayunkur  kottureshi  chiepokpa kushu
+kor amamtoi  chishumka wa,  Okikirmui
+kottureshi  kor amamtoi  chipirkare.
+Ne paha ta  Okikirmui  kottureshi  shino harukar.
+chirenkaine  ene shirkii  eraman wa,
+pipakap ari  amampush tuye.
+Orowano  keshpaanko  ainu menokutar
+amampush tuye ko  pipakap eiwanke ruwe ne.
+    ari shine pipa yaieyukar.
+［＃改ページ］
+
+　　沼貝が自ら歌った謡「トヌペカ　ランラン」
+
+トヌペカ　ランラン
+強烈な日光に私の居る所も
+乾いてしまって今にも私は死にそうです．
+「誰か，水を飲ませて下すって
+助けて下さればいい．水よ水よ」と私たちが泣き叫んで
+いますと，ずーっと浜の方から一人の女が
+籠を背負って来ています．
+私たちは泣いていますと，私たちの傍を通り
+私たちを見ると，
+「おかしな沼貝，悪い沼貝，何を泣いて
+うるさい事さわいでいるのだろう．」と言って
+私たちを踏みつけ，足先にかけ飛ばし，貝殻と共につぶして
+ずーっと山へ行ってしまいました．
+「おお痛，苦しい，水よ水よ．」と泣き叫んで
+いると，ずっと浜の方からまた一人の女が
+籠を背負って来ています．私たちは
+「誰か私たちに水を飲ませて助けて下さるといい，
+おお痛，おお苦しい，水よ水よ．」と叫び泣きました
+すると，娘さんは，神の様な美しい気高い様子で
+私の側へ来て私たちを見ると，
+「まあかわいそうに，大へん暑くて沼貝たちの
+寝床も乾いてしまって水を欲しがって
+いるのだね，どうしたのでしょう
+何だか踏みつけられでもした様だが……」と言いつつ
+私たちみんなを拾い集めて蕗の葉に
+入れて，きれいな湖に入れてくれました．
+清い冷水でスッカリ元気を恢復し
+大へん丈夫になりました．そこで始めて
+かの女たちの気性を探って
+見ると，先に来て，私を踏みつぶした
+にくらしい女，わるい女はサマユンクルの
+妹で，私たちを憫み
+助けて下さった若い娘さん淑《しと》やかな方
+は，オキキリムイの妹なのでありました．
+サマユンクルの妹は悪《にく》らしいので
+その粟畑を枯らしてしまい，オキキリムイの
+妹のその粟畑をばよく実らせました．
+その年に，オキキリムイの妹は大そう多く収穫をしました．
+私の故為《せい》でそうなった事を知って
+沼貝の殻で粟の穂を摘みました．
+それから，毎年，人間の女たちは
+栗の穂を摘む時は沼貝の殻を使う様になったのです．
+　　と，一つの沼貝が物語りました．
+
+
+
+底本：「アイヌ神謡集」岩波文庫、岩波書店
+　　　1978（昭和53）年8月16日第1刷発行
+　　　2004（平成16）年2月5日第35刷発行
+底本の親本：「アイヌ神謡集」郷土研究社
+　　　1923（大正12）年8月10日発行
+※底本は横組みで、見開き左のページにローマ字文が、右のページに漢字仮名混じり文が、対訳の形で配置されています。このファイルでは謡ごとに、ローマ字文、脚注、漢字仮名混じり文の順序で編成しました。
+※謡の改行位置は原則として底本に合せました。なお、底本で字下げを行っている行は前の行に続け、左右のページの行合せのために挿入された空白行は詰めましたが、謡の末尾など一部は底本通り改行、字下げしています。
+※ローマ字文で語間隔が広めの箇所は半角空白２文字で表しました。
+※文中の脚注番号を（数字）で表しました。
+※〔〕は底本の編集時に補われた箇所を表します。
+入力：土屋隆
+校正：鈴木厚司
+2008年1月25日作成
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
