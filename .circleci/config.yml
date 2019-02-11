@@ -57,6 +57,8 @@ jobs:
             git config --global user.name $CIRCLE_USERNAME
             git add --all cards
             git commit -m 'update texts'
+            CURDATE=`date "+%Y%m%d"`
+            git tag "v${CURDATE}"
             git push origin master
 
       # collect reports
@@ -68,6 +70,16 @@ jobs:
 
 workflows:
   version: 2
+  github-commit:
+    jobs:
+      - build
+          filters:
+            tags:
+              ignore: /^v.*/
+            branches:
+              only:
+                - master
+
   nightly:
     triggers:
       - schedule:
