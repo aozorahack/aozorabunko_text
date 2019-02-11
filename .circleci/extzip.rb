@@ -7,7 +7,7 @@ Dir.glob("aozora_zip/cards/**/*.zip") do |d|
     Zip::File.open(zipfile) do |zip|
       entry = zip.glob('*.txt').first
       if entry
-        txtdir = File.basename(zipfile)
+        txtdir = File.basename(zipfile, ".*")
         FileUtils.mkdir_p(txtdir)
         entry.extract(txtdir+".txt")
       end
