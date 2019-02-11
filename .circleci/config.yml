@@ -1,0 +1,65 @@
+# Ruby CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-ruby/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      - image: circleci/ruby:2.4.1-node-browsers
+
+      # Specify service dependencies here if necessary
+      # CircleCI maintains a library of pre-built images
+      # documented at https://circleci.com/docs/2.0/circleci-images/
+      # - image: circleci/postgres:9.4
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "Gemfile.lock" }}
+            # fallback to using the latest cache if no exact match is found
+            - v1-dependencies-
+
+      - run:
+          name: install dependencies
+          command: |
+            bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+          key: v1-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: checkout aozorabuno.git
+          command: git clone --depth 1 https://github.com/aozorabunko/aozorabunko.git
+
+      - run:
+          name: copy only zip files
+          command: rsync -av  --include="*/" --include="*.zip" --exclude="*" aozorabunko/ aozora_zip/
+
+      - run:
+          name: run extzip
+          command: |
+            bundle exec ruby .circleci/extzip.rb
+            rsync -av  --include="*/" --include="*.txt" --exclude="*" aozora_zip/cards cards
+
+      - run:
+          name: commit and push
+          command: |
+            git add --all cards
+            git commit -m 'update texts'
+            git push origin master
+
+      # collect reports
+#      - store_test_results:
+#          path: /tmp/test-results
+#      - store_artifacts:
+#          path: /tmp/test-results
+#          destination: test-results
