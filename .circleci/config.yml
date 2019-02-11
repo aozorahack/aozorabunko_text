@@ -48,7 +48,7 @@ jobs:
           name: run extzip
           command: |
             bundle exec ruby .circleci/extzip.rb
-            cd aozora_zip && cp --parents cards/*/*/*.zip ..
+            cd aozora_zip && cp --parents cards/*/*/*/*.txt ..
 
       - run:
           name: commit and push
@@ -65,3 +65,17 @@ jobs:
 #      - store_artifacts:
 #          path: /tmp/test-results
 #          destination: test-results
+
+workflows:
+  version: 2
+   nightly:
+     triggers:
+       - schedule:
+           cron: "0 7 * * *"
+           filters:
+             branches:
+               only:
+                 - master
+     jobs:
+       - build
+
