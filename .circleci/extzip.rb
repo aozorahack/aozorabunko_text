@@ -1,4 +1,5 @@
 require 'zip'
+require 'fileutils'
 Dir.glob("aozora_zip/cards/**/*.zip") do |d|
   dir = File.dirname(d)
   zipfile = File.basename(d)
@@ -7,7 +8,7 @@ Dir.glob("aozora_zip/cards/**/*.zip") do |d|
       entry = zip.glob('*.txt').first
       if entry
         txtdir = File.basename(zipfile)
-        Dir.mkdir(txtdir)
+        FileUtils.mkdir_p(txtdir)
         entry.extract(txtdir+".txt")
       end
     end
