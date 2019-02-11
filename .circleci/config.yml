@@ -53,6 +53,8 @@ jobs:
       - run:
           name: commit and push
           command: |
+            git config --global user.email $USER_EMAIL
+            git config --global user.name $CIRCLE_USERNAME
             git add --all cards
             git commit -m 'update texts'
             git push origin master
