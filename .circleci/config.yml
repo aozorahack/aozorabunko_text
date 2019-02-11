@@ -42,7 +42,7 @@ jobs:
 
       - run:
           name: copy only zip files
-          command: cd aozorabunko && cp --parents cards/*/*/*.zip  ../aozora_zip/
+          command: mkdir aozora_zip && cd aozorabunko && cp --parents cards/*/*/*.zip  ../aozora_zip/
 
       - run:
           name: run extzip
