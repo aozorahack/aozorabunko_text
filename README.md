@@ -4,6 +4,19 @@
 
 個別にzipコマンドで展開したりせずにすべてのテキストが読めます。
 
+## ダウンロード
+
+[Download ZIP](https://github.com/takahashim/aozorabunko_text/archive/master.zip)
+
+zip形式のファイルで欲しい場合、上記からダウンロードできます。
+なお、テキストファイルは全てcardsディレクトリ内にあります。それ以外は無視してください。
+
+gitレポジトリの取得については、ふつうのgithub repoなので git pullで持ってきてもらえばいいのですが、履歴不要で最新版だけ欲しい場合は以下のコマンドの方が早いはずです。
+
+```console
+$ git clone --depth 1 https://github.com/takahashim/aozorabunko_text.git
+```
+
 ## 動作のしくみ
 
 https://github.com/aozorabunko/aozorabunko の中身を取得して、cardsディレクトリ内にあるzipファイルの中からtxtファイルを取り出して、同様の階層のディレクトリ内に保存しています。
@@ -12,19 +25,8 @@ https://github.com/aozorabunko/aozorabunko の中身を取得して、cardsデ�
 
 なお、zip内のテキストファイルはタイトルに合わせたファイル名が命名されているのですが、このレポジトリではzipファイル名に合わせたファイル名にしています。
 例えば、`cards/000005/files/53194_ruby_44732.zip`内のテキストなら`cards/000005/files/53194_ruby_44732/53194_ruby_44732.txt`というパスになります。
-これは元のテキストファイル名は「作家別作品一覧CSV」などにも書かれておらず、確認するにはzipファイルの中身を見ないといけないためです。
 
-## 最新版の取得方法
-
-ふつうのgithub repoなので、git pullで持ってきてもらえばいいのですが、履歴不要で最新版だけ欲しい場合は以下のコマンドの方が早いはずです。
-
-```console
-$ git clone --depth 1 https://github.com/takahashim/aozorabunko_text.git
-```
-
-zipで欲しい場合には、緑色の「Clone or download」ボタンから「Download ZIP」でダウンロードできます。
-
-なお、cardsディレクトリ以外は無視してください。
+異なるファイル名にしているのは、元のテキストファイル名は「作家別作品一覧CSV」などにも書かれておらず、確認するにはzipファイルの中身を見ないといけないためです。
 
 ## 権利関係
 
