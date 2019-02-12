@@ -6,7 +6,7 @@
 
 ## ダウンロード
 
-[Download ZIP](https://github.com/takahashim/aozorabunko_text/archive/master.zip)
+[Download ZIP](https://github.com/takahashim/aozorabunko_text/archive/master.zip) (200MB以上)
 
 zip形式のファイルで欲しい場合、上記からダウンロードできます。
 なお、テキストファイルは全てcardsディレクトリ内にあります。それ以外は無視してください。
