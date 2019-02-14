@@ -56,8 +56,8 @@ jobs:
             git config --global user.email $USER_EMAIL
             git config --global user.name $CIRCLE_USERNAME
             git add --all cards
-            git commit -m '[ci skip] update texts'
             CURDATE=`date "+%Y%m%d"`
+            git commit -m "[ci skip] update texts ${CURDATE}"
             git tag "v${CURDATE}"
             git push origin master
 
