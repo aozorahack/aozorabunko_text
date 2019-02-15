@@ -6,7 +6,7 @@
 
 ## ダウンロード
 
-[Download ZIP](https://github.com/takahashim/aozorabunko_text/archive/master.zip) (200MB以上)
+[Download ZIP](https://github.com/aozorahack/aozorabunko_text/archive/master.zip) (200MB以上)
 
 zip形式のファイルで欲しい場合、上記からダウンロードできます。
 なお、テキストファイルは全てcardsディレクトリ内にあります。それ以外は無視してください。
@@ -14,7 +14,7 @@ zip形式のファイルで欲しい場合、上記からダウンロードで�
 gitレポジトリの取得については、ふつうのgithub repoなので git pullで持ってきてもらえばいいのですが、履歴不要で最新版だけ欲しい場合は以下のコマンドの方が早いはずです。
 
 ```console
-$ git clone --depth 1 https://github.com/takahashim/aozorabunko_text.git
+$ git clone --depth 1 https://github.com/aozorahack/aozorabunko_text.git
 ```
 
 ## 動作のしくみ
