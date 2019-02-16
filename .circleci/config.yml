@@ -54,7 +54,7 @@ jobs:
           name: git config
           command: |
             git config --global user.email $USER_EMAIL
-            git config --global user.name $CIRCLE_USERNAME
+            git config --global user.name  $CIRCLE_USERNAME
 
       - run:
           name: git commit
@@ -66,7 +66,6 @@ jobs:
       - run:
           name: git push
           command: |
-            git tag "v${CURDATE}"
             git push origin master
 
       # collect reports
