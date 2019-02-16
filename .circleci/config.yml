@@ -51,13 +51,21 @@ jobs:
             cd aozora_zip && cp --parents cards/*/*/*/*.txt ..
 
       - run:
-          name: commit and push
+          name: git config
           command: |
             git config --global user.email $USER_EMAIL
             git config --global user.name $CIRCLE_USERNAME
+
+      - run:
+          name: git commit
+          command: |
             git add --all cards
             CURDATE=`date "+%Y%m%d"`
             git commit -m "[ci skip] update texts ${CURDATE}"
+
+      - run:
+          name: git push
+          command: |
             git tag "v${CURDATE}"
             git push origin master
 
