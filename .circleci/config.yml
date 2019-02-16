@@ -9,11 +9,6 @@ jobs:
       # specify the version you desire here
       - image: circleci/ruby:2.6.1
 
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/postgres:9.4
-
     working_directory: ~/repo
 
     steps:
@@ -67,13 +62,6 @@ jobs:
           name: git push
           command: |
             git push origin master
-
-      # collect reports
-#      - store_test_results:
-#          path: /tmp/test-results
-#      - store_artifacts:
-#          path: /tmp/test-results
-#          destination: test-results
 
 workflows:
   version: 2
