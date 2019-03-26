@@ -1426,7 +1426,7 @@ https://www.aozora.gr.jp/accent_separation.html
 (35) Ferdinandus, I.e., p. 261.
 (36) Baglivi, Z.c., p. 361.
 (37) See I.e., pp. 366-373.
-(38) A German translation of the letter was published in ［＃斜体］Hamburgisches Magazin, oder gesammelte Schriften, Aus der Naturforschung und den angenehmen Wissenschaften &uuml;berhaupt［＃斜体終わり］, Des dreyzehnten Bandes erstes St&uuml;ck, pp. 3-8, Hamburg and Leipzig, 1754.
+(38) A German translation of the letter was published in ［＃斜体］Hamburgisches Magazin, oder gesammelte Schriften, Aus der Naturforschung und den angenehmen Wissenschaften 〔u:berhaupt〕［＃斜体終わり］, Des dreyzehnten Bandes erstes 〔Stu:ck〕, pp. 3-8, Hamburg and Leipzig, 1754.
 (39) L.c., p. 254.
 (40) L.c., p. 266: cum enim nos semper grecissenms, nam haec nostra Regio dicebatur Magna Graecia, in qua olim Pythagoras et Archytas, praestantissimi Graecorum, summa ac admirabili auditorum frequentia docuerunt.
 ［＃ここで字下げ終わり］
@@ -1560,7 +1560,7 @@ https://www.aozora.gr.jp/accent_separation.html
 カルダノ（Geronimo Cardano、1501-76）
 ガレノス（Claudius Galen, 130?-200?）
 キュベレ（Cybele、大地の女神）
-キュレル（Fran&ccedil;ois de Curel、1854-1928）
+キュレル（〔Franc,ois〕 de Curel、1854-1928）
 キルヒャー（Athanasius Kircher、1602‐80、ドイツの万能学者）
 キーツ（John Keats、1795-1821）
 クインビー（Phineas Parkhurst Quimby、1802-1866）
@@ -1688,7 +1688,7 @@ https://www.aozora.gr.jp/accent_separation.html
 フランク（Johann Peter Frank、1745-1821）
 プリチャード（James Cowles Prichard、1786-184）
 ブリッテン（Rollo H. Britten）
-ブリュー（Eug&egrave;ne Brieux、1858-1932）
+ブリュー（〔Euge`ne〕 Brieux、1858-1932）
 プリンツホルン（Hans Prinzhorn、1886-1933）
 フリードリッヒ・エンゲルス（Frederick Engels、1820-95）
 ブルジェ（Paul Bourget、1852-1935）
@@ -2059,6 +2059,6 @@ https://www.aozora.gr.jp/accent_separation.html
 　　　2019（平成31）年3月13日青空文庫版公開
 ※本作品は「クリエイティブ・コモンズ 表示 2.1 日本 ライセンス」（http://creativecommons.org/licenses/by/2.1/jp/）の下に提供されています。
 翻訳者：水上茂樹
-2019年3月13日作成
+2019年3月25日作成
 青空文庫収録ファイル：
 このファイルは、著作権者自らの意思により、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）に収録されています。
