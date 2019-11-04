@@ -30,7 +30,7 @@ The Creative CAT 訳
 ［＃改ページ］
 
 ［＃大見出し］翻訳について［＃大見出し終わり］
-　底本はО．Дагさんのオーウェル関連サイト（http://orwell.ru/library/articles/poetry/english/e_poetry）</a>で、アデライーデ（https://ebooks.adelaide.edu.au/o/orwell/george/o79e/part19.html）と Fadedpage（https://www.fadedpage.com/books/20180223/html.php）を補助的に参照しました。この翻訳にあたっては、H.Tsubota さんの「【日本語訳】ジョージ・オーウェル評論集」（http://blog.livedoor.jp/blackcode/archives/Orwell-essays.html）を参考にいたしました。
+　底本はО．Дагさんのオーウェル関連サイト（http://orwell.ru/library/articles/poetry/english/e_poetry）で、アデライーデ（https://ebooks.adelaide.edu.au/o/orwell/george/o79e/part19.html）と Fadedpage（https://www.fadedpage.com/books/20180223/html.php）を補助的に参照しました。この翻訳にあたっては、H.Tsubota さんの「【日本語訳】ジョージ・オーウェル評論集」（http://blog.livedoor.jp/blackcode/archives/Orwell-essays.html）を参考にいたしました。
 　この訳文は他の拙訳同様 Creative Commons CC-BY 3.0 の下で公開します。なし崩し的に著作権保護期間の延長が決定した現状で、ほとんど自由に使える訳文を投げることには多少の意味があるでしょう。
 　マスメディアが容易に権力の再生産装置になってしまう事情はオーウェルが唾棄していた当時のままで、今ではSNSも参戦して混迷を深めています。一方、青空文庫を始めとするフリー（ないしそれに準じた）コンテンツが朗読に広く用いられ、愛聴されるようになるとは、当時のテクノロジーでは想像もつかなかったでしょう。ネットベースの「小さなラジオ」の今後に注目したいところです。
 　登場する固有名詞：Eliot, Herbert Read, Auden, Spender, Dylan Thomas, Henry Treece, Alex Comfort, Robert Bridges, Edmund Blunden, D. H. Lawrence, Edmund Blunden, Auden's "September 1941", G. S. Fraser ("A Letter to Anne Ridler"), Byron's "sles of Greece", T. E. Lawrence's "Revolt in the desert", Arnold Bennett,  T. S. Eliot, "Sweeney Agonistes", A. P. Herbert, Ian Hay, Professor Joad, Doctor Goebbels。
@@ -58,5 +58,6 @@ This is a Japanese translation of "Poetry and the Microphone" by George Orwell.
 ※元のファイルは、http://www.asahi-net.or.jp/~YZ8H-TD/misc/PoetryAndMicJ.html にあります。
 翻訳：The Creative CAT
 2019年3月12日作成
+2019年11月3日修正
 青空文庫収録ファイル：
 このファイルは、著作権者自らの意思により、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）に収録されています。
