@@ -11,7 +11,7 @@
 （例）窓｜硝子《ガラス》
 
 ［＃］：入力者注　主に外字の説明や、傍点の位置の指定
-（例）［＃横組み］
+（例）［＃横組み］“Historja Naturalna Lodu”［＃横組み終わり］
 -------------------------------------------------------
 
 　国際雪氷委員会（International Commission of Snow and Ice）は、ごく最近まで国際雪及び氷河委員会（International Commission on Snow and Glaciers）という名前で、国際水文学協会（International Association of Hydrology）の一部となっていた。
@@ -57,6 +57,6 @@
 　　　1950（昭和25）年7月10日刊
 入力：kompass
 校正：岡村和彦
-2017年1月20日作成
+2017年1月12日作成
 青空文庫作成ファイル：
 このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
