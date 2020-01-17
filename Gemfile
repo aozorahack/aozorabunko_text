@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-gem "rubyzip", "~> 1.2.2"
+gem "rubyzip", "~> 1.3.0"
