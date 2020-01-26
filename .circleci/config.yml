@@ -48,7 +48,7 @@ jobs:
       - run:
           name: git config
           command: |
-            git config --global user.email $USER_EMAIL
+            git config --global user.email "takahashim@users.noreply.github.com"
             git config --global user.name  $CIRCLE_USERNAME
 
       - run:
