@@ -18,6 +18,9 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.6.x
+    - name: checkout aozorabuno.git
+      run: |
+        git clone --depth 1 https://github.com/aozorabunko/aozorabunko.git
     - name: copy only zip files
       run: |
         mkdir aozora_zip
@@ -27,7 +30,7 @@ jobs:
       run: |
         gem install bundler
         bundle install --jobs 4 --retry 3
-        bundle exec ruby .circleci/extzip.rb
+        bundle exec ruby .github/workflows/extzip.rb
         cd aozora_zip && cp --parents cards/*/*/*/*.txt ..
     - name: git config && commit
       run: |
