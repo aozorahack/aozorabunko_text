@@ -1,0 +1,43 @@
+name: Ruby
+
+on:
+  schedule:
+    - cron:  '0 10 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'ci skip')"
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: checkout aozorabuno.git
+      run: |
+        git clone --depth 1 https://github.com/aozorabunko/aozorabunko.git
+    - name: copy only zip files
+      run: |
+        mkdir aozora_zip
+        cd aozorabunko
+        cp --parents cards/*/*/*.zip  ../aozora_zip/
+    - name: Build and exec extzip.rb
+      run: |
+        gem install bundler
+        bundle install --jobs 4 --retry 3
+        bundle exec ruby .github/workflows/extzip.rb
+        cd aozora_zip && cp --parents cards/*/*/*/*.txt ..
+    - name: git config && commit
+      run: |
+        git config --global user.email "takahashim@users.noreply.github.com"
+        git config --global user.name "github-actions-bot"
+        git add --all cards
+        CURDATE=`date "+%Y%m%d"`
+        git commit -m "[ci skip] update texts ${CURDATE}"
+    - name: push
+      run: |
+        git remote set-url origin https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git
+        git push origin HEAD:master
