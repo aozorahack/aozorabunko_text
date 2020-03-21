@@ -1,8 +1,8 @@
-name: Ruby
+name: Update works
 
 on:
   schedule:
-    - cron:  '0 4 * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
   build:
